@@ -1,0 +1,27 @@
+{
+  "name": "exp14_pca96_svm",
+  "feature_count": 805,
+  "config": {
+    "family": "svm",
+    "C": 10,
+    "gamma": "scale",
+    "pca": 96,
+    "whiten": false
+  },
+  "validation": {
+    "n": 226,
+    "exact": 0.03982300884955752,
+    "within_one": 0.4026548672566372,
+    "within_two": 0.6194690265486725,
+    "mean_distance_cells": 3.530790621906955,
+    "median_distance_cells": 2.23606797749979,
+    "far_half_screen": 0.10176991150442478,
+    "far_third_screen": 0.14601769911504425,
+    "side_x": 0.8141592920353983,
+    "side_y": 0.9070796460176991,
+    "edge_exact": 0.07142857142857142,
+    "unique_predicted_cells": 101,
+    "score": 0.6059510604524897
+  },
+  "extra": {}
+}

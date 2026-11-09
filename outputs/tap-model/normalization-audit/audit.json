@@ -1,0 +1,70 @@
+{
+  "audio_used": false,
+  "feature_counts": {
+    "motion": 652,
+    "light": 153
+  },
+  "checks": {
+    "evaluation_motion_0": {
+      "samples": 519,
+      "max_abs_mean": 2.828463218297052e-12,
+      "max_std_error": 3.3306690738754696e-15
+    },
+    "evaluation_motion_1": {
+      "samples": 519,
+      "max_abs_mean": 2.828463218297052e-12,
+      "max_std_error": 3.3306690738754696e-15
+    },
+    "evaluation_light_0": {
+      "samples": 519,
+      "max_abs_mean": 9.637976565411643e-16,
+      "max_std_error": 1.5543122344752192e-15
+    },
+    "evaluation_light_1": {
+      "samples": 519,
+      "max_abs_mean": 9.637976565411643e-16,
+      "max_std_error": 1.5543122344752192e-15
+    },
+    "final_motion_0": {
+      "samples": 779,
+      "max_abs_mean": 9.779700940099661e-13,
+      "max_std_error": 9.325873406851315e-15
+    },
+    "final_motion_1": {
+      "samples": 779,
+      "max_abs_mean": 9.779700940099661e-13,
+      "max_std_error": 9.325873406851315e-15
+    },
+    "final_light_0": {
+      "samples": 779,
+      "max_abs_mean": 8.94342366531324e-16,
+      "max_std_error": 1.7763568394002505e-15
+    },
+    "final_light_1": {
+      "samples": 779,
+      "max_abs_mean": 8.94342366531324e-16,
+      "max_std_error": 1.7763568394002505e-15
+    }
+  },
+  "constant_features": {
+    "motion": 0,
+    "light": 0
+  },
+  "outliers": {
+    "motion": {
+      "train_max_abs_z": 12.369069954118967,
+      "train_fraction_abs_z_above_8": 0.00014775937681005236,
+      "test_max_abs_z": 11.381851741534783,
+      "test_fraction_abs_z_above_8": 0.00024185936762623878,
+      "manual_train_max_abs_z": 12.369069954118967
+    },
+    "light": {
+      "train_max_abs_z": 22.754589742484793,
+      "train_fraction_abs_z_above_8": 0.003072776959210145,
+      "test_max_abs_z": 165.95300761736783,
+      "test_fraction_abs_z_above_8": 0.004097536450477627,
+      "manual_train_max_abs_z": 10.23291449016841
+    }
+  },
+  "conclusion": "Saved StandardScaler instances are fitted on correct training subsets. All nonconstant training features have mean~0,std~1. No NaN/Inf. Scaling is unweighted although classifier downweights manual labels; robust/weighted variants will be compared without touching test for selection."
+}

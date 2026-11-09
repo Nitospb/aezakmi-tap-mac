@@ -1,0 +1,25 @@
+{
+  "name": "exp12_svm",
+  "feature_count": 1024,
+  "config": {
+    "family": "svm",
+    "C": 3,
+    "gamma": "scale"
+  },
+  "validation": {
+    "n": 226,
+    "exact": 0.04424778761061947,
+    "within_one": 0.3008849557522124,
+    "within_two": 0.5221238938053098,
+    "mean_distance_cells": 3.993078692169006,
+    "median_distance_cells": 2.8284271247461903,
+    "far_half_screen": 0.10619469026548672,
+    "far_third_screen": 0.19911504424778761,
+    "side_x": 0.7920353982300885,
+    "side_y": 0.9247787610619469,
+    "edge_exact": 0.10714285714285714,
+    "unique_predicted_cells": 95,
+    "score": 0.4890994658725612
+  },
+  "extra": {}
+}

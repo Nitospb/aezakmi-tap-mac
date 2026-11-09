@@ -1,0 +1,27 @@
+{
+  "name": "exp25_edge1p5",
+  "feature_count": 652,
+  "config": {
+    "family": "trees",
+    "n_estimators": 300,
+    "min_samples_leaf": 2,
+    "max_features": 0.6,
+    "edge_weight": 1.5
+  },
+  "validation": {
+    "n": 226,
+    "exact": 0.11061946902654868,
+    "within_one": 0.48672566371681414,
+    "within_two": 0.6858407079646017,
+    "mean_distance_cells": 3.1372291424030143,
+    "median_distance_cells": 2.0,
+    "far_half_screen": 0.084070796460177,
+    "far_third_screen": 0.13716814159292035,
+    "side_x": 0.827433628318584,
+    "side_y": 0.911504424778761,
+    "edge_exact": 0.19642857142857142,
+    "unique_predicted_cells": 121,
+    "score": 0.9303732545261856
+  },
+  "extra": {}
+}

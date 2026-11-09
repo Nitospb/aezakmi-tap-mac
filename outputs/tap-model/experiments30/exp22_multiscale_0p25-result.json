@@ -1,0 +1,35 @@
+{
+  "name": "exp22_multiscale_0p25",
+  "feature_count": 805,
+  "config": {
+    "family": "custom_multiscale_trees",
+    "n_estimators": 350,
+    "min_samples_leaf": 2,
+    "max_features": 0.6,
+    "coarse_weight": 0.25,
+    "manual": true,
+    "n_jobs": 1
+  },
+  "validation": {
+    "n": 226,
+    "exact": 0.09734513274336283,
+    "within_one": 0.5309734513274337,
+    "within_two": 0.7787610619469026,
+    "mean_distance_cells": 2.5889693665587163,
+    "median_distance_cells": 1.4142135623730951,
+    "far_half_screen": 0.05309734513274336,
+    "far_third_screen": 0.08849557522123894,
+    "side_x": 0.8761061946902655,
+    "side_y": 0.911504424778761,
+    "edge_exact": 0.14285714285714285,
+    "unique_predicted_cells": 120,
+    "score": 0.9762103911113017
+  },
+  "extra": {
+    "features": "M+F",
+    "decoder": "argmax over 260 joint cell scores",
+    "joint_layout": "row-major: id=row*20+column",
+    "fusion": "log px + log py + alpha*(log quadrant + log region)",
+    "boundaries": "floor((cell+.5)/screen_extent*bins)"
+  }
+}

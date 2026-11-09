@@ -1,0 +1,31 @@
+{
+  "name": "exp26_axis_tree",
+  "feature_count": 772,
+  "config": {
+    "family": "trees",
+    "m_k": 80
+  },
+  "validation": {
+    "n": 226,
+    "exact": 0.08849557522123894,
+    "within_one": 0.46017699115044247,
+    "within_two": 0.6858407079646017,
+    "mean_distance_cells": 2.976285923396478,
+    "median_distance_cells": 2.0,
+    "far_half_screen": 0.06637168141592921,
+    "far_third_screen": 0.11504424778761062,
+    "side_x": 0.8451327433628318,
+    "side_y": 0.9380530973451328,
+    "edge_exact": 0.14285714285714285,
+    "unique_predicted_cells": 124,
+    "score": 0.8471780205761198
+  },
+  "extra": {
+    "axis_physical_features": [
+      56,
+      64
+    ],
+    "shared_selected_per_axis": 80,
+    "deployment": "get_features, fit_models, predict_probabilities"
+  }
+}

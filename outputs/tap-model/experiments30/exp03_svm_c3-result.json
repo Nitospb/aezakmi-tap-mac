@@ -1,0 +1,24 @@
+{
+  "name": "exp03_svm_c3",
+  "feature_count": 2537,
+  "config": {
+    "family": "svm",
+    "C": 3.0
+  },
+  "validation": {
+    "n": 226,
+    "exact": 0.02654867256637168,
+    "within_one": 0.2920353982300885,
+    "within_two": 0.5132743362831859,
+    "mean_distance_cells": 3.775327694311054,
+    "median_distance_cells": 2.8284271247461903,
+    "far_half_screen": 0.07079646017699115,
+    "far_third_screen": 0.16371681415929204,
+    "side_x": 0.8451327433628318,
+    "side_y": 0.911504424778761,
+    "edge_exact": 0.05357142857142857,
+    "unique_predicted_cells": 78,
+    "score": 0.44338557341527424
+  },
+  "extra": {}
+}

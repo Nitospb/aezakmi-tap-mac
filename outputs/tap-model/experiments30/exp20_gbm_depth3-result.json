@@ -1,0 +1,30 @@
+{
+  "name": "exp20_gbm_depth3",
+  "feature_count": 652,
+  "config": {
+    "family": "gbm",
+    "manual": false,
+    "n_estimators": 240,
+    "learning_rate": 0.035,
+    "num_leaves": 7,
+    "max_depth": 3,
+    "min_child_samples": 5,
+    "reg_lambda": 8
+  },
+  "validation": {
+    "n": 226,
+    "exact": 0.035398230088495575,
+    "within_one": 0.33185840707964603,
+    "within_two": 0.5221238938053098,
+    "mean_distance_cells": 4.066632300232188,
+    "median_distance_cells": 2.23606797749979,
+    "far_half_screen": 0.12389380530973451,
+    "far_third_screen": 0.21238938053097345,
+    "side_x": 0.7831858407079646,
+    "side_y": 0.8805309734513275,
+    "edge_exact": 0.017857142857142856,
+    "unique_predicted_cells": 135,
+    "score": 0.4834224796266827
+  },
+  "extra": {}
+}

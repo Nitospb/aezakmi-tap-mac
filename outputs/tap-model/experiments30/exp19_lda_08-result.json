@@ -1,0 +1,30 @@
+{
+  "name": "exp19_lda_08",
+  "feature_count": 652,
+  "config": {
+    "family": "lda",
+    "solver": "lsqr",
+    "shrinkage": 0.8,
+    "manual": false
+  },
+  "validation": {
+    "n": 226,
+    "exact": 0.05752212389380531,
+    "within_one": 0.3672566371681416,
+    "within_two": 0.6415929203539823,
+    "mean_distance_cells": 3.0259197555197836,
+    "median_distance_cells": 2.23606797749979,
+    "far_half_screen": 0.035398230088495575,
+    "far_third_screen": 0.10619469026548672,
+    "side_x": 0.8230088495575221,
+    "side_y": 0.8982300884955752,
+    "edge_exact": 0.08928571428571429,
+    "unique_predicted_cells": 121,
+    "score": 0.6651224098651438
+  },
+  "extra": {
+    "training_n": 238,
+    "features": "M only",
+    "training": "automatic only"
+  }
+}

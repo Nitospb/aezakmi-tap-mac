@@ -1,0 +1,28 @@
+{
+  "name": "exp29-consensus10",
+  "config": {
+    "alpha": 0.1,
+    "cuts": [
+      10,
+      7
+    ],
+    "baseline": "exp23-guard80",
+    "template": "exp15_template_k1"
+  },
+  "validation": {
+    "n": 226,
+    "exact": 0.11061946902654868,
+    "within_one": 0.5663716814159292,
+    "within_two": 0.8053097345132744,
+    "mean_distance_cells": 2.1813562866049656,
+    "median_distance_cells": 1.4142135623730951,
+    "far_half_screen": 0.03982300884955752,
+    "far_third_screen": 0.061946902654867256,
+    "side_x": 0.8982300884955752,
+    "side_y": 0.9292035398230089,
+    "edge_exact": 0.17857142857142858,
+    "unique_predicted_cells": 131,
+    "score": 1.0665479517095007
+  },
+  "changed_predictions": 139
+}

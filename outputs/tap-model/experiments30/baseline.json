@@ -1,0 +1,24 @@
+{
+  "name": "baseline-current",
+  "feature_count": 652,
+  "config": {
+    "family": "existing_motion_light",
+    "light_weight": 0.05
+  },
+  "validation": {
+    "n": 226,
+    "exact": 0.10619469026548672,
+    "within_one": 0.5486725663716814,
+    "within_two": 0.7787610619469026,
+    "mean_distance_cells": 2.504046798167184,
+    "median_distance_cells": 1.4142135623730951,
+    "far_half_screen": 0.06637168141592921,
+    "far_third_screen": 0.07964601769911504,
+    "side_x": 0.8761061946902655,
+    "side_y": 0.911504424778761,
+    "edge_exact": 0.19642857142857142,
+    "unique_predicted_cells": 125,
+    "score": 1.014128397489249
+  },
+  "extra": {}
+}

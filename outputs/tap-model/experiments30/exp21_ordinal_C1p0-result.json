@@ -1,0 +1,26 @@
+{
+  "name": "exp21_ordinal_C1p0",
+  "feature_count": 805,
+  "config": {
+    "family": "ordinal_logistic",
+    "C": 1.0,
+    "features": "M+F",
+    "decoder": "survival_pava_then_class_argmax"
+  },
+  "validation": {
+    "n": 226,
+    "exact": 0.0752212389380531,
+    "within_one": 0.43805309734513276,
+    "within_two": 0.6769911504424779,
+    "mean_distance_cells": 2.769819374902241,
+    "median_distance_cells": 2.0,
+    "far_half_screen": 0.04424778761061947,
+    "far_third_screen": 0.07964601769911504,
+    "side_x": 0.8230088495575221,
+    "side_y": 0.9424778761061947,
+    "edge_exact": 0.10714285714285714,
+    "unique_predicted_cells": 153,
+    "score": 0.79462814138966
+  },
+  "extra": {}
+}

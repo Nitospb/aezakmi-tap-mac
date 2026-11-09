@@ -1,0 +1,23 @@
+{
+  "name": "exp02-trees",
+  "feature_count": 396,
+  "config": {
+    "family": "trees"
+  },
+  "validation": {
+    "n": 226,
+    "exact": 0.03982300884955752,
+    "within_one": 0.3584070796460177,
+    "within_two": 0.5486725663716814,
+    "mean_distance_cells": 4.243445340565617,
+    "median_distance_cells": 2.23606797749979,
+    "far_half_screen": 0.1415929203539823,
+    "far_third_screen": 0.2168141592920354,
+    "side_x": 0.7566371681415929,
+    "side_y": 0.8938053097345132,
+    "edge_exact": 0.03571428571428571,
+    "unique_predicted_cells": 142,
+    "score": 0.5207067557131153
+  },
+  "extra": {}
+}

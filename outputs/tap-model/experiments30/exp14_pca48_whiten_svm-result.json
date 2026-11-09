@@ -1,0 +1,27 @@
+{
+  "name": "exp14_pca48_whiten_svm",
+  "feature_count": 805,
+  "config": {
+    "family": "svm",
+    "C": 10,
+    "gamma": "scale",
+    "pca": 48,
+    "whiten": true
+  },
+  "validation": {
+    "n": 226,
+    "exact": 0.048672566371681415,
+    "within_one": 0.3495575221238938,
+    "within_two": 0.5707964601769911,
+    "mean_distance_cells": 3.740246261598142,
+    "median_distance_cells": 2.23606797749979,
+    "far_half_screen": 0.10176991150442478,
+    "far_third_screen": 0.1504424778761062,
+    "side_x": 0.7743362831858407,
+    "side_y": 0.8982300884955752,
+    "edge_exact": 0.10714285714285714,
+    "unique_predicted_cells": 112,
+    "score": 0.5661149952004677
+  },
+  "extra": {}
+}

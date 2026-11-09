@@ -1,0 +1,43 @@
+{
+  "name": "exp17_risk3",
+  "config": {
+    "risk_strength": 3.0,
+    "top_k": 3,
+    "min_relative_probability": 0.2,
+    "cost": "min(abs(class-target)/half_screen,1)",
+    "objective": "-log(p)+risk_strength*expected_cost"
+  },
+  "validation": {
+    "n": 226,
+    "exact": 0.10176991150442478,
+    "within_one": 0.5707964601769911,
+    "within_two": 0.7964601769911505,
+    "mean_distance_cells": 2.484173865922461,
+    "median_distance_cells": 1.4142135623730951,
+    "far_half_screen": 0.0752212389380531,
+    "far_third_screen": 0.08849557522123894,
+    "side_x": 0.8672566371681416,
+    "side_y": 0.9070796460176991,
+    "edge_exact": 0.16071428571428573,
+    "unique_predicted_cells": 127,
+    "score": 1.0230658753673632
+  },
+  "baseline": {
+    "n": 226,
+    "exact": 0.10619469026548672,
+    "within_one": 0.5486725663716814,
+    "within_two": 0.7787610619469026,
+    "mean_distance_cells": 2.504046798167184,
+    "median_distance_cells": 1.4142135623730951,
+    "far_half_screen": 0.06637168141592921,
+    "far_third_screen": 0.07964601769911504,
+    "side_x": 0.8761061946902655,
+    "side_y": 0.911504424778761,
+    "edge_exact": 0.19642857142857142,
+    "unique_predicted_cells": 125,
+    "score": 1.014128397489249
+  },
+  "changed_predictions": 46,
+  "exact_delta": -0.00442477876106194,
+  "far_half_delta": 0.008849557522123894
+}

@@ -1,0 +1,13 @@
+{
+  "n": 779,
+  "pre_seconds": 0.65,
+  "post_seconds": 0.5,
+  "minimum_auto_feedback_delay": 0.560415791660489,
+  "audio_used": false,
+  "notes": [
+    "Continuous samples.bin recovers longer context.",
+    "Canonical grid interpolates native ~796Hz IMU, ~155Hz angle and ~9.95Hz optical streams; not new sensor measurements.",
+    "Post-window ends before any green tap feedback for every automatic tap.",
+    "Manual timing inferred from motion, weight0.3, never main validation/test."
+  ]
+}

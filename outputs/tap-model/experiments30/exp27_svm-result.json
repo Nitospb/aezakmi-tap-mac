@@ -1,0 +1,25 @@
+{
+  "name": "exp27_svm",
+  "feature_count": 904,
+  "config": {
+    "family": "svm",
+    "C": 10,
+    "gamma": "scale"
+  },
+  "validation": {
+    "n": 226,
+    "exact": 0.07079646017699115,
+    "within_one": 0.3407079646017699,
+    "within_two": 0.5530973451327433,
+    "mean_distance_cells": 3.8079621772179135,
+    "median_distance_cells": 2.23606797749979,
+    "far_half_screen": 0.11504424778761062,
+    "far_third_screen": 0.1902654867256637,
+    "side_x": 0.8008849557522124,
+    "side_y": 0.8893805309734514,
+    "edge_exact": 0.10714285714285714,
+    "unique_predicted_cells": 86,
+    "score": 0.6121918840721574
+  },
+  "extra": {}
+}

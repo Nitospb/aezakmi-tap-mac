@@ -1,0 +1,7013 @@
+[
+  {
+    "snr_db": -7.218593206325657,
+    "quality": 0.0,
+    "alignment_offset_s": -0.017188208616780054,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.000816348590888083,
+    "trial_index": 0,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 4.243690930457525,
+    "quality": 0.23169220931839465,
+    "alignment_offset_s": 0.017641723356009054,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.000683869409840554,
+    "trial_index": 1,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 3.1365632215884554,
+    "quality": 0.15261165868488966,
+    "alignment_offset_s": 0.01473922902494329,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.000878268969245255,
+    "trial_index": 2,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 2.193070318616989,
+    "quality": 0.02432250054578916,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0008101524435915053,
+    "trial_index": 3,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -5.5989193791747365,
+    "quality": 0.0,
+    "alignment_offset_s": -0.01428571428571429,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0016816179268062115,
+    "trial_index": 4,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 1.9649506937368475,
+    "quality": 0.06892504955263197,
+    "alignment_offset_s": 0.0379591836734694,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0012010637437924743,
+    "trial_index": 5,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 1.1899574277130218,
+    "quality": 0.007275138785419713,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0009524504421278834,
+    "trial_index": 6,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 4.041234399012251,
+    "quality": 0.21723102850087508,
+    "alignment_offset_s": 0.029251700680272108,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.00069330696715042,
+    "trial_index": 7,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 0.19487618002050303,
+    "quality": 0.0,
+    "alignment_offset_s": -0.002675736961451236,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0007031984278000891,
+    "trial_index": 8,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 3.785113970824531,
+    "quality": 0.1989367122017522,
+    "alignment_offset_s": 0.04666666666666669,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0009114717249758542,
+    "trial_index": 9,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 9.07770308170866,
+    "quality": 0.5769787915506186,
+    "alignment_offset_s": 0.008934240362811763,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.000862783461343497,
+    "trial_index": 10,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 5.662606985112367,
+    "quality": 0.3330433560794548,
+    "alignment_offset_s": 0.029251700680272108,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0006299022352322936,
+    "trial_index": 11,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 3.395308434077773,
+    "quality": 0.17109345957698377,
+    "alignment_offset_s": 0.029251700680272108,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0006983974017202854,
+    "trial_index": 12,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 6.131005991091914,
+    "quality": 0.36650042793513676,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0007171481265686452,
+    "trial_index": 13,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 6.278621112836835,
+    "quality": 0.37704436520263107,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0010788771323859692,
+    "trial_index": 14,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -2.5993338100541252,
+    "quality": 0.0,
+    "alignment_offset_s": 0.006031746031746055,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.000679206452332437,
+    "trial_index": 15,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -0.23270177576882656,
+    "quality": 0.0,
+    "alignment_offset_s": 0.017641723356009054,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0012035076506435871,
+    "trial_index": 16,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -2.7119000261870143,
+    "quality": 0.0,
+    "alignment_offset_s": 0.0379591836734694,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0012830442283302546,
+    "trial_index": 17,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -1.5313195593612792,
+    "quality": 0.0,
+    "alignment_offset_s": 0.026349206349206344,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.001214452087879181,
+    "trial_index": 18,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 4.887367758409446,
+    "quality": 0.2776691256006747,
+    "alignment_offset_s": 0.0379591836734694,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0008677084697410464,
+    "trial_index": 19,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 16.335682544198498,
+    "quality": 1.0,
+    "alignment_offset_s": 0.020544217687074817,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0007312533562071621,
+    "trial_index": 20,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 5.877128488983763,
+    "quality": 0.3483663206416973,
+    "alignment_offset_s": 0.00022675736961452753,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0008030998869799078,
+    "trial_index": 21,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 4.45792209055765,
+    "quality": 0.24699443503983215,
+    "alignment_offset_s": 0.00022675736961452753,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0007763669127598405,
+    "trial_index": 22,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 6.557747724973994,
+    "quality": 0.39698198035528526,
+    "alignment_offset_s": 0.026349206349206344,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0008117639226838946,
+    "trial_index": 23,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -1.0374154796386763,
+    "quality": 0.0,
+    "alignment_offset_s": 0.04666666666666669,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0007449680124409497,
+    "trial_index": 24,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 0.08550511386842907,
+    "quality": 0.0,
+    "alignment_offset_s": 0.029251700680272108,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0009367347811348736,
+    "trial_index": 25,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 2.693063647930258,
+    "quality": 0.054592403506047917,
+    "alignment_offset_s": 0.055374149659863925,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0006492449319921434,
+    "trial_index": 26,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 0.778164217566778,
+    "quality": 0.0,
+    "alignment_offset_s": 0.01473922902494329,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0007601582910865545,
+    "trial_index": 27,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 9.475571997094715,
+    "quality": 0.6053979997924797,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.000786240678280592,
+    "trial_index": 28,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 3.0620699542798913,
+    "quality": 0.14729071101999222,
+    "alignment_offset_s": 0.020544217687074817,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0006999493343755603,
+    "trial_index": 29,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 2.9161722607520963,
+    "quality": 0.13686944719657831,
+    "alignment_offset_s": 0.04086167800453516,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0006481169257313013,
+    "trial_index": 30,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 13.650773757465636,
+    "quality": 0.9036266969618312,
+    "alignment_offset_s": 0.020544217687074817,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0006974933203309774,
+    "trial_index": 31,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 10.879886699518327,
+    "quality": 0.7057061928227376,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.000719842326361686,
+    "trial_index": 32,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 5.560426696135695,
+    "quality": 0.32574476400969254,
+    "alignment_offset_s": 0.020544217687074817,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0006989043904468417,
+    "trial_index": 33,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 1.815691146208923,
+    "quality": 0.018869575373223764,
+    "alignment_offset_s": 0.020544217687074817,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0014953612117096782,
+    "trial_index": 34,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 1.552533958820275,
+    "quality": 0.03946671134430535,
+    "alignment_offset_s": 0.020544217687074817,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0007372945547103882,
+    "trial_index": 35,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 10.71623566903657,
+    "quality": 0.6940168335026121,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0006804473814554513,
+    "trial_index": 36,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 3.6492768850615125,
+    "quality": 0.18923406321867947,
+    "alignment_offset_s": 0.01473922902494329,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0006651852745562792,
+    "trial_index": 37,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -1.3158413632665356,
+    "quality": 0.0,
+    "alignment_offset_s": 0.008934240362811763,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0006648479611612856,
+    "trial_index": 38,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 4.109629317626325,
+    "quality": 0.2221163798304518,
+    "alignment_offset_s": 0.017641723356009054,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0007378383888863027,
+    "trial_index": 39,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 6.288522092218579,
+    "quality": 0.37775157801561277,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0007626675651408732,
+    "trial_index": 40,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 3.826109710385807,
+    "quality": 0.2018649793132719,
+    "alignment_offset_s": 0.020544217687074817,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0023620829451829195,
+    "trial_index": 41,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 3.3935781357196113,
+    "quality": 0.1709698668371151,
+    "alignment_offset_s": 0.011836734693877526,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0006571125704795122,
+    "trial_index": 42,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -4.336263637627313,
+    "quality": 0.0,
+    "alignment_offset_s": 0.003129251700680291,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0006242050440050662,
+    "trial_index": 43,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 4.221795661836836,
+    "quality": 0.230128261559774,
+    "alignment_offset_s": 0.003129251700680291,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0007289305794984102,
+    "trial_index": 45,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 1.1180774454958307,
+    "quality": 0.00843410324970219,
+    "alignment_offset_s": 0.017641723356009054,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0008937501115724444,
+    "trial_index": 46,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 2.288995480307022,
+    "quality": 0.09207110573621587,
+    "alignment_offset_s": 0.011836734693877526,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0007508897106163204,
+    "trial_index": 47,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 6.960511280022651,
+    "quality": 0.4257508057159036,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0006514533306472003,
+    "trial_index": 48,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -0.06205280556250163,
+    "quality": 0.0,
+    "alignment_offset_s": 0.020544217687074817,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0005995784886181355,
+    "trial_index": 49,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 0.5946760385266887,
+    "quality": 0.0,
+    "alignment_offset_s": 0.026349206349206344,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.000862010580021888,
+    "trial_index": 50,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 0.5972180408783083,
+    "quality": 0.0,
+    "alignment_offset_s": 0.017641723356009054,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.000860437925439328,
+    "trial_index": 51,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 6.647454140898175,
+    "quality": 0.40338958149272675,
+    "alignment_offset_s": 0.017641723356009054,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0007551041198894382,
+    "trial_index": 52,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 6.38373495291436,
+    "quality": 0.38455249663674,
+    "alignment_offset_s": 0.003129251700680291,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0007772357785142958,
+    "trial_index": 53,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -3.979977803217556,
+    "quality": 0.0,
+    "alignment_offset_s": 0.026349206349206344,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.002217145636677742,
+    "trial_index": 54,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 5.756868613408775,
+    "quality": 0.33977632952919823,
+    "alignment_offset_s": 0.011836734693877526,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.001217919634655118,
+    "trial_index": 55,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 1.2817689956730969,
+    "quality": 0.011469579984322414,
+    "alignment_offset_s": 0.0379591836734694,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0008295474690385163,
+    "trial_index": 56,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -1.2650991751851246,
+    "quality": 0.0,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.001094972831197083,
+    "trial_index": 57,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 1.997537416280544,
+    "quality": 0.016478308654183215,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0012542029144242406,
+    "trial_index": 58,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 1.5577858410360548,
+    "quality": 0.03984184578828963,
+    "alignment_offset_s": 0.026349206349206344,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0031751752831041813,
+    "trial_index": 59,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -20.531718375586703,
+    "quality": 0.0,
+    "alignment_offset_s": 0.017641723356009054,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.009276357479393482,
+    "trial_index": 60,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 3.7047080803948114,
+    "quality": 0.19319343431391509,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0007898227195255458,
+    "trial_index": 61,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 5.401063101007509,
+    "quality": 0.3143616500719649,
+    "alignment_offset_s": 0.06408163265306122,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0006860489957034588,
+    "trial_index": 62,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 9.599549688774523,
+    "quality": 0.6142535491981802,
+    "alignment_offset_s": 0.055374149659863925,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0006319141830317676,
+    "trial_index": 63,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 11.276178065630633,
+    "quality": 0.7340127189736166,
+    "alignment_offset_s": 0.026349206349206344,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0009315905044786632,
+    "trial_index": 64,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 7.756601488721194,
+    "quality": 0.48261439205151385,
+    "alignment_offset_s": 0.008934240362811763,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0006056702695786953,
+    "trial_index": 65,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 6.095708195622204,
+    "quality": 0.3639791568301574,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0006007406627759337,
+    "trial_index": 66,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 11.097548725519253,
+    "quality": 0.7212534803942324,
+    "alignment_offset_s": 0.05247165532879816,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0008451224421150982,
+    "trial_index": 67,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 8.119959253772212,
+    "quality": 0.5085685181265865,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0008055403595790267,
+    "trial_index": 68,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 6.771036829407492,
+    "quality": 0.4122169163862494,
+    "alignment_offset_s": 0.01473922902494329,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.000788142962846905,
+    "trial_index": 69,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -0.3281937715733967,
+    "quality": 0.0,
+    "alignment_offset_s": 0.05827664399092969,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0016577743226662278,
+    "trial_index": 70,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 2.633294324522267,
+    "quality": 0.11666388032301908,
+    "alignment_offset_s": 0.04666666666666669,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0009089186205528677,
+    "trial_index": 71,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 5.418701472900116,
+    "quality": 0.3156215337785797,
+    "alignment_offset_s": 0.020544217687074817,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0006713016773574054,
+    "trial_index": 72,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 6.589596310034711,
+    "quality": 0.39925687928819364,
+    "alignment_offset_s": 0.026349206349206344,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0009257250349037349,
+    "trial_index": 73,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 4.194751585047766,
+    "quality": 0.22819654178912613,
+    "alignment_offset_s": 0.0379591836734694,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0007091665174812078,
+    "trial_index": 74,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 8.68157212437683,
+    "quality": 0.4215406503957669,
+    "alignment_offset_s": 0.017641723356009054,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0010723185259848833,
+    "trial_index": 75,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 5.56822531034411,
+    "quality": 0.3263018078817222,
+    "alignment_offset_s": 0.01473922902494329,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0008694360149092972,
+    "trial_index": 76,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -1.3986661617731833,
+    "quality": 0.0,
+    "alignment_offset_s": 0.011836734693877526,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0010606417199596763,
+    "trial_index": 77,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 7.16589366007422,
+    "quality": 0.4404209757195871,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.000725423451513052,
+    "trial_index": 78,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 3.400171338996987,
+    "quality": 0.17144080992835622,
+    "alignment_offset_s": 0.04086167800453516,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0005666982033289969,
+    "trial_index": 79,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 9.98515503865259,
+    "quality": 0.641796788475185,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0006987092783674598,
+    "trial_index": 80,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 3.046479846683309,
+    "quality": 0.14617713190595064,
+    "alignment_offset_s": 0.01473922902494329,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0013848778326064348,
+    "trial_index": 81,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 5.370826045805766,
+    "quality": 0.3122018604146976,
+    "alignment_offset_s": 0.017641723356009054,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0007496084435842931,
+    "trial_index": 82,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 3.741936102678529,
+    "quality": 0.19585257876275208,
+    "alignment_offset_s": 0.011836734693877526,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0013097114861011505,
+    "trial_index": 83,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 2.525737074308833,
+    "quality": 0.10898121959348808,
+    "alignment_offset_s": 0.026349206349206344,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0009426347096450627,
+    "trial_index": 84,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 6.012679859502815,
+    "quality": 0.35804856139305824,
+    "alignment_offset_s": 0.017641723356009054,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0006538138841278851,
+    "trial_index": 85,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -7.591954451006584,
+    "quality": 0.0,
+    "alignment_offset_s": 0.04666666666666669,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0008331116987392306,
+    "trial_index": 86,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 6.604614838319,
+    "quality": 0.40032963130849997,
+    "alignment_offset_s": 0.020544217687074817,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0007502500666305423,
+    "trial_index": 87,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -0.7508977459062721,
+    "quality": 0.0,
+    "alignment_offset_s": 0.035056689342403635,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0007817389559932053,
+    "trial_index": 88,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 2.7505482111633235,
+    "quality": 0.1250391579402374,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0008585505420342088,
+    "trial_index": 89,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 3.1610033620124236,
+    "quality": 0.10477808501406227,
+    "alignment_offset_s": 0.011836734693877526,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0009304049308411777,
+    "trial_index": 90,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 5.754343389389774,
+    "quality": 0.33959595638498385,
+    "alignment_offset_s": 0.03215419501133787,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0007715343963354826,
+    "trial_index": 91,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 12.579861278420488,
+    "quality": 0.8271329484586063,
+    "alignment_offset_s": 0.05827664399092969,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0007319024298340082,
+    "trial_index": 92,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 9.533385648204938,
+    "quality": 0.6095275463003527,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0006753685302101076,
+    "trial_index": 93,
+    "seam_samples": 1
+  },
+  {
+    "snr_db": -6.8854886938787025,
+    "quality": 0.0,
+    "alignment_offset_s": 0.04666666666666669,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0019712967332452536,
+    "trial_index": 94,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 8.394146684409167,
+    "quality": 0.5281533346006547,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0007064265082590282,
+    "trial_index": 95,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 10.525463957002554,
+    "quality": 0.6803902826430396,
+    "alignment_offset_s": 0.020544217687074817,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.009481921792030334,
+    "trial_index": 96,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 0.7302726166201794,
+    "quality": 0.0,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.008058437146246433,
+    "trial_index": 97,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 15.780792297413402,
+    "quality": 1.0,
+    "alignment_offset_s": 0.020544217687074817,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.001742744236253202,
+    "trial_index": 98,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -7.294214040091304,
+    "quality": 0.0,
+    "alignment_offset_s": 0.06117913832199545,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.009631870314478874,
+    "trial_index": 99,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -6.3223807820994695,
+    "quality": 0.0,
+    "alignment_offset_s": 0.05247165532879816,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0056121498346328735,
+    "trial_index": 100,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -3.3128700650843452,
+    "quality": 0.0,
+    "alignment_offset_s": 0.017641723356009054,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.004611436277627945,
+    "trial_index": 101,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -23.631755860021336,
+    "quality": 0.0,
+    "alignment_offset_s": 0.05247165532879816,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.007138747256249189,
+    "trial_index": 102,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -0.6292534362487078,
+    "quality": 0.0,
+    "alignment_offset_s": 0.05247165532879816,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.003403599141165614,
+    "trial_index": 103,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 0.11708600800161902,
+    "quality": 0.0,
+    "alignment_offset_s": 0.0379591836734694,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0021303154062479734,
+    "trial_index": 104,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 4.559450747630819,
+    "quality": 0.2542464819736299,
+    "alignment_offset_s": 0.017641723356009054,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0007605975843034685,
+    "trial_index": 105,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 28.5280920609093,
+    "quality": 1.0,
+    "alignment_offset_s": 0.020544217687074817,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.003442907938733697,
+    "trial_index": 106,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 3.3385671301655577,
+    "quality": 0.16704050929753983,
+    "alignment_offset_s": 0.017641723356009054,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0010742071317508817,
+    "trial_index": 107,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -18.816966311431354,
+    "quality": 0.0,
+    "alignment_offset_s": 0.035056689342403635,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.003760633058845997,
+    "trial_index": 108,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 7.378335643837534,
+    "quality": 0.45559540313125246,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0006285434938035905,
+    "trial_index": 109,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 3.727675609414195,
+    "quality": 0.19483397210101394,
+    "alignment_offset_s": 0.01473922902494329,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0008581361616961658,
+    "trial_index": 110,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 1.4625827955823758,
+    "quality": 0.009005403773824234,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0009820819832384586,
+    "trial_index": 111,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 6.271820270774395,
+    "quality": 0.37655859076959963,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0006823805160820484,
+    "trial_index": 112,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 3.8677448272326407,
+    "quality": 0.20483891623090292,
+    "alignment_offset_s": 0.01473922902494329,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0006359151448123157,
+    "trial_index": 113,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 4.88993324873181,
+    "quality": 0.27586943964604066,
+    "alignment_offset_s": 0.020544217687074817,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0005584973259828985,
+    "trial_index": 114,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 5.639035285613659,
+    "quality": 0.3313596632581185,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0007323338068090379,
+    "trial_index": 115,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 5.638905004140623,
+    "quality": 0.33135035743861596,
+    "alignment_offset_s": -0.02299319727891158,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0006542684859596193,
+    "trial_index": 116,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 2.1955797013513916,
+    "quality": 0.03752088975207019,
+    "alignment_offset_s": 0.017641723356009054,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0007936499896459281,
+    "trial_index": 117,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 4.160225322746655,
+    "quality": 0.22573038019618963,
+    "alignment_offset_s": 0.017641723356009054,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0005798829370178282,
+    "trial_index": 118,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 3.191562175881377,
+    "quality": 0.15654015542009833,
+    "alignment_offset_s": 0.017641723356009054,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0005982115981169045,
+    "trial_index": 119,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 6.118419912613354,
+    "quality": 0.3656014223295253,
+    "alignment_offset_s": 0.017641723356009054,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.002172138076275587,
+    "trial_index": 120,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 6.75965983654568,
+    "quality": 0.4114042740389771,
+    "alignment_offset_s": 0.026349206349206344,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0006003223243169487,
+    "trial_index": 121,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 3.3434460423371526,
+    "quality": 0.16738900302408233,
+    "alignment_offset_s": -0.002675736961451236,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0006775548099540174,
+    "trial_index": 122,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 10.081476087700649,
+    "quality": 0.6486768634071892,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0006236560875549912,
+    "trial_index": 123,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 4.266746022484396,
+    "quality": 0.2333390016060283,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0006523121846839786,
+    "trial_index": 124,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -2.614559957681473,
+    "quality": 0.0,
+    "alignment_offset_s": 0.026349206349206344,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0015932570677250624,
+    "trial_index": 125,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 6.62732625216001,
+    "quality": 0.40195187515428643,
+    "alignment_offset_s": 0.01473922902494329,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0006208945997059345,
+    "trial_index": 126,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 1.9533942986647004,
+    "quality": 0.06809959276176432,
+    "alignment_offset_s": 0.017641723356009054,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0006902368040755391,
+    "trial_index": 127,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 9.871501678894376,
+    "quality": 0.6336786913495983,
+    "alignment_offset_s": 0.017641723356009054,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0008325974340550601,
+    "trial_index": 128,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 3.411141966601907,
+    "quality": 0.17222442618585052,
+    "alignment_offset_s": 0.008934240362811763,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.000716145324986428,
+    "trial_index": 129,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 4.16461464566564,
+    "quality": 0.22604390326183146,
+    "alignment_offset_s": 0.026349206349206344,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0015659360215067863,
+    "trial_index": 130,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 3.7810168184217012,
+    "quality": 0.19864405845869296,
+    "alignment_offset_s": 0.017641723356009054,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0006838104454800487,
+    "trial_index": 131,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -8.95274271772242,
+    "quality": 0.0,
+    "alignment_offset_s": 0.029251700680272108,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.003998332656919956,
+    "trial_index": 132,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -0.42128776997675416,
+    "quality": 0.0,
+    "alignment_offset_s": 0.017641723356009054,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0018994160927832127,
+    "trial_index": 133,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 4.669155924698432,
+    "quality": 0.26208256604988805,
+    "alignment_offset_s": 0.01473922902494329,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0046891113743186,
+    "trial_index": 134,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -2.3094466443665564,
+    "quality": 0.0,
+    "alignment_offset_s": 0.003129251700680291,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.000956134288571775,
+    "trial_index": 135,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 1.9158167894343956,
+    "quality": 0.042512343993668794,
+    "alignment_offset_s": 0.008934240362811763,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.004010749515146017,
+    "trial_index": 136,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 5.266492764759121,
+    "quality": 0.3047494831970801,
+    "alignment_offset_s": 0.00022675736961452753,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.002988141495734453,
+    "trial_index": 137,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -3.1312112604931253,
+    "quality": 0.0,
+    "alignment_offset_s": 0.008934240362811763,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.00262926216237247,
+    "trial_index": 138,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -1.1075155043955673,
+    "quality": 0.0,
+    "alignment_offset_s": 0.008934240362811763,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0016949392156675458,
+    "trial_index": 139,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 1.611851712909186,
+    "quality": 0.04370369377922757,
+    "alignment_offset_s": 0.017641723356009054,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0013202402042225003,
+    "trial_index": 140,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 8.429095779135904,
+    "quality": 0.5306496985097074,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0007936623878777027,
+    "trial_index": 141,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -6.509979004264092,
+    "quality": 0.0,
+    "alignment_offset_s": 0.04086167800453516,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0008888689335435629,
+    "trial_index": 142,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -0.9706764180873274,
+    "quality": 0.0,
+    "alignment_offset_s": 0.017641723356009054,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0026636067777872086,
+    "trial_index": 143,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 3.072862846202816,
+    "quality": 0.1480616318716297,
+    "alignment_offset_s": 0.017641723356009054,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0006810104241594672,
+    "trial_index": 144,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 8.854591794122216,
+    "quality": 0.5610422710087297,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0007269366178661585,
+    "trial_index": 145,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 2.1855168780676424,
+    "quality": 0.0846797770048316,
+    "alignment_offset_s": 0.03215419501133787,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0006307500880211592,
+    "trial_index": 146,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -0.5254333018821304,
+    "quality": 0.0,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.010205618105828762,
+    "trial_index": 147,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 5.73220864121216,
+    "quality": 0.3380149029437257,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0006531723192892969,
+    "trial_index": 148,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 10.401803737504663,
+    "quality": 0.6715574098217616,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0006830249913036823,
+    "trial_index": 149,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -10.478069790050792,
+    "quality": 0.0,
+    "alignment_offset_s": -0.01428571428571429,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.013121899217367172,
+    "trial_index": 150,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 1.8856552565412452,
+    "quality": 0.06326108975294609,
+    "alignment_offset_s": 0.026349206349206344,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0015612674178555608,
+    "trial_index": 151,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -0.7102751412709701,
+    "quality": 0.0,
+    "alignment_offset_s": -0.008480725623582763,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.008362824097275734,
+    "trial_index": 152,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 26.761202532576345,
+    "quality": 1.0,
+    "alignment_offset_s": 0.011836734693877526,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0009943075710907578,
+    "trial_index": 153,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -8.411659625285298,
+    "quality": 0.0,
+    "alignment_offset_s": 0.026349206349206344,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0053586093708872795,
+    "trial_index": 154,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -7.190802155546439,
+    "quality": 0.0,
+    "alignment_offset_s": 0.020544217687074817,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0014837795170024037,
+    "trial_index": 155,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -17.54769203561669,
+    "quality": 0.0,
+    "alignment_offset_s": 0.006031746031746055,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.00783462729305029,
+    "trial_index": 156,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 3.387233780557499,
+    "quality": 0.1705166986112499,
+    "alignment_offset_s": 0.06117913832199545,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0009999577887356281,
+    "trial_index": 157,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 5.9086390148389265,
+    "quality": 0.3506170724884948,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0009780088439583778,
+    "trial_index": 158,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 34.91672778358255,
+    "quality": 1.0,
+    "alignment_offset_s": 0.020544217687074817,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0016708134207874537,
+    "trial_index": 159,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 2.419553911832174,
+    "quality": 0.10139670798801241,
+    "alignment_offset_s": 0.020544217687074817,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0008052887278608978,
+    "trial_index": 160,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 1.3910976940095785,
+    "quality": 0.011031789365408438,
+    "alignment_offset_s": 0.0379591836734694,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0008604166214354336,
+    "trial_index": 161,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 5.43599815953475,
+    "quality": 0.31685701139533934,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.001089966157451272,
+    "trial_index": 162,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -9.58250055735341,
+    "quality": 0.0,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.004621569067239761,
+    "trial_index": 163,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 0.4899511859422795,
+    "quality": 0.0,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.001305783516727388,
+    "trial_index": 164,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 3.241440772441353,
+    "quality": 0.1601029123172395,
+    "alignment_offset_s": 0.01473922902494329,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0007053976296447217,
+    "trial_index": 165,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 1.734090029655796,
+    "quality": 0.05243500211827114,
+    "alignment_offset_s": 0.011836734693877526,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.003692486323416233,
+    "trial_index": 166,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -1.1801742193897795,
+    "quality": 0.0,
+    "alignment_offset_s": 0.020544217687074817,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0010281007271260023,
+    "trial_index": 167,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -1.2456841417571864,
+    "quality": 0.0,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.00466888677328825,
+    "trial_index": 168,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -9.950843568648253,
+    "quality": 0.0,
+    "alignment_offset_s": 0.020544217687074817,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0038117095828056335,
+    "trial_index": 169,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 7.374680390116042,
+    "quality": 0.4553343135797173,
+    "alignment_offset_s": 0.01473922902494329,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0007577093783766031,
+    "trial_index": 170,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -12.530213039511924,
+    "quality": 0.0,
+    "alignment_offset_s": 0.029251700680272108,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.010318639688193798,
+    "trial_index": 171,
+    "seam_samples": 1
+  },
+  {
+    "snr_db": -5.689114492216003,
+    "quality": 0.0,
+    "alignment_offset_s": 0.020544217687074817,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0023762963246554136,
+    "trial_index": 172,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -7.410824837391253,
+    "quality": 0.0,
+    "alignment_offset_s": -0.005578231292517,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.003621478332206607,
+    "trial_index": 173,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -4.4113562945011635,
+    "quality": 0.0,
+    "alignment_offset_s": 0.029251700680272108,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0035314466804265976,
+    "trial_index": 174,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -19.25055868474598,
+    "quality": 0.0,
+    "alignment_offset_s": -0.025895691609977345,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.020453328266739845,
+    "trial_index": 175,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -5.446151190075215,
+    "quality": 0.0,
+    "alignment_offset_s": 0.020544217687074817,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0017772300634533167,
+    "trial_index": 176,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -0.38592915736968353,
+    "quality": 0.0,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0014201751910150051,
+    "trial_index": 177,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 10.819239300663511,
+    "quality": 0.7013742357616793,
+    "alignment_offset_s": 0.020544217687074817,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0008162258891388774,
+    "trial_index": 178,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 3.165080457258338,
+    "quality": 0.1546486040898813,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0027503573801368475,
+    "trial_index": 179,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -0.5339176058672048,
+    "quality": 0.0,
+    "alignment_offset_s": 0.043764172335600926,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.026066597551107407,
+    "trial_index": 180,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -6.198429605587913,
+    "quality": 0.0,
+    "alignment_offset_s": 0.01473922902494329,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.013875561766326427,
+    "trial_index": 181,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 6.637042537452977,
+    "quality": 0.4026458955323555,
+    "alignment_offset_s": 0.026349206349206344,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0025070400442928076,
+    "trial_index": 182,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -16.809496796591514,
+    "quality": 0.0,
+    "alignment_offset_s": -0.03460317460317458,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.017319215461611748,
+    "trial_index": 183,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 3.060440170776284,
+    "quality": 0.11645855354145702,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0009239231585524976,
+    "trial_index": 184,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 4.609415886818161,
+    "quality": 0.23450554558866338,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0010201516561210155,
+    "trial_index": 185,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -15.850716503931501,
+    "quality": 0.0,
+    "alignment_offset_s": 0.0495691609977324,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.02256793901324272,
+    "trial_index": 186,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -3.8728449945096437,
+    "quality": 0.0,
+    "alignment_offset_s": 0.020544217687074817,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.03817848116159439,
+    "trial_index": 187,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 0.7997624445157164,
+    "quality": 0.0,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0034154276363551617,
+    "trial_index": 188,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 3.974870113987513,
+    "quality": 0.2124907224276795,
+    "alignment_offset_s": 0.026349206349206344,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.001060206675902009,
+    "trial_index": 189,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 5.322319499967588,
+    "quality": 0.308737107140542,
+    "alignment_offset_s": 0.020544217687074817,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0009317452204413712,
+    "trial_index": 190,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 5.6851523620624045,
+    "quality": 0.3346537401473146,
+    "alignment_offset_s": 0.020544217687074817,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0011971292551606894,
+    "trial_index": 191,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 10.570573587297112,
+    "quality": 0.6836123990926508,
+    "alignment_offset_s": 0.0379591836734694,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.01669938489794731,
+    "trial_index": 192,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 2.573431099271989,
+    "quality": 0.11238793566228493,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0007346231723204255,
+    "trial_index": 193,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 3.0042065059085035,
+    "quality": 0.0665511032027557,
+    "alignment_offset_s": 0.029251700680272108,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.008286920376121998,
+    "trial_index": 194,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -17.595103292358022,
+    "quality": 0.0,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.018182411789894104,
+    "trial_index": 195,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -2.9537004646605065,
+    "quality": 0.0,
+    "alignment_offset_s": 0.026349206349206344,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.016068369150161743,
+    "trial_index": 196,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 1.2380330500672971,
+    "quality": 0.002623254616990379,
+    "alignment_offset_s": 0.026349206349206344,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.001160251908004284,
+    "trial_index": 197,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -6.281653911039936,
+    "quality": 0.0,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.02330416440963745,
+    "trial_index": 198,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 6.901447732619675,
+    "quality": 0.3066933821546448,
+    "alignment_offset_s": 0.026349206349206344,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.007332365494221449,
+    "trial_index": 199,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -6.483379746479803,
+    "quality": 0.0,
+    "alignment_offset_s": 0.017641723356009054,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.003317837370559573,
+    "trial_index": 200,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 1.853863388803982,
+    "quality": 0.06099024205742728,
+    "alignment_offset_s": 0.020544217687074817,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0008162177982740104,
+    "trial_index": 201,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 2.2521252521094723,
+    "quality": 0.08943751800781945,
+    "alignment_offset_s": 0.017641723356009054,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0019942254293709993,
+    "trial_index": 202,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -12.579907049468895,
+    "quality": 0.0,
+    "alignment_offset_s": 0.020544217687074817,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0024933910463005304,
+    "trial_index": 203,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 8.600704709189166,
+    "quality": 0.5429074792277976,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0007251078495755792,
+    "trial_index": 204,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 6.423112647661169,
+    "quality": 0.3873651891186549,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0007463331567123532,
+    "trial_index": 205,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -22.99522111831495,
+    "quality": 0.0,
+    "alignment_offset_s": 0.026349206349206344,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.007821653969585896,
+    "trial_index": 206,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 7.266031569083199,
+    "quality": 0.4475736835059428,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0007844822248443961,
+    "trial_index": 207,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -4.482853501141951,
+    "quality": 0.0,
+    "alignment_offset_s": 0.020544217687074817,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.004922419786453247,
+    "trial_index": 208,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -0.44354253298741164,
+    "quality": 0.0,
+    "alignment_offset_s": 0.026349206349206344,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.003096947679296136,
+    "trial_index": 209,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 18.798174321432967,
+    "quality": 1.0,
+    "alignment_offset_s": 0.026349206349206344,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0006978677702136338,
+    "trial_index": 210,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -1.4761878911998894,
+    "quality": 0.0,
+    "alignment_offset_s": 0.020544217687074817,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.002185964724048972,
+    "trial_index": 211,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 1.6705147808272778,
+    "quality": 0.013689052945992425,
+    "alignment_offset_s": 0.026349206349206344,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.003983312752097845,
+    "trial_index": 212,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -2.188116502117368,
+    "quality": 0.0,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.01335913222283125,
+    "trial_index": 213,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 4.174141351309971,
+    "quality": 0.2267243822364265,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0006524770869873464,
+    "trial_index": 214,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 8.384518939556397,
+    "quality": 0.5274656385397426,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0006833205698058009,
+    "trial_index": 215,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 5.924806616588705,
+    "quality": 0.06666659087888167,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0021766505669802427,
+    "trial_index": 216,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -3.1061332425813246,
+    "quality": 0.0,
+    "alignment_offset_s": 0.029251700680272108,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0017460999079048634,
+    "trial_index": 217,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 0.508693066948389,
+    "quality": 0.0,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.013833016157150269,
+    "trial_index": 218,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 2.713516644869671,
+    "quality": 0.01669478379293192,
+    "alignment_offset_s": 0.029251700680272108,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.02484903112053871,
+    "trial_index": 219,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -23.322948484097697,
+    "quality": 0.0,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.014521559700369835,
+    "trial_index": 220,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 5.358133680904639,
+    "quality": 0.3112952629217599,
+    "alignment_offset_s": 0.017641723356009054,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0007217440288513899,
+    "trial_index": 221,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 4.614115120007653,
+    "quality": 0.2581510800005466,
+    "alignment_offset_s": -0.02299319727891158,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0211812611669302,
+    "trial_index": 222,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -7.959781717958724,
+    "quality": 0.0,
+    "alignment_offset_s": -0.020090702947845818,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.029431147500872612,
+    "trial_index": 223,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -6.283821602642759,
+    "quality": 0.0,
+    "alignment_offset_s": 0.026349206349206344,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.006355538498610258,
+    "trial_index": 224,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -18.4643090308048,
+    "quality": 0.0,
+    "alignment_offset_s": 0.043764172335600926,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.021314380690455437,
+    "trial_index": 225,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 10.441547013580987,
+    "quality": 0.6743962152557847,
+    "alignment_offset_s": 0.026349206349206344,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0008607603958807886,
+    "trial_index": 226,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 2.8028431642280403,
+    "quality": 0.1287745117305743,
+    "alignment_offset_s": 0.017641723356009054,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.00262182648293674,
+    "trial_index": 227,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 7.034593307622651,
+    "quality": 0.43104237911590365,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.004447897896170616,
+    "trial_index": 228,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 5.4276609164278256,
+    "quality": 0.316261494030559,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0006976737640798092,
+    "trial_index": 229,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 0.10811122866798055,
+    "quality": 0.0,
+    "alignment_offset_s": 0.03215419501133787,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.003688097931444645,
+    "trial_index": 230,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 3.597384148279426,
+    "quality": 0.18552743916281614,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.000777369481511414,
+    "trial_index": 231,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 1.6033069129327822,
+    "quality": 0.007505927288891845,
+    "alignment_offset_s": 0.003129251700680291,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.02197081223130226,
+    "trial_index": 232,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -14.994114689482437,
+    "quality": 0.0,
+    "alignment_offset_s": 0.00022675736961452753,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.02380441315472126,
+    "trial_index": 233,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -23.168262125572014,
+    "quality": 0.0,
+    "alignment_offset_s": -0.02879818594104311,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.026003636419773102,
+    "trial_index": 234,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -3.385123359938722,
+    "quality": 0.0,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0033234849106520414,
+    "trial_index": 235,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 4.2515319672548015,
+    "quality": 0.23225228337534295,
+    "alignment_offset_s": 0.017641723356009054,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0006905309855937958,
+    "trial_index": 236,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 7.46129292418491,
+    "quality": 0.461520923156065,
+    "alignment_offset_s": 0.026349206349206344,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.000683522957842797,
+    "trial_index": 237,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 2.143691198105348,
+    "quality": 0.008024514386131085,
+    "alignment_offset_s": 0.026349206349206344,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0030255657620728016,
+    "trial_index": 238,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 3.2442846042998563,
+    "quality": 0.16030604316427546,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.015478236600756645,
+    "trial_index": 239,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 10.625377166844462,
+    "quality": 0.6875269404888902,
+    "alignment_offset_s": 0.020544217687074817,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0007749598589725792,
+    "trial_index": 240,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -4.89447745783241,
+    "quality": 0.0,
+    "alignment_offset_s": 0.026349206349206344,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.002848978852853179,
+    "trial_index": 241,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 5.422206935597416,
+    "quality": 0.315871923971244,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0016058973269537091,
+    "trial_index": 242,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 5.276168343920955,
+    "quality": 0.3054405959943539,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0007413768908008933,
+    "trial_index": 243,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -14.477996184111356,
+    "quality": 0.0,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.005441579036414623,
+    "trial_index": 244,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 2.338865327282578,
+    "quality": 0.08364958449471825,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0017486599972471595,
+    "trial_index": 245,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 3.931735118174588,
+    "quality": 0.20940965129818487,
+    "alignment_offset_s": 0.008934240362811763,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0006615330930799246,
+    "trial_index": 246,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 11.95574983553772,
+    "quality": 0.6629037278846818,
+    "alignment_offset_s": 0.01473922902494329,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0007607946172356606,
+    "trial_index": 247,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 9.587684239967064,
+    "quality": 0.6134060171405046,
+    "alignment_offset_s": 0.020544217687074817,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0012165034422650933,
+    "trial_index": 248,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 17.459025821416695,
+    "quality": 0.6043770149089144,
+    "alignment_offset_s": 0.017641723356009054,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0008891046745702624,
+    "trial_index": 249,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 9.435631044136363,
+    "quality": 0.6025450745811688,
+    "alignment_offset_s": 0.026349206349206344,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0008585744071751833,
+    "trial_index": 250,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -2.6768515510903255,
+    "quality": 0.0,
+    "alignment_offset_s": 0.003129251700680291,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.017868824303150177,
+    "trial_index": 251,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 0.829247569724645,
+    "quality": 0.0,
+    "alignment_offset_s": 0.020544217687074817,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0010572015307843685,
+    "trial_index": 252,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -5.290773635771355,
+    "quality": 0.0,
+    "alignment_offset_s": 0.017641723356009054,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.003140329150483012,
+    "trial_index": 253,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 2.0466567600221888,
+    "quality": 0.04803392043127474,
+    "alignment_offset_s": -0.025895691609977345,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.004333104006946087,
+    "trial_index": 254,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 15.625074467894732,
+    "quality": 1.0,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0006467609200626612,
+    "trial_index": 255,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -5.011739004043943,
+    "quality": 0.0,
+    "alignment_offset_s": -0.01428571428571429,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0050566066056489944,
+    "trial_index": 256,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 6.927271010756835,
+    "quality": 0.4233765007683453,
+    "alignment_offset_s": 0.020544217687074817,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0006828936166130006,
+    "trial_index": 257,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 1.0191216209690253,
+    "quality": 0.0013658300692160896,
+    "alignment_offset_s": 0.020544217687074817,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.003414199920371175,
+    "trial_index": 258,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 8.072349383795302,
+    "quality": 0.4351131507279826,
+    "alignment_offset_s": -0.008480725623582763,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0007937769987620413,
+    "trial_index": 259,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 6.26774223411536,
+    "quality": 0.37626730243681145,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0009426556644029915,
+    "trial_index": 260,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -1.5122490287226706,
+    "quality": 0.0,
+    "alignment_offset_s": 0.0379591836734694,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0006902004824951291,
+    "trial_index": 261,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 3.1911477093879377,
+    "quality": 0.10438309931783142,
+    "alignment_offset_s": 0.026349206349206344,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.004079187288880348,
+    "trial_index": 262,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 4.949849681859298,
+    "quality": 0.28213212013280703,
+    "alignment_offset_s": 0.01473922902494329,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.003152495250105858,
+    "trial_index": 263,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -0.5768970365048078,
+    "quality": 0.0,
+    "alignment_offset_s": 0.011836734693877526,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0009063163306564093,
+    "trial_index": 264,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 1.9911929505714474,
+    "quality": 0.0218928102650906,
+    "alignment_offset_s": 0.04086167800453516,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0008075116784311831,
+    "trial_index": 265,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 3.174278740498608,
+    "quality": 0.15530562432132913,
+    "alignment_offset_s": 0.017641723356009054,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0007042447105050087,
+    "trial_index": 266,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -0.16852753000677959,
+    "quality": 0.0,
+    "alignment_offset_s": 0.04086167800453516,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0007000989862717688,
+    "trial_index": 267,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -1.4982030531925516,
+    "quality": 0.0,
+    "alignment_offset_s": 0.020544217687074817,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0007134436746127903,
+    "trial_index": 268,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 9.016298158653841,
+    "quality": 0.5725927256181315,
+    "alignment_offset_s": 0.03215419501133787,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0007710606441833079,
+    "trial_index": 269,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -0.6046733270076208,
+    "quality": 0.0,
+    "alignment_offset_s": 0.006031746031746055,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0008964294684119523,
+    "trial_index": 270,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 3.419361525645469,
+    "quality": 0.13212181478147664,
+    "alignment_offset_s": -0.017188208616780054,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0007120195659808815,
+    "trial_index": 271,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 3.266351988235645,
+    "quality": 0.16188228487397466,
+    "alignment_offset_s": 0.05247165532879816,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0008281067130155861,
+    "trial_index": 272,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -0.5736691148549775,
+    "quality": 0.0,
+    "alignment_offset_s": 0.017641723356009054,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0008048847666941583,
+    "trial_index": 273,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 0.6274886181197206,
+    "quality": 0.0,
+    "alignment_offset_s": 0.00022675736961452753,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0032867135014384985,
+    "trial_index": 274,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -3.1271218821007256,
+    "quality": 0.0,
+    "alignment_offset_s": 0.026349206349206344,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.001082133618183434,
+    "trial_index": 275,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 0.7062770716900009,
+    "quality": 0.0,
+    "alignment_offset_s": 0.04086167800453516,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0007239626720547676,
+    "trial_index": 276,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 1.8218044887394071,
+    "quality": 0.058700320624243366,
+    "alignment_offset_s": 0.01473922902494329,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0009961455361917615,
+    "trial_index": 277,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 16.5421043197892,
+    "quality": 1.0,
+    "alignment_offset_s": 0.04086167800453516,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0007562313112430274,
+    "trial_index": 278,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 1.668291033660421,
+    "quality": 0.04773507383288722,
+    "alignment_offset_s": 0.04086167800453516,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0006695541087538004,
+    "trial_index": 279,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 5.504562421422802,
+    "quality": 0.3217544586730573,
+    "alignment_offset_s": 0.017641723356009054,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0007764845504425466,
+    "trial_index": 280,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 3.1652224469799997,
+    "quality": 0.1546587462128571,
+    "alignment_offset_s": 0.0379591836734694,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0006558700115419924,
+    "trial_index": 281,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 2.0000247045857518,
+    "quality": 0.07143033604183942,
+    "alignment_offset_s": 0.017641723356009054,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0007372905965894461,
+    "trial_index": 282,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -1.8496315801422898,
+    "quality": 0.0,
+    "alignment_offset_s": 0.020544217687074817,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0008577088010497391,
+    "trial_index": 283,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -0.19970182084235277,
+    "quality": 0.0,
+    "alignment_offset_s": 0.0495691609977324,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0006759620155207813,
+    "trial_index": 284,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 13.500021173012911,
+    "quality": 0.8928586552152079,
+    "alignment_offset_s": 0.035056689342403635,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0007402134360745549,
+    "trial_index": 285,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -0.13236328819840237,
+    "quality": 0.0,
+    "alignment_offset_s": 0.029251700680272108,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0029174622613936663,
+    "trial_index": 286,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -0.0006914073037962473,
+    "quality": 0.0,
+    "alignment_offset_s": 0.003129251700680291,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0006816496606916189,
+    "trial_index": 287,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 6.795775052067976,
+    "quality": 0.09935910956230797,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.012599552981555462,
+    "trial_index": 288,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -3.431316582507134,
+    "quality": 0.0,
+    "alignment_offset_s": 0.06408163265306122,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.010847553610801697,
+    "trial_index": 289,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -7.6906738966686525,
+    "quality": 0.0,
+    "alignment_offset_s": 0.06698412698412698,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.016597406938672066,
+    "trial_index": 290,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -9.217148076039308,
+    "quality": 0.0,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0014066060539335012,
+    "trial_index": 291,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 12.312906942004744,
+    "quality": 0.8080647815717674,
+    "alignment_offset_s": 0.026349206349206344,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0008198758005164564,
+    "trial_index": 292,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 1.058501455298583,
+    "quality": 3.456364382094809e-05,
+    "alignment_offset_s": 0.05827664399092969,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.003799237310886383,
+    "trial_index": 293,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -1.2772291329352519,
+    "quality": 0.0,
+    "alignment_offset_s": 0.026349206349206344,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0011537986574694514,
+    "trial_index": 294,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 5.880917852347504,
+    "quality": 0.3486369894533931,
+    "alignment_offset_s": 0.026349206349206344,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0006516889552585781,
+    "trial_index": 295,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 15.030831620071636,
+    "quality": 1.0,
+    "alignment_offset_s": 0.020544217687074817,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0006170187843963504,
+    "trial_index": 296,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 5.230756607626853,
+    "quality": 0.2929871480370989,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0008135629468597472,
+    "trial_index": 297,
+    "seam_samples": 1
+  },
+  {
+    "snr_db": -3.186638610571947,
+    "quality": 0.0,
+    "alignment_offset_s": 0.017641723356009054,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.01254178211092949,
+    "trial_index": 298,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 1.7288721714034345,
+    "quality": 0.04813502661829053,
+    "alignment_offset_s": 0.026349206349206344,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.011424340307712555,
+    "trial_index": 299,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -7.869011082041459,
+    "quality": 0.0,
+    "alignment_offset_s": 0.0495691609977324,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0015395969385281205,
+    "trial_index": 300,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 6.361575860049745,
+    "quality": 0.3829697042892675,
+    "alignment_offset_s": 0.017641723356009054,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0006453255191445351,
+    "trial_index": 301,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 3.558286177785016,
+    "quality": 0.09719737005775493,
+    "alignment_offset_s": 0.03215419501133787,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0006633295561186969,
+    "trial_index": 302,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -2.7241684218270565,
+    "quality": 0.0,
+    "alignment_offset_s": 0.008934240362811763,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.003164103487506509,
+    "trial_index": 303,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -1.748013035092192,
+    "quality": 0.0,
+    "alignment_offset_s": -0.03460317460317458,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0006130239926278591,
+    "trial_index": 304,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -14.0803451224196,
+    "quality": 0.0,
+    "alignment_offset_s": 0.026349206349206344,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.004332063253968954,
+    "trial_index": 305,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 1.2868903620955456,
+    "quality": 0.01136354034369432,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.001255279639735818,
+    "trial_index": 306,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -1.5498108094722043,
+    "quality": 0.0,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0013205957366153598,
+    "trial_index": 307,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -8.427184962016586,
+    "quality": 0.0,
+    "alignment_offset_s": 0.043764172335600926,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0032335962168872356,
+    "trial_index": 308,
+    "seam_samples": 1
+  },
+  {
+    "snr_db": 0.6894070432540943,
+    "quality": 0.0,
+    "alignment_offset_s": 0.01473922902494329,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0032652290537953377,
+    "trial_index": 309,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 3.599960185708549,
+    "quality": 0.1857114418363249,
+    "alignment_offset_s": 0.0495691609977324,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.011403479613363743,
+    "trial_index": 310,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -9.10718971704956,
+    "quality": 0.0,
+    "alignment_offset_s": 0.020544217687074817,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.003132342826575041,
+    "trial_index": 311,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -3.9351307924777728,
+    "quality": 0.0,
+    "alignment_offset_s": 0.04086167800453516,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.004516215063631535,
+    "trial_index": 312,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 10.492003383760578,
+    "quality": 0.6780002416971841,
+    "alignment_offset_s": 0.020544217687074817,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0007516962359659374,
+    "trial_index": 313,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -6.709209621591157,
+    "quality": 0.0,
+    "alignment_offset_s": 0.008934240362811763,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.001786020235158503,
+    "trial_index": 314,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 1.1768705004056246,
+    "quality": 0.012633607171830328,
+    "alignment_offset_s": 0.020544217687074817,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0008261157781817019,
+    "trial_index": 315,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 2.087285264366064,
+    "quality": 0.07766323316900459,
+    "alignment_offset_s": 0.017641723356009054,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.000734482251573354,
+    "trial_index": 316,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -0.5275062053490154,
+    "quality": 0.0,
+    "alignment_offset_s": 0.04666666666666669,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.001128992298617959,
+    "trial_index": 317,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 14.571344291761335,
+    "quality": 0.9693817351258096,
+    "alignment_offset_s": 0.008934240362811763,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0006018434651196003,
+    "trial_index": 318,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 3.9457932275207415,
+    "quality": 0.21041380196576726,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0006952918483875692,
+    "trial_index": 319,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -3.899367020163809,
+    "quality": 0.0,
+    "alignment_offset_s": 0.026349206349206344,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0013973995810374618,
+    "trial_index": 320,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 3.2667985150752816,
+    "quality": 0.1619141796482344,
+    "alignment_offset_s": 0.011836734693877526,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0006194191519171,
+    "trial_index": 321,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 16.694455382513084,
+    "quality": 1.0,
+    "alignment_offset_s": 0.026349206349206344,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0007717373082414269,
+    "trial_index": 322,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 5.053191237945579,
+    "quality": 0.2895136598532556,
+    "alignment_offset_s": 0.03215419501133787,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.000744992692489177,
+    "trial_index": 323,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 7.003689341804758,
+    "quality": 0.4288349529860542,
+    "alignment_offset_s": 0.01473922902494329,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0006190422573126853,
+    "trial_index": 324,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 4.841349415110428,
+    "quality": 0.27438210107931627,
+    "alignment_offset_s": 0.017641723356009054,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0006720544770359993,
+    "trial_index": 325,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 4.590764730225327,
+    "quality": 0.2564831950160948,
+    "alignment_offset_s": 0.008934240362811763,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0007729111821390688,
+    "trial_index": 326,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 10.09928954716572,
+    "quality": 0.64994925336898,
+    "alignment_offset_s": 0.026349206349206344,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.000698033079970628,
+    "trial_index": 327,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -11.027474385362396,
+    "quality": 0.0,
+    "alignment_offset_s": -0.02879818594104311,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.025988122448325157,
+    "trial_index": 328,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -10.712472963995888,
+    "quality": 0.0,
+    "alignment_offset_s": 0.04086167800453516,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0060137673281133175,
+    "trial_index": 329,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 5.233680251764493,
+    "quality": 0.3024057322688924,
+    "alignment_offset_s": 0.011836734693877526,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0007921488722786307,
+    "trial_index": 330,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -3.396536957538993,
+    "quality": 0.0,
+    "alignment_offset_s": 0.04086167800453516,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0012175077572464943,
+    "trial_index": 331,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 3.6931556866817656,
+    "quality": 0.19236826333441184,
+    "alignment_offset_s": 0.017641723356009054,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0007693328079767525,
+    "trial_index": 332,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 4.9247537014056695,
+    "quality": 0.28033955010040496,
+    "alignment_offset_s": 0.0379591836734694,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0006205675308592618,
+    "trial_index": 333,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 7.331955194497675,
+    "quality": 0.45228251389269103,
+    "alignment_offset_s": 0.029251700680272108,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.000663061102386564,
+    "trial_index": 334,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -17.309110344265207,
+    "quality": 0.0,
+    "alignment_offset_s": 0.00022675736961452753,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.010651838965713978,
+    "trial_index": 335,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 3.816358747725566,
+    "quality": 0.20116848198039758,
+    "alignment_offset_s": 0.04666666666666669,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0009843474254012108,
+    "trial_index": 336,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 10.854926697837788,
+    "quality": 0.703923335559842,
+    "alignment_offset_s": 0.026349206349206344,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0006761694676242769,
+    "trial_index": 337,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 2.6732952122396094,
+    "quality": 0.06085190695870265,
+    "alignment_offset_s": 0.0379591836734694,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0012826240854337811,
+    "trial_index": 338,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -1.2492975934241681,
+    "quality": 0.0,
+    "alignment_offset_s": 0.020544217687074817,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0009413678199052811,
+    "trial_index": 339,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 3.721079916846186,
+    "quality": 0.19436285120329902,
+    "alignment_offset_s": 0.017641723356009054,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0006722094840370119,
+    "trial_index": 340,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 1.399643248979299,
+    "quality": 0.02854594635566421,
+    "alignment_offset_s": 0.043764172335600926,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0007154306513257325,
+    "trial_index": 341,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 5.396826274850199,
+    "quality": 0.3140590196321571,
+    "alignment_offset_s": 0.0379591836734694,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0006487907958216965,
+    "trial_index": 342,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 7.290307936142303,
+    "quality": 0.44930770972445017,
+    "alignment_offset_s": 0.01473922902494329,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0006930266390554607,
+    "trial_index": 343,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -2.318350445720296,
+    "quality": 0.0,
+    "alignment_offset_s": 0.017641723356009054,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0012401530984789133,
+    "trial_index": 344,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 2.1185131378978395,
+    "quality": 0.07989379556413138,
+    "alignment_offset_s": 0.017641723356009054,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0007467414252460003,
+    "trial_index": 345,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 3.7823431949407182,
+    "quality": 0.19873879963862273,
+    "alignment_offset_s": 0.035056689342403635,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0005936525412835181,
+    "trial_index": 346,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 5.530214733787914,
+    "quality": 0.3235867666991367,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0008655001292936504,
+    "trial_index": 347,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 5.327082680084283,
+    "quality": 0.3090773342917345,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0007732628146186471,
+    "trial_index": 348,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -0.8099205951113225,
+    "quality": 0.0,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0016425962094217539,
+    "trial_index": 349,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 4.0944314114807066,
+    "quality": 0.22103081510576475,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.002607851754873991,
+    "trial_index": 350,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -3.9863149597966703,
+    "quality": 0.0,
+    "alignment_offset_s": 0.04086167800453516,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.01694648340344429,
+    "trial_index": 351,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 3.3759545799862933,
+    "quality": 0.16971104142759239,
+    "alignment_offset_s": 0.035056689342403635,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0007138793007470667,
+    "trial_index": 352,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -20.76821742510496,
+    "quality": 0.0,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.029278382658958435,
+    "trial_index": 353,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -19.700958012164755,
+    "quality": 0.0,
+    "alignment_offset_s": 0.003129251700680291,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.004693306982517242,
+    "trial_index": 354,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 7.245360715787022,
+    "quality": 0.4460971939847873,
+    "alignment_offset_s": 0.026349206349206344,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0030344920232892036,
+    "trial_index": 355,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 7.207553573775262,
+    "quality": 0.44339668384109016,
+    "alignment_offset_s": 0.017641723356009054,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0006583429640159011,
+    "trial_index": 356,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 7.421225751202789,
+    "quality": 0.4586589822287706,
+    "alignment_offset_s": 0.017641723356009054,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0006977919838391244,
+    "trial_index": 357,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 2.0380167047555755,
+    "quality": 0.07414405033968396,
+    "alignment_offset_s": 0.020544217687074817,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0007449424010701478,
+    "trial_index": 358,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 6.1986778828,
+    "quality": 0.3713341344857143,
+    "alignment_offset_s": 0.01473922902494329,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0006333912024274468,
+    "trial_index": 359,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 9.876338546961678,
+    "quality": 0.6340241819258342,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0007023517391644418,
+    "trial_index": 360,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 23.57561399288987,
+    "quality": 1.0,
+    "alignment_offset_s": 0.029251700680272108,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0010056806495413184,
+    "trial_index": 361,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 35.23123689363806,
+    "quality": 1.0,
+    "alignment_offset_s": 0.026349206349206344,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0007846885710023344,
+    "trial_index": 362,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -4.895258054449666,
+    "quality": 0.0,
+    "alignment_offset_s": 0.008934240362811763,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0025099755730479956,
+    "trial_index": 363,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 12.56474268093725,
+    "quality": 0.826053048638375,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0007585493149235845,
+    "trial_index": 364,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 0.5293620099521473,
+    "quality": 0.0,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0065842424519360065,
+    "trial_index": 365,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -2.585028189717811,
+    "quality": 0.0,
+    "alignment_offset_s": 0.03215419501133787,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0053757354617118835,
+    "trial_index": 366,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -5.402614462656383,
+    "quality": 0.0,
+    "alignment_offset_s": 0.029251700680272108,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0013363788602873683,
+    "trial_index": 367,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 4.332192807811904,
+    "quality": 0.23801377198656454,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0008302615606226027,
+    "trial_index": 368,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 1.6668139440336702,
+    "quality": 0.04762956743097645,
+    "alignment_offset_s": 0.017641723356009054,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.001259526121430099,
+    "trial_index": 369,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 0.6698743999970282,
+    "quality": 0.0,
+    "alignment_offset_s": 0.020544217687074817,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0009923995239660144,
+    "trial_index": 370,
+    "seam_samples": 1
+  },
+  {
+    "snr_db": -9.157946715966501,
+    "quality": 0.0,
+    "alignment_offset_s": 0.026349206349206344,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.010650423355400562,
+    "trial_index": 371,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 3.3991223617753397,
+    "quality": 0.17136588298395283,
+    "alignment_offset_s": 0.017641723356009054,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0008031026227399707,
+    "trial_index": 372,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 8.397537744288062,
+    "quality": 0.528395553163433,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0006767934537492692,
+    "trial_index": 373,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 5.563013065358056,
+    "quality": 0.32592950466843257,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0006959312595427036,
+    "trial_index": 374,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -1.4219903505597293,
+    "quality": 0.0,
+    "alignment_offset_s": 0.043764172335600926,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0007668623002246022,
+    "trial_index": 375,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -0.005808249536737194,
+    "quality": 0.0,
+    "alignment_offset_s": 0.026349206349206344,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0013499120250344276,
+    "trial_index": 376,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 6.94083671107369,
+    "quality": 0.4243454793624064,
+    "alignment_offset_s": 0.026349206349206344,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0006125133950263262,
+    "trial_index": 377,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -1.5572377188521567,
+    "quality": 0.0,
+    "alignment_offset_s": 0.029251700680272108,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.016625190153717995,
+    "trial_index": 378,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 7.78830946319296,
+    "quality": 0.48487924737092575,
+    "alignment_offset_s": 0.01473922902494329,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0009903082391247153,
+    "trial_index": 379,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -2.6306103935631873,
+    "quality": 0.0,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0016777082346379757,
+    "trial_index": 380,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -6.401488572817171,
+    "quality": 0.0,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.00126806425396353,
+    "trial_index": 381,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -14.159945232330317,
+    "quality": 0.0,
+    "alignment_offset_s": 0.026349206349206344,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.005438648629933596,
+    "trial_index": 382,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -1.1927739197073053,
+    "quality": 0.0,
+    "alignment_offset_s": -0.01428571428571429,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.006468749139457941,
+    "trial_index": 383,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 2.4827901315189798,
+    "quality": 0.047341505600666675,
+    "alignment_offset_s": 0.017641723356009054,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.01312560960650444,
+    "trial_index": 384,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 4.255185390817583,
+    "quality": 0.05688393861693337,
+    "alignment_offset_s": 0.020544217687074817,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.018533924594521523,
+    "trial_index": 385,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -6.986281468606332,
+    "quality": 0.0,
+    "alignment_offset_s": 0.01473922902494329,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.012788147665560246,
+    "trial_index": 386,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 4.488419220516268,
+    "quality": 0.2491728014654477,
+    "alignment_offset_s": 0.008934240362811763,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0006597075262106955,
+    "trial_index": 387,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 9.048581353753335,
+    "quality": 0.5748986681252382,
+    "alignment_offset_s": 0.026349206349206344,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0006674550822935998,
+    "trial_index": 388,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -8.468449314131655,
+    "quality": 0.0,
+    "alignment_offset_s": 0.017641723356009054,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.004484094679355621,
+    "trial_index": 389,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 6.770566357884309,
+    "quality": 0.41218331127745067,
+    "alignment_offset_s": 0.017641723356009054,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0006364964647218585,
+    "trial_index": 390,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 1.0742386923788332,
+    "quality": 0.005302763741345228,
+    "alignment_offset_s": 0.011836734693877526,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0008640038431622088,
+    "trial_index": 391,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 8.841560828834652,
+    "quality": 0.5601114877739037,
+    "alignment_offset_s": 0.017641723356009054,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0007821428007446229,
+    "trial_index": 392,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 0.8628584159046233,
+    "quality": 0.0,
+    "alignment_offset_s": 0.01473922902494329,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0008448066655546427,
+    "trial_index": 393,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 0.29076662032029266,
+    "quality": 0.0,
+    "alignment_offset_s": 0.026349206349206344,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0008910467731766403,
+    "trial_index": 394,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 3.1848466276215737,
+    "quality": 0.15606047340154097,
+    "alignment_offset_s": 0.0495691609977324,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.004181460943073034,
+    "trial_index": 395,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 1.1790962000344547,
+    "quality": 0.0102691173264221,
+    "alignment_offset_s": 0.026349206349206344,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0017156326211988926,
+    "trial_index": 396,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -13.20682133142748,
+    "quality": 0.0,
+    "alignment_offset_s": 0.020544217687074817,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.012291841208934784,
+    "trial_index": 397,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -15.434393733086287,
+    "quality": 0.0,
+    "alignment_offset_s": 0.017641723356009054,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.00316895660944283,
+    "trial_index": 398,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 4.5306757570983915,
+    "quality": 0.07671507981579079,
+    "alignment_offset_s": 0.026349206349206344,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.021235879510641098,
+    "trial_index": 399,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -9.183710305595467,
+    "quality": 0.0,
+    "alignment_offset_s": -0.02879818594104311,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.017857816070318222,
+    "trial_index": 400,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -11.665602016298005,
+    "quality": 0.0,
+    "alignment_offset_s": 0.011836734693877526,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.006127160042524338,
+    "trial_index": 401,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -3.937613223626565,
+    "quality": 0.0,
+    "alignment_offset_s": -0.011383219954648527,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.014764217659831047,
+    "trial_index": 402,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -1.5112472972082913,
+    "quality": 0.0,
+    "alignment_offset_s": 0.026349206349206344,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.01112197246402502,
+    "trial_index": 403,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 13.318716735600555,
+    "quality": 0.8799083382571825,
+    "alignment_offset_s": 0.026349206349206344,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0009246658300980926,
+    "trial_index": 404,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -0.11812488024868671,
+    "quality": 0.0,
+    "alignment_offset_s": 0.020544217687074817,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0035145203582942486,
+    "trial_index": 405,
+    "seam_samples": 1
+  },
+  {
+    "snr_db": -0.25684483502094047,
+    "quality": 0.0,
+    "alignment_offset_s": -0.01428571428571429,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.002200768096372485,
+    "trial_index": 406,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -2.5616331929951235,
+    "quality": 0.0,
+    "alignment_offset_s": -0.02879818594104311,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0032498722430318594,
+    "trial_index": 407,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -13.483115614274366,
+    "quality": 0.0,
+    "alignment_offset_s": 0.01473922902494329,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.014609068632125854,
+    "trial_index": 408,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 11.333658786208943,
+    "quality": 0.7381184847292103,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0008396981284022331,
+    "trial_index": 409,
+    "seam_samples": 1
+  },
+  {
+    "snr_db": 2.5925750023396796,
+    "quality": 0.09864230005884383,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0008712813723832369,
+    "trial_index": 410,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -1.0747061669461986,
+    "quality": 0.0,
+    "alignment_offset_s": 0.003129251700680291,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0009903806494548917,
+    "trial_index": 411,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -1.1832348255242928,
+    "quality": 0.0,
+    "alignment_offset_s": 0.006031746031746055,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.000864161120261997,
+    "trial_index": 412,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 1.491450627877061,
+    "quality": 0.035103616276932925,
+    "alignment_offset_s": 0.020544217687074817,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0007264863234013319,
+    "trial_index": 413,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -19.727189055050598,
+    "quality": 0.0,
+    "alignment_offset_s": -0.01428571428571429,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.01897788979113102,
+    "trial_index": 414,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 1.37569360869526,
+    "quality": 0.020199868580778477,
+    "alignment_offset_s": 0.05827664399092969,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.006636382080614567,
+    "trial_index": 415,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -4.435697478763654,
+    "quality": 0.0,
+    "alignment_offset_s": -0.03170068027210887,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.042837388813495636,
+    "trial_index": 416,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -4.164318847110096,
+    "quality": 0.0,
+    "alignment_offset_s": 0.006031746031746055,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0020490908063948154,
+    "trial_index": 417,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -2.5580943266005067,
+    "quality": 0.0,
+    "alignment_offset_s": -0.002675736961451236,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.008025514893233776,
+    "trial_index": 418,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -3.0950752253596923,
+    "quality": 0.0,
+    "alignment_offset_s": 0.017641723356009054,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.007942739874124527,
+    "trial_index": 419,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -6.852678287681612,
+    "quality": 0.0,
+    "alignment_offset_s": 0.04666666666666669,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.006730268709361553,
+    "trial_index": 420,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -8.433736175491273,
+    "quality": 0.0,
+    "alignment_offset_s": -0.002675736961451236,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.005151673685759306,
+    "trial_index": 421,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -9.926263235158572,
+    "quality": 0.0,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.006304524838924408,
+    "trial_index": 422,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -6.168306141875489,
+    "quality": 0.0,
+    "alignment_offset_s": 0.026349206349206344,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.003971487749367952,
+    "trial_index": 423,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 5.380467270818924,
+    "quality": 0.31289051934420886,
+    "alignment_offset_s": 0.017641723356009054,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0008913812343962491,
+    "trial_index": 424,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 12.656207980597774,
+    "quality": 0.8325862843284124,
+    "alignment_offset_s": 0.020544217687074817,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0009883828461170197,
+    "trial_index": 425,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 1.1954168984852354,
+    "quality": 0.013958349891802526,
+    "alignment_offset_s": 0.03215419501133787,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0007390539976768196,
+    "trial_index": 426,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 9.431395950547696,
+    "quality": 0.602242567896264,
+    "alignment_offset_s": 0.026349206349206344,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0006602965877391398,
+    "trial_index": 427,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 17.454796665485233,
+    "quality": 1.0,
+    "alignment_offset_s": 0.017641723356009054,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0012087799841538072,
+    "trial_index": 428,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -9.351436710669445,
+    "quality": 0.0,
+    "alignment_offset_s": -0.01428571428571429,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0025717865210026503,
+    "trial_index": 429,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 1.9974631836221888,
+    "quality": 0.07124737025872777,
+    "alignment_offset_s": 0.011836734693877526,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0006667561247013509,
+    "trial_index": 430,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 0.2779791654132034,
+    "quality": 0.0,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.00093411176931113,
+    "trial_index": 431,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 5.002832089512287,
+    "quality": 0.16556854177220529,
+    "alignment_offset_s": -0.02299319727891158,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.006261002738028765,
+    "trial_index": 432,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -4.977866951118117,
+    "quality": 0.0,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0036572301760315895,
+    "trial_index": 433,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -1.1118390053018576,
+    "quality": 0.0,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.005442158784717321,
+    "trial_index": 434,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 1.957465680183683,
+    "quality": 0.06839040572740593,
+    "alignment_offset_s": 0.0379591836734694,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0006805313169024885,
+    "trial_index": 435,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -10.335535923692177,
+    "quality": 0.0,
+    "alignment_offset_s": 0.017641723356009054,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0043939766474068165,
+    "trial_index": 436,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 4.357286014338869,
+    "quality": 0.10434757174107336,
+    "alignment_offset_s": 0.020544217687074817,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.00999399833381176,
+    "trial_index": 437,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 1.163276461446415,
+    "quality": 0.0021133843398344477,
+    "alignment_offset_s": -0.005578231292517,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.014492733404040337,
+    "trial_index": 438,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -21.102818658630902,
+    "quality": 0.0,
+    "alignment_offset_s": 0.055374149659863925,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.017834758386015892,
+    "trial_index": 439,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -0.6880695119170299,
+    "quality": 0.0,
+    "alignment_offset_s": 0.020544217687074817,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0027210365515202284,
+    "trial_index": 440,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 11.366319456250622,
+    "quality": 0.7404513897321873,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0008298874599859118,
+    "trial_index": 441,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 0.8077804756386238,
+    "quality": 0.0,
+    "alignment_offset_s": 0.029251700680272108,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0027034832164645195,
+    "trial_index": 442,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -13.938996317641532,
+    "quality": 0.0,
+    "alignment_offset_s": 0.04086167800453516,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.008159201592206955,
+    "trial_index": 443,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -19.137695582435367,
+    "quality": 0.0,
+    "alignment_offset_s": 0.020544217687074817,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.007723577320575714,
+    "trial_index": 444,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 21.989157204226366,
+    "quality": 1.0,
+    "alignment_offset_s": -0.011383219954648527,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0005863677361048758,
+    "trial_index": 445,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -15.354909381095807,
+    "quality": 0.0,
+    "alignment_offset_s": 0.01473922902494329,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.003219103440642357,
+    "trial_index": 446,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 10.031253215152818,
+    "quality": 0.6450895153680584,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0006937068537808955,
+    "trial_index": 447,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 19.177873840500823,
+    "quality": 1.0,
+    "alignment_offset_s": 0.0495691609977324,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0006824416341260076,
+    "trial_index": 448,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 13.107537758524542,
+    "quality": 0.8648241256088959,
+    "alignment_offset_s": 0.020544217687074817,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.000745890662074089,
+    "trial_index": 449,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 22.91877144586435,
+    "quality": 1.0,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0007179119857028127,
+    "trial_index": 450,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 5.107712212440997,
+    "quality": 0.2934080151743569,
+    "alignment_offset_s": 0.029251700680272108,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0007788459770381451,
+    "trial_index": 451,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 0.23475653639873517,
+    "quality": 0.0,
+    "alignment_offset_s": 0.020544217687074817,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0009134096326306462,
+    "trial_index": 452,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -0.8718801492845756,
+    "quality": 0.0,
+    "alignment_offset_s": 0.017641723356009054,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.004708289634436369,
+    "trial_index": 453,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 18.765863100858077,
+    "quality": 1.0,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.006628261413425207,
+    "trial_index": 454,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 10.400605354942407,
+    "quality": 0.6714718110673148,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0007883650832809508,
+    "trial_index": 455,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 2.655091213588446,
+    "quality": 0.1182208009706033,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0009672748274169862,
+    "trial_index": 456,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 0.5026908150707026,
+    "quality": 0.0,
+    "alignment_offset_s": 0.026349206349206344,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0010852107079699636,
+    "trial_index": 457,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 12.851940463031497,
+    "quality": 0.8465671759308212,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0031236468348652124,
+    "trial_index": 458,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 9.985886418336724,
+    "quality": 0.6418490298811946,
+    "alignment_offset_s": 0.020544217687074817,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0006944475462660193,
+    "trial_index": 459,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 11.09367820552495,
+    "quality": 0.7209770146803536,
+    "alignment_offset_s": 0.026349206349206344,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.00087750144302845,
+    "trial_index": 460,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 4.038379755154211,
+    "quality": 0.029595266252612752,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.007995042018592358,
+    "trial_index": 461,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -1.1562290745056614,
+    "quality": 0.0,
+    "alignment_offset_s": -0.002675736961451236,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0035309428349137306,
+    "trial_index": 462,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 7.310690102587562,
+    "quality": 0.4507635787562544,
+    "alignment_offset_s": 0.020544217687074817,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.00197001569904387,
+    "trial_index": 463,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -0.4560718960779787,
+    "quality": 0.0,
+    "alignment_offset_s": 0.020544217687074817,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.000923627580050379,
+    "trial_index": 464,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 1.845686021438244,
+    "quality": 0.056987265521386096,
+    "alignment_offset_s": 0.06988662131519274,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.012274802662432194,
+    "trial_index": 465,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 3.2801818938531273,
+    "quality": 0.16287013527522337,
+    "alignment_offset_s": 0.017641723356009054,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0022068247199058533,
+    "trial_index": 466,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 2.944620448131716,
+    "quality": 0.12769798194265897,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0019807363860309124,
+    "trial_index": 467,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 4.870764451244288,
+    "quality": 0.2764831750888777,
+    "alignment_offset_s": 0.008934240362811763,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0006215532775968313,
+    "trial_index": 468,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 5.843473289346635,
+    "quality": 0.34596237781047395,
+    "alignment_offset_s": 0.006031746031746055,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.013177837245166302,
+    "trial_index": 469,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -6.841547536798615,
+    "quality": 0.0,
+    "alignment_offset_s": -0.02299319727891158,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.013192552141845226,
+    "trial_index": 470,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -7.215083740428643,
+    "quality": 0.0,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.005098049063235521,
+    "trial_index": 471,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -6.487566996260065,
+    "quality": 0.0,
+    "alignment_offset_s": 0.020544217687074817,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.006391884759068489,
+    "trial_index": 472,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -10.968466189665788,
+    "quality": 0.0,
+    "alignment_offset_s": 0.017641723356009054,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.004449747037142515,
+    "trial_index": 473,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -4.187579637875204,
+    "quality": 0.0,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0014525444712489843,
+    "trial_index": 474,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 11.584244319040874,
+    "quality": 0.7560174513600624,
+    "alignment_offset_s": 0.006031746031746055,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.009889486245810986,
+    "trial_index": 475,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 27.455638741020877,
+    "quality": 1.0,
+    "alignment_offset_s": 0.026349206349206344,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0010774274123832583,
+    "trial_index": 476,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -2.993983531513662,
+    "quality": 0.0,
+    "alignment_offset_s": 0.026349206349206344,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.003969886340200901,
+    "trial_index": 477,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 3.543846252624422,
+    "quality": 0.1817033037588873,
+    "alignment_offset_s": 0.026349206349206344,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.011192859150469303,
+    "trial_index": 478,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 3.686045762028027,
+    "quality": 0.1918604115734305,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.004286669194698334,
+    "trial_index": 479,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 0.6760349546106564,
+    "quality": 0.0,
+    "alignment_offset_s": 0.026349206349206344,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.004109775181859732,
+    "trial_index": 480,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -2.3805390987836414,
+    "quality": 0.0,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.004790329374372959,
+    "trial_index": 481,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -12.024662913717313,
+    "quality": 0.0,
+    "alignment_offset_s": 0.020544217687074817,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0033800150267779827,
+    "trial_index": 482,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -9.277786120594474,
+    "quality": 0.0,
+    "alignment_offset_s": 0.020544217687074817,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.010248872451484203,
+    "trial_index": 483,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 6.706486560573458,
+    "quality": 0.40760618289810413,
+    "alignment_offset_s": 0.05827664399092969,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.004238779190927744,
+    "trial_index": 484,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 3.2161260127421483,
+    "quality": 0.15829471519586774,
+    "alignment_offset_s": 0.017641723356009054,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.001279556192457676,
+    "trial_index": 485,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 1.2160111223401255,
+    "quality": 0.015429365881437538,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0007444164366461337,
+    "trial_index": 486,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 13.36467357146528,
+    "quality": 0.8831909693903771,
+    "alignment_offset_s": 0.026349206349206344,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.001287231920287013,
+    "trial_index": 487,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 8.033603250317237,
+    "quality": 0.5024002321655169,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0009524333872832358,
+    "trial_index": 488,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 2.1762718507039613,
+    "quality": 0.007496874799210796,
+    "alignment_offset_s": -0.005578231292517,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0013595342170447111,
+    "trial_index": 489,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 0.6605642819066042,
+    "quality": 0.0,
+    "alignment_offset_s": 0.017641723356009054,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.004800710827112198,
+    "trial_index": 490,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -12.948903682792519,
+    "quality": 0.0,
+    "alignment_offset_s": 0.026349206349206344,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.00745856948196888,
+    "trial_index": 491,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 6.3844331879948015,
+    "quality": 0.38460237057105723,
+    "alignment_offset_s": 0.0495691609977324,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.012919471599161625,
+    "trial_index": 492,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -4.766120320584823,
+    "quality": 0.0,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0027822761330753565,
+    "trial_index": 493,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 6.133861532437845,
+    "quality": 0.36670439517413184,
+    "alignment_offset_s": 0.026349206349206344,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0007650501211173832,
+    "trial_index": 494,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 17.785429802522565,
+    "quality": 1.0,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.000909704715013504,
+    "trial_index": 495,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 1.395756938578013,
+    "quality": 0.02826835275557236,
+    "alignment_offset_s": 0.020544217687074817,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0027148269582539797,
+    "trial_index": 496,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -5.0420851568248555,
+    "quality": 0.0,
+    "alignment_offset_s": 0.043764172335600926,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0013551212614402175,
+    "trial_index": 497,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 3.6115147207311553,
+    "quality": 0.1865367657665111,
+    "alignment_offset_s": 0.043764172335600926,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0008285293588414788,
+    "trial_index": 498,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -1.2632555165411141,
+    "quality": 0.0,
+    "alignment_offset_s": 0.017641723356009054,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0021323352120816708,
+    "trial_index": 499,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -3.9820097418800855,
+    "quality": 0.0,
+    "alignment_offset_s": 0.020544217687074817,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0016832802211865783,
+    "trial_index": 500,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -1.0564106985887725,
+    "quality": 0.0,
+    "alignment_offset_s": 0.017641723356009054,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0016870510298758745,
+    "trial_index": 501,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -8.747292178047744,
+    "quality": 0.0,
+    "alignment_offset_s": 0.029251700680272108,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.008309988304972649,
+    "trial_index": 502,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 10.866834208604718,
+    "quality": 0.7047738720431942,
+    "alignment_offset_s": -0.002675736961451236,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.007251880597323179,
+    "trial_index": 503,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -1.7797119825104246,
+    "quality": 0.0,
+    "alignment_offset_s": 0.06988662131519274,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.03732229769229889,
+    "trial_index": 504,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 5.010954421990183,
+    "quality": 0.2864967444278702,
+    "alignment_offset_s": 0.003129251700680291,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.040783029049634933,
+    "trial_index": 505,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 2.4465909861948476,
+    "quality": 0.004318878314453959,
+    "alignment_offset_s": 0.026349206349206344,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.00705097708851099,
+    "trial_index": 506,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -13.205235248434064,
+    "quality": 0.0,
+    "alignment_offset_s": 0.020544217687074817,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0016480926424264908,
+    "trial_index": 507,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 3.0611752987475507,
+    "quality": 0.14722680705339647,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0010640235850587487,
+    "trial_index": 508,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 0.8442834598095023,
+    "quality": 0.0,
+    "alignment_offset_s": 0.020544217687074817,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0008383270469494164,
+    "trial_index": 509,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 5.994075960396536,
+    "quality": 0.35671971145689546,
+    "alignment_offset_s": 0.017641723356009054,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0007371409446932375,
+    "trial_index": 510,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 1.2546730368865195,
+    "quality": 0.018190931206179966,
+    "alignment_offset_s": 0.00022675736961452753,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.004506660159677267,
+    "trial_index": 511,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 0.8411596902955101,
+    "quality": 0.0,
+    "alignment_offset_s": 0.011836734693877526,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0009927188511937857,
+    "trial_index": 512,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 4.0661628014163105,
+    "quality": 0.2190116286725936,
+    "alignment_offset_s": 0.017641723356009054,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0007700769347138703,
+    "trial_index": 513,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 5.0052527256468,
+    "quality": 0.28608948040334287,
+    "alignment_offset_s": 0.008934240362811763,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0006349629838950932,
+    "trial_index": 514,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 12.022736238120519,
+    "quality": 0.7873383027228942,
+    "alignment_offset_s": 0.029251700680272108,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0007498145569115877,
+    "trial_index": 515,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 3.662848381099022,
+    "quality": 0.19020345579278727,
+    "alignment_offset_s": 0.011836734693877526,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0019438669551163912,
+    "trial_index": 516,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -2.805193681532696,
+    "quality": 0.0,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0037128927651792765,
+    "trial_index": 517,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -0.5938170496576185,
+    "quality": 0.0,
+    "alignment_offset_s": -0.020090702947845818,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.009485963732004166,
+    "trial_index": 518,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -7.203960962061766,
+    "quality": 0.0,
+    "alignment_offset_s": 0.043764172335600926,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.007195394951850176,
+    "trial_index": 519,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 24.72384286816544,
+    "quality": 1.0,
+    "alignment_offset_s": -0.005578231292517,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0010821277974173427,
+    "trial_index": 520,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -13.057591843000369,
+    "quality": 0.0,
+    "alignment_offset_s": 0.020544217687074817,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.004408941138535738,
+    "trial_index": 521,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 2.027920031961267,
+    "quality": 0.034990211925787815,
+    "alignment_offset_s": 0.011836734693877526,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0007062234217301011,
+    "trial_index": 522,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 4.470448176995413,
+    "quality": 0.24788915549967236,
+    "alignment_offset_s": 0.011836734693877526,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0007603270350955427,
+    "trial_index": 523,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -1.8837286402848106,
+    "quality": 0.0,
+    "alignment_offset_s": 0.003129251700680291,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0010212213965132833,
+    "trial_index": 524,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -10.695456621539556,
+    "quality": 0.0,
+    "alignment_offset_s": -0.020090702947845818,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.005294905975461006,
+    "trial_index": 525,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -9.180710778352895,
+    "quality": 0.0,
+    "alignment_offset_s": 0.017641723356009054,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.004693108610808849,
+    "trial_index": 526,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -4.49948539889176,
+    "quality": 0.0,
+    "alignment_offset_s": 0.04086167800453516,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.004136900417506695,
+    "trial_index": 527,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -2.4730948509242974,
+    "quality": 0.0,
+    "alignment_offset_s": 0.020544217687074817,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0027946829795837402,
+    "trial_index": 528,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -1.457316762412003,
+    "quality": 0.0,
+    "alignment_offset_s": 0.017641723356009054,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0010876614833250642,
+    "trial_index": 529,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 20.777410801347443,
+    "quality": 1.0,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0018272395245730877,
+    "trial_index": 530,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -11.9374436572481,
+    "quality": 0.0,
+    "alignment_offset_s": -0.011383219954648527,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.006872400641441345,
+    "trial_index": 531,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -2.870276774788245,
+    "quality": 0.0,
+    "alignment_offset_s": 0.011836734693877526,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.018385985866189003,
+    "trial_index": 532,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 3.9058588102637497,
+    "quality": 0.02093425443102914,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0019147198181599379,
+    "trial_index": 533,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -9.407337491858597,
+    "quality": 0.0,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0062388041988015175,
+    "trial_index": 534,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 5.972310716922627,
+    "quality": 0.3551650512087591,
+    "alignment_offset_s": -0.005578231292517,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0059930733405053616,
+    "trial_index": 535,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 5.752104774145562,
+    "quality": 0.3394360552961116,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0015109675005078316,
+    "trial_index": 536,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -8.14838699571176,
+    "quality": 0.0,
+    "alignment_offset_s": 0.043764172335600926,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0033219726756215096,
+    "trial_index": 537,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -0.3801801997194385,
+    "quality": 0.0,
+    "alignment_offset_s": 0.017641723356009054,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0021262767259031534,
+    "trial_index": 538,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -2.7686077874078534,
+    "quality": 0.0,
+    "alignment_offset_s": 0.020544217687074817,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.00335910776630044,
+    "trial_index": 539,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -6.095807395695211,
+    "quality": 0.0,
+    "alignment_offset_s": 0.017641723356009054,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.001034138142131269,
+    "trial_index": 540,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -3.124635680368306,
+    "quality": 0.0,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.00295832846313715,
+    "trial_index": 541,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 2.8891688404291296,
+    "quality": 0.030304236051429616,
+    "alignment_offset_s": 0.00022675736961452753,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.005685575772076845,
+    "trial_index": 542,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 5.378950621527821,
+    "quality": 0.3127821872519872,
+    "alignment_offset_s": 0.006031746031746055,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.00993967242538929,
+    "trial_index": 543,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 16.644544852798123,
+    "quality": 1.0,
+    "alignment_offset_s": 0.01473922902494329,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.004797881934791803,
+    "trial_index": 544,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -14.692946864083448,
+    "quality": 0.0,
+    "alignment_offset_s": 0.04086167800453516,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.002400260418653488,
+    "trial_index": 545,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 4.048934359979012,
+    "quality": 0.21778102571278657,
+    "alignment_offset_s": 0.008934240362811763,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0006173500441946089,
+    "trial_index": 546,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 4.404655783688101,
+    "quality": 0.24318969883486435,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0009394107619300485,
+    "trial_index": 547,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -8.761488665155508,
+    "quality": 0.0,
+    "alignment_offset_s": 0.020544217687074817,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.005043518729507923,
+    "trial_index": 548,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 9.959288528590966,
+    "quality": 0.6399491806136404,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0012610325356945395,
+    "trial_index": 549,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 3.051956211773463,
+    "quality": 0.14656830084096165,
+    "alignment_offset_s": 0.0495691609977324,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.013748137280344963,
+    "trial_index": 550,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -0.6886974716964868,
+    "quality": 0.0,
+    "alignment_offset_s": 0.011836734693877526,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0007308446802198887,
+    "trial_index": 551,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 3.02120514950016,
+    "quality": 0.014017374491820587,
+    "alignment_offset_s": 0.020544217687074817,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0031513196881860495,
+    "trial_index": 552,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 2.2257895754790717,
+    "quality": 0.08755639824850513,
+    "alignment_offset_s": 0.020544217687074817,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0008061014232225716,
+    "trial_index": 553,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -9.818816990261425,
+    "quality": 0.0,
+    "alignment_offset_s": 0.011836734693877526,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.003884613048285246,
+    "trial_index": 554,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -2.8438413579444832,
+    "quality": 0.0,
+    "alignment_offset_s": 0.0379591836734694,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.002096586860716343,
+    "trial_index": 555,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -11.15741799326647,
+    "quality": 0.0,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0034759731497615576,
+    "trial_index": 556,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -2.351895771399623,
+    "quality": 0.0,
+    "alignment_offset_s": 0.0379591836734694,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.003471906064078212,
+    "trial_index": 557,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -6.95876533976285,
+    "quality": 0.0,
+    "alignment_offset_s": 0.008934240362811763,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.009090635925531387,
+    "trial_index": 558,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 2.1527332621899014,
+    "quality": 0.07360560901795028,
+    "alignment_offset_s": 0.03215419501133787,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0037819086574018,
+    "trial_index": 559,
+    "seam_samples": 1
+  },
+  {
+    "snr_db": -7.645927955536097,
+    "quality": 0.0,
+    "alignment_offset_s": 0.011836734693877526,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0036517861299216747,
+    "trial_index": 560,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -2.9688216849474873,
+    "quality": 0.0,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.005191702861338854,
+    "trial_index": 561,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 8.166458679245977,
+    "quality": 0.5118899056604269,
+    "alignment_offset_s": 0.026349206349206344,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0005955875385552645,
+    "trial_index": 562,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 10.409121418628555,
+    "quality": 0.672080101330611,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0026221871376037598,
+    "trial_index": 563,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -0.5486076702037536,
+    "quality": 0.0,
+    "alignment_offset_s": 0.020544217687074817,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0016010045073926449,
+    "trial_index": 564,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -3.732323232043408,
+    "quality": 0.0,
+    "alignment_offset_s": 0.017641723356009054,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0009727408760227263,
+    "trial_index": 565,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 8.805162426807998,
+    "quality": 0.557511601914857,
+    "alignment_offset_s": 0.020544217687074817,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0006153448484838009,
+    "trial_index": 566,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 6.632951705988058,
+    "quality": 0.40235369328486126,
+    "alignment_offset_s": 0.020544217687074817,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0006322989938780665,
+    "trial_index": 567,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -2.4595263434139034,
+    "quality": 0.0,
+    "alignment_offset_s": 0.026349206349206344,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.00813225470483303,
+    "trial_index": 568,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 6.053176873143881,
+    "quality": 0.36094120522456297,
+    "alignment_offset_s": 0.026349206349206344,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0036643892526626587,
+    "trial_index": 569,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -11.972742966119782,
+    "quality": 0.0,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.004816905595362186,
+    "trial_index": 570,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 5.758032495794325,
+    "quality": 0.3398594639853089,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.000725881545804441,
+    "trial_index": 571,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 8.524286111157943,
+    "quality": 0.5374490079398531,
+    "alignment_offset_s": 0.020544217687074817,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0005429338780231774,
+    "trial_index": 572,
+    "seam_samples": 1
+  },
+  {
+    "snr_db": 1.4595314787864397,
+    "quality": 0.03282367705617427,
+    "alignment_offset_s": 0.026349206349206344,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.000749244645703584,
+    "trial_index": 573,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 6.741297622700016,
+    "quality": 0.41009268733571547,
+    "alignment_offset_s": 0.026349206349206344,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.000687337713316083,
+    "trial_index": 574,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 7.474081951823638,
+    "quality": 0.46243442513025984,
+    "alignment_offset_s": 0.017641723356009054,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0006365755689330399,
+    "trial_index": 575,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -5.481657435575587,
+    "quality": 0.0,
+    "alignment_offset_s": 0.020544217687074817,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0017652625683695078,
+    "trial_index": 576,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 8.342027723325193,
+    "quality": 0.5244305516660852,
+    "alignment_offset_s": 0.03215419501133787,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.007736491039395332,
+    "trial_index": 577,
+    "seam_samples": 1
+  },
+  {
+    "snr_db": 9.641134041456546,
+    "quality": 0.617223860104039,
+    "alignment_offset_s": 0.020544217687074817,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0007431815611198545,
+    "trial_index": 578,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 9.913698888807176,
+    "quality": 0.6366927777719411,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0009603394428268075,
+    "trial_index": 579,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 4.313524241223899,
+    "quality": 0.23668030294456419,
+    "alignment_offset_s": 0.029251700680272108,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0006968674133531749,
+    "trial_index": 580,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 8.808658092532358,
+    "quality": 0.5577612923237398,
+    "alignment_offset_s": 0.026349206349206344,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0011805160902440548,
+    "trial_index": 581,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 12.231319435372745,
+    "quality": 0.8022371025266246,
+    "alignment_offset_s": 0.026349206349206344,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0009329116437584162,
+    "trial_index": 582,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 7.669893555305881,
+    "quality": 0.4764209682361344,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.001044025644659996,
+    "trial_index": 583,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 4.492893525981046,
+    "quality": 0.24949239471293186,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0006870869547128677,
+    "trial_index": 584,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 6.25517573996737,
+    "quality": 0.37536969571195505,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0007216471713036299,
+    "trial_index": 585,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 0.7026048139659478,
+    "quality": 0.0,
+    "alignment_offset_s": 0.017641723356009054,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.00191099988296628,
+    "trial_index": 586,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 15.626332074595213,
+    "quality": 1.0,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0006068702205084264,
+    "trial_index": 587,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 14.57503576841187,
+    "quality": 0.9696454120294193,
+    "alignment_offset_s": 0.026349206349206344,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.000836480816360563,
+    "trial_index": 588,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 6.836488396357987,
+    "quality": 0.4168920283112848,
+    "alignment_offset_s": 0.017641723356009054,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0011359733762219548,
+    "trial_index": 589,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 9.181630901662754,
+    "quality": 0.5844022072616253,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0007473152945749462,
+    "trial_index": 590,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 8.108921627264952,
+    "quality": 0.5077801162332108,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0010092462180182338,
+    "trial_index": 591,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 10.920639123632498,
+    "quality": 0.7086170802594641,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0008365246467292309,
+    "trial_index": 592,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -3.321630908309963,
+    "quality": 0.0,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0015565567882731557,
+    "trial_index": 593,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 5.444839419596342,
+    "quality": 0.3174885299711673,
+    "alignment_offset_s": 0.017641723356009054,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0006620648200623691,
+    "trial_index": 594,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 6.145657953849089,
+    "quality": 0.3675469967035064,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.00082171312533319,
+    "trial_index": 595,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 6.099595064736743,
+    "quality": 0.3642567903383388,
+    "alignment_offset_s": 0.011836734693877526,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.00080860749585554,
+    "trial_index": 596,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 7.195000638930455,
+    "quality": 0.44250004563788964,
+    "alignment_offset_s": 0.017641723356009054,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0009134141146205366,
+    "trial_index": 597,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 2.9671154479302313,
+    "quality": 0.1405082462807308,
+    "alignment_offset_s": 0.008934240362811763,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0011824717512354255,
+    "trial_index": 598,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 6.715571855127918,
+    "quality": 0.40825513250913703,
+    "alignment_offset_s": 0.011836734693877526,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0006575810839422047,
+    "trial_index": 599,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 7.77190486937542,
+    "quality": 0.48370749066967283,
+    "alignment_offset_s": 0.020544217687074817,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0015373991336673498,
+    "trial_index": 600,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 3.9356476426010847,
+    "quality": 0.2096891173286489,
+    "alignment_offset_s": 0.020544217687074817,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0019218525849282742,
+    "trial_index": 601,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 0.4587981492724734,
+    "quality": 0.0,
+    "alignment_offset_s": 0.020544217687074817,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.007949507795274258,
+    "trial_index": 602,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 4.688885544362434,
+    "quality": 0.26349182459731674,
+    "alignment_offset_s": 0.020544217687074817,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0011782014044001698,
+    "trial_index": 603,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 15.547891993120613,
+    "quality": 1.0,
+    "alignment_offset_s": -0.02879818594104311,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0017187747871503234,
+    "trial_index": 604,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 9.452464029856317,
+    "quality": 0.6037474307040227,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0006956876604817808,
+    "trial_index": 605,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -4.387323707039264,
+    "quality": 0.0,
+    "alignment_offset_s": 0.017641723356009054,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0015127836959436536,
+    "trial_index": 606,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 11.939522229593038,
+    "quality": 0.7813944449709312,
+    "alignment_offset_s": 0.020544217687074817,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0005664326599799097,
+    "trial_index": 607,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 6.643193860624258,
+    "quality": 0.32808409341987294,
+    "alignment_offset_s": 0.01473922902494329,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.01717517524957657,
+    "trial_index": 608,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 13.761390290062657,
+    "quality": 0.9115278778616184,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0006607589311897755,
+    "trial_index": 609,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -0.6315822357130902,
+    "quality": 0.0,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0012056372361257672,
+    "trial_index": 610,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -12.830572415475313,
+    "quality": 0.0,
+    "alignment_offset_s": 0.020544217687074817,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.008907771669328213,
+    "trial_index": 611,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 5.139634829126033,
+    "quality": 0.09159332580769507,
+    "alignment_offset_s": 0.035056689342403635,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.005870208144187927,
+    "trial_index": 612,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 1.030132197900457,
+    "quality": 0.00215229985003264,
+    "alignment_offset_s": 0.035056689342403635,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0007029726984910667,
+    "trial_index": 613,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 3.491123702506079,
+    "quality": 0.17793740732186278,
+    "alignment_offset_s": 0.01473922902494329,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0006971536204218864,
+    "trial_index": 614,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -2.3689884162057813,
+    "quality": 0.0,
+    "alignment_offset_s": 0.035056689342403635,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.001901044393889606,
+    "trial_index": 615,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 3.3109867820297287,
+    "quality": 0.15371022391679207,
+    "alignment_offset_s": 0.026349206349206344,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0015528876101598144,
+    "trial_index": 616,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 4.461792855948806,
+    "quality": 0.24727091828205758,
+    "alignment_offset_s": 0.011836734693877526,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.002308311639353633,
+    "trial_index": 617,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 7.137904209436774,
+    "quality": 0.4384217292454839,
+    "alignment_offset_s": 0.017641723356009054,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0010269692866131663,
+    "trial_index": 618,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 1.5811709483572072,
+    "quality": 0.014629754296408701,
+    "alignment_offset_s": 0.006031746031746055,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.00759114557877183,
+    "trial_index": 619,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 5.010906868204873,
+    "quality": 0.2864933477289195,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0006800340488553047,
+    "trial_index": 620,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 2.6522696782705246,
+    "quality": 0.1180192627336089,
+    "alignment_offset_s": 0.0379591836734694,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0006655563483946025,
+    "trial_index": 621,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 9.922898386492264,
+    "quality": 0.6373498847494474,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.02317737229168415,
+    "trial_index": 622,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -2.4765858802124847,
+    "quality": 0.0,
+    "alignment_offset_s": 0.020544217687074817,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.002484844997525215,
+    "trial_index": 623,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 10.702554855540239,
+    "quality": 0.6930396325385885,
+    "alignment_offset_s": 0.020544217687074817,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0005574959795922041,
+    "trial_index": 624,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -1.4605482926684838,
+    "quality": 0.0,
+    "alignment_offset_s": 0.017641723356009054,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0023853217717260122,
+    "trial_index": 625,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 14.671993524987357,
+    "quality": 0.9765709660705255,
+    "alignment_offset_s": 0.03215419501133787,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.010918860323727131,
+    "trial_index": 626,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -25.34293352902925,
+    "quality": 0.0,
+    "alignment_offset_s": 0.006031746031746055,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.014586334116756916,
+    "trial_index": 627,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 7.976796455341095,
+    "quality": 0.49834260395293534,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0006674884934909642,
+    "trial_index": 628,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 6.007326428332178,
+    "quality": 0.3576661734522984,
+    "alignment_offset_s": 0.0379591836734694,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.001213351497426629,
+    "trial_index": 629,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 0.48205845821416676,
+    "quality": 0.0,
+    "alignment_offset_s": 0.0727891156462585,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0008581990259699523,
+    "trial_index": 630,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 2.8428101104742947,
+    "quality": 0.13162929360530676,
+    "alignment_offset_s": 0.01473922902494329,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0009859133278951049,
+    "trial_index": 631,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 1.7569807042045387,
+    "quality": 0.05407005030032419,
+    "alignment_offset_s": 0.04086167800453516,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0008379968930967152,
+    "trial_index": 632,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 1.3560367114226155,
+    "quality": 0.025431193673043966,
+    "alignment_offset_s": 0.04666666666666669,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0008420944795943797,
+    "trial_index": 633,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 4.072216763862473,
+    "quality": 0.2194440545616052,
+    "alignment_offset_s": 0.03215419501133787,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0006815824308432639,
+    "trial_index": 634,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 2.468466535322348,
+    "quality": 0.10489046680873915,
+    "alignment_offset_s": 0.043764172335600926,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0006681907689198852,
+    "trial_index": 635,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 1.4996803878171991,
+    "quality": 0.019810439819557907,
+    "alignment_offset_s": 0.017641723356009054,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0009886457119137049,
+    "trial_index": 636,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 3.1925372549411106,
+    "quality": 0.15660980392436505,
+    "alignment_offset_s": 0.011836734693877526,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0007734877872280777,
+    "trial_index": 637,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 0.7738295376867439,
+    "quality": 0.0,
+    "alignment_offset_s": 0.01473922902494329,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0006574915605597198,
+    "trial_index": 638,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -9.178983191798814,
+    "quality": 0.0,
+    "alignment_offset_s": 0.0495691609977324,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0013704727170988917,
+    "trial_index": 639,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 7.476412601988917,
+    "quality": 0.4626009001420655,
+    "alignment_offset_s": 0.017641723356009054,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0016285432502627373,
+    "trial_index": 640,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -2.5997162067733672,
+    "quality": 0.0,
+    "alignment_offset_s": 0.04666666666666669,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0014913995983079076,
+    "trial_index": 641,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -1.0937113676899088,
+    "quality": 0.0,
+    "alignment_offset_s": 0.011836734693877526,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0017650548834353685,
+    "trial_index": 642,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 6.948127069129564,
+    "quality": 0.4248662192235403,
+    "alignment_offset_s": 0.003129251700680291,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0008350686985068023,
+    "trial_index": 643,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 2.9330105837201135,
+    "quality": 0.1380721845514367,
+    "alignment_offset_s": 0.017641723356009054,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0006851593498140574,
+    "trial_index": 644,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 5.992530943405599,
+    "quality": 0.35660935310039993,
+    "alignment_offset_s": 0.006031746031746055,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0007342032040469348,
+    "trial_index": 645,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 8.343642783344938,
+    "quality": 0.524545913096067,
+    "alignment_offset_s": 0.017641723356009054,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.000636991870123893,
+    "trial_index": 646,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -0.8828592247510901,
+    "quality": 0.0,
+    "alignment_offset_s": 0.017641723356009054,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0017721226904541254,
+    "trial_index": 647,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 6.38844581857895,
+    "quality": 0.3848889870413536,
+    "alignment_offset_s": 0.017641723356009054,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0009225877001881599,
+    "trial_index": 648,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 4.457461158399864,
+    "quality": 0.24696151131427602,
+    "alignment_offset_s": 0.017641723356009054,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0007770622032694519,
+    "trial_index": 649,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -2.489507365671479,
+    "quality": 0.0,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.003008601488545537,
+    "trial_index": 650,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 7.444123751058839,
+    "quality": 0.46029455364705996,
+    "alignment_offset_s": 0.026349206349206344,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0012415570672601461,
+    "trial_index": 651,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 2.5543381765767097,
+    "quality": 0.11102415546976498,
+    "alignment_offset_s": 0.020544217687074817,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0010398431913927197,
+    "trial_index": 652,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 3.4693919574919505,
+    "quality": 0.1763851398208536,
+    "alignment_offset_s": 0.0379591836734694,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0007204265566542745,
+    "trial_index": 653,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 13.259124582281514,
+    "quality": 0.875651755877251,
+    "alignment_offset_s": 0.020544217687074817,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.001565430429764092,
+    "trial_index": 654,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -0.4551584378614401,
+    "quality": 0.0,
+    "alignment_offset_s": 0.020544217687074817,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0010500786593183875,
+    "trial_index": 655,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 7.1957729190074735,
+    "quality": 0.4425552085005338,
+    "alignment_offset_s": 0.020544217687074817,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0007775561534799635,
+    "trial_index": 656,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 7.612779322881858,
+    "quality": 0.472341380205847,
+    "alignment_offset_s": 0.00022675736961452753,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.013353850692510605,
+    "trial_index": 657,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 4.287877509408755,
+    "quality": 0.2348483935291968,
+    "alignment_offset_s": 0.020544217687074817,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0006322266417555511,
+    "trial_index": 658,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 2.921049280481889,
+    "quality": 0.13721780574870635,
+    "alignment_offset_s": 0.0379591836734694,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0007537552737630904,
+    "trial_index": 659,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 8.155101721819562,
+    "quality": 0.511078694415683,
+    "alignment_offset_s": 0.017641723356009054,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0006840016576461494,
+    "trial_index": 660,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 7.964397126608123,
+    "quality": 0.4974569376148659,
+    "alignment_offset_s": 0.026349206349206344,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0011595732066780329,
+    "trial_index": 661,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 6.511643529583036,
+    "quality": 0.39368882354164547,
+    "alignment_offset_s": 0.020544217687074817,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0006481663440354168,
+    "trial_index": 662,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 7.582566768046991,
+    "quality": 0.4701833405747851,
+    "alignment_offset_s": 0.020544217687074817,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0008765663369558752,
+    "trial_index": 663,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 7.446099115865442,
+    "quality": 0.46043565113324586,
+    "alignment_offset_s": 0.020544217687074817,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.000768312020227313,
+    "trial_index": 664,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 0.6695201328975828,
+    "quality": 0.0,
+    "alignment_offset_s": -0.01428571428571429,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0010113796452060342,
+    "trial_index": 665,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 6.2620430321671785,
+    "quality": 0.3758602165833699,
+    "alignment_offset_s": 0.026349206349206344,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0012488279026001692,
+    "trial_index": 666,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -3.2051506466909534,
+    "quality": 0.0,
+    "alignment_offset_s": 0.020544217687074817,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.004945032298564911,
+    "trial_index": 667,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 0.39756258840764286,
+    "quality": 0.0,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0013870238326489925,
+    "trial_index": 668,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 2.5900502689013667,
+    "quality": 0.11357501920724047,
+    "alignment_offset_s": 0.017641723356009054,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0007413977291435003,
+    "trial_index": 669,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 14.638565481797865,
+    "quality": 0.9741832486998475,
+    "alignment_offset_s": 0.017641723356009054,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.003151919459924102,
+    "trial_index": 670,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -4.308412758910794,
+    "quality": 0.0,
+    "alignment_offset_s": 0.01473922902494329,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.004193616099655628,
+    "trial_index": 671,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 3.345167428622255,
+    "quality": 0.16751195918730394,
+    "alignment_offset_s": 0.01473922902494329,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0007721937145106494,
+    "trial_index": 672,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -17.422552662637734,
+    "quality": 0.0,
+    "alignment_offset_s": 0.020544217687074817,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.008720814250409603,
+    "trial_index": 673,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -8.726406273549998,
+    "quality": 0.0,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.016541102901101112,
+    "trial_index": 674,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 5.086534815305601,
+    "quality": 0.29189534395040007,
+    "alignment_offset_s": 0.020544217687074817,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0022021152544766665,
+    "trial_index": 675,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -1.36748735280629,
+    "quality": 0.0,
+    "alignment_offset_s": -0.002675736961451236,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.006511532701551914,
+    "trial_index": 676,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 4.692620835031617,
+    "quality": 0.2637586310736869,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0008717052987776697,
+    "trial_index": 677,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 4.1930870748795686,
+    "quality": 0.22807764820568346,
+    "alignment_offset_s": 0.020544217687074817,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0007017037714831531,
+    "trial_index": 678,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 8.651984526998575,
+    "quality": 0.546570323357041,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0008239484159275889,
+    "trial_index": 679,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 6.660396973568714,
+    "quality": 0.40431406954062243,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0006983131752349436,
+    "trial_index": 680,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 2.6621466763922412,
+    "quality": 0.1187247625994458,
+    "alignment_offset_s": 0.01473922902494329,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0006498941220343113,
+    "trial_index": 681,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 6.772953945474248,
+    "quality": 0.41235385324816054,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.001062216004356742,
+    "trial_index": 682,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -15.01376474711311,
+    "quality": 0.0,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0025337778497487307,
+    "trial_index": 683,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 9.492210444323021,
+    "quality": 0.6065864603087873,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0006063596229068935,
+    "trial_index": 684,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 1.5924512781498432,
+    "quality": 0.042317948439274514,
+    "alignment_offset_s": 0.017641723356009054,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0034716231748461723,
+    "trial_index": 685,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 3.0139141359111465,
+    "quality": 0.14385100970793904,
+    "alignment_offset_s": 0.0379591836734694,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0006930233212187886,
+    "trial_index": 686,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -2.3661043704360067,
+    "quality": 0.0,
+    "alignment_offset_s": 0.017641723356009054,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0024692860897630453,
+    "trial_index": 687,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 4.878412553723641,
+    "quality": 0.27702946812311724,
+    "alignment_offset_s": 0.029251700680272108,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.000779753434471786,
+    "trial_index": 688,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -6.737555604248041,
+    "quality": 0.0,
+    "alignment_offset_s": 0.017641723356009054,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.001308646285906434,
+    "trial_index": 689,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -1.9238357780765944,
+    "quality": 0.0,
+    "alignment_offset_s": 0.04086167800453516,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0012681130319833755,
+    "trial_index": 690,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 4.129754194328535,
+    "quality": 0.22355387102346677,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0007658629911020398,
+    "trial_index": 691,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 5.030521643770229,
+    "quality": 0.28789440312644493,
+    "alignment_offset_s": 0.008934240362811763,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.003969251643866301,
+    "trial_index": 692,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -24.446992272152286,
+    "quality": 0.0,
+    "alignment_offset_s": 0.020544217687074817,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.019063059240579605,
+    "trial_index": 693,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 9.592876322733922,
+    "quality": 0.6137768801952801,
+    "alignment_offset_s": 0.01473922902494329,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0006800531409680843,
+    "trial_index": 694,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 17.41245701497634,
+    "quality": 1.0,
+    "alignment_offset_s": 0.011836734693877526,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0008313625585287809,
+    "trial_index": 695,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 16.938185126259967,
+    "quality": 1.0,
+    "alignment_offset_s": 0.026349206349206344,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0025810624938458204,
+    "trial_index": 696,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -2.221707752306796,
+    "quality": 0.0,
+    "alignment_offset_s": 0.020544217687074817,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0008131932700052857,
+    "trial_index": 697,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 0.9338624055933296,
+    "quality": 0.0,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0007883819635026157,
+    "trial_index": 698,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 3.1670317711557514,
+    "quality": 0.15478798365398225,
+    "alignment_offset_s": 0.020544217687074817,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0008336057071574032,
+    "trial_index": 699,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 7.40746659627897,
+    "quality": 0.4576761854484978,
+    "alignment_offset_s": 0.017641723356009054,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0006135241710580885,
+    "trial_index": 700,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 5.723626538747464,
+    "quality": 0.33740189562481887,
+    "alignment_offset_s": 0.020544217687074817,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0007051346474327147,
+    "trial_index": 701,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 2.1279348635522446,
+    "quality": 0.08056677596801746,
+    "alignment_offset_s": 0.020544217687074817,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.000465167046058923,
+    "trial_index": 702,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 7.864876176972606,
+    "quality": 0.4903482983551862,
+    "alignment_offset_s": 0.020544217687074817,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0006436344119720161,
+    "trial_index": 703,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 2.0663188086706086,
+    "quality": 0.07308610748768582,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0011217897990718484,
+    "trial_index": 704,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 2.5301186692869786,
+    "quality": 0.08446953319665769,
+    "alignment_offset_s": 0.011836734693877526,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.000870632822625339,
+    "trial_index": 705,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -3.998587344723755,
+    "quality": 0.0,
+    "alignment_offset_s": 0.026349206349206344,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.00236524292267859,
+    "trial_index": 706,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 3.0184302550154984,
+    "quality": 0.14417358964396418,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0007324193138629198,
+    "trial_index": 707,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -2.4854587553954746,
+    "quality": 0.0,
+    "alignment_offset_s": 0.043764172335600926,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0007926321122795343,
+    "trial_index": 708,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -0.7102343829808844,
+    "quality": 0.0,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0008258720044977963,
+    "trial_index": 709,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 8.607426069084653,
+    "quality": 0.5433875763631895,
+    "alignment_offset_s": 0.029251700680272108,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0007246271125040948,
+    "trial_index": 710,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 3.1360461367691252,
+    "quality": 0.008409082216744622,
+    "alignment_offset_s": 0.035056689342403635,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.002026766538619995,
+    "trial_index": 711,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 8.038484365943866,
+    "quality": 0.5027488832817048,
+    "alignment_offset_s": 0.026349206349206344,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.007565868087112904,
+    "trial_index": 712,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -4.1106314256773,
+    "quality": 0.0,
+    "alignment_offset_s": 0.05827664399092969,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.009006514213979244,
+    "trial_index": 713,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 0.6348586766572039,
+    "quality": 0.0,
+    "alignment_offset_s": 0.0379591836734694,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0008267979719676077,
+    "trial_index": 714,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 16.209351876601147,
+    "quality": 1.0,
+    "alignment_offset_s": -0.008480725623582763,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0010584491537883878,
+    "trial_index": 715,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 5.133519050754641,
+    "quality": 0.29525136076818864,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.000986525323241949,
+    "trial_index": 716,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 7.727386505833697,
+    "quality": 0.48052760755954976,
+    "alignment_offset_s": 0.020544217687074817,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0007716331165283918,
+    "trial_index": 717,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -0.5577327286281999,
+    "quality": 0.0,
+    "alignment_offset_s": 0.008934240362811763,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0013353315880522132,
+    "trial_index": 718,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 7.586487473367077,
+    "quality": 0.4704633909547912,
+    "alignment_offset_s": 0.020544217687074817,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0008147057378664613,
+    "trial_index": 719,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -0.5754544599244001,
+    "quality": 0.0,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0010592670878395438,
+    "trial_index": 720,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -0.5806262961065021,
+    "quality": 0.0,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0010306581389158964,
+    "trial_index": 721,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -4.438294743172835,
+    "quality": 0.0,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0018065139884129167,
+    "trial_index": 722,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -10.552673754432753,
+    "quality": 0.0,
+    "alignment_offset_s": -0.02879818594104311,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.026459068059921265,
+    "trial_index": 723,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -11.845064447093456,
+    "quality": 0.0,
+    "alignment_offset_s": 0.003129251700680291,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0010434023570269346,
+    "trial_index": 724,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 11.61472000237217,
+    "quality": 0.7581942858837264,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.000583410554099828,
+    "trial_index": 725,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 1.8211532377541875,
+    "quality": 0.058653802696727673,
+    "alignment_offset_s": 0.017641723356009054,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0006038655992597342,
+    "trial_index": 726,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -0.07038879960243387,
+    "quality": 0.0,
+    "alignment_offset_s": 0.01473922902494329,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0009122872725129128,
+    "trial_index": 727,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 7.98608226964332,
+    "quality": 0.4990058764030943,
+    "alignment_offset_s": 0.0379591836734694,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0014265428762882948,
+    "trial_index": 728,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 16.889612265981743,
+    "quality": 1.0,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.002134440466761589,
+    "trial_index": 729,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -2.2201243220901326,
+    "quality": 0.0,
+    "alignment_offset_s": 0.017641723356009054,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0008189869695343077,
+    "trial_index": 730,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -1.5696382352422016,
+    "quality": 0.0,
+    "alignment_offset_s": 0.017641723356009054,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0007472445722669363,
+    "trial_index": 731,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 2.1666665187954988,
+    "quality": 0.08333332277110705,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0007183786947280169,
+    "trial_index": 732,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 7.32572585854831,
+    "quality": 0.4518375613248793,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.000566501694265753,
+    "trial_index": 733,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 4.333282291742014,
+    "quality": 0.23809159226728674,
+    "alignment_offset_s": 0.020544217687074817,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0005914466455578804,
+    "trial_index": 734,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -14.921613448185093,
+    "quality": 0.0,
+    "alignment_offset_s": 0.020544217687074817,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0013486710377037525,
+    "trial_index": 735,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 2.6104399957130475,
+    "quality": 0.11503142826521769,
+    "alignment_offset_s": 0.020544217687074817,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0007241220446303487,
+    "trial_index": 736,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 9.91866166919159,
+    "quality": 0.6370472620851135,
+    "alignment_offset_s": 0.017641723356009054,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0005619574221782386,
+    "trial_index": 737,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 3.7557238275932745,
+    "quality": 0.19683741625666246,
+    "alignment_offset_s": 0.017641723356009054,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0005834532785229385,
+    "trial_index": 738,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 7.6687893956988145,
+    "quality": 0.47634209969277247,
+    "alignment_offset_s": 0.020544217687074817,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0006295710918493569,
+    "trial_index": 739,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 3.516232157732695,
+    "quality": 0.17973086840947822,
+    "alignment_offset_s": 0.011836734693877526,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0005521480925381184,
+    "trial_index": 740,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -0.49314516788781687,
+    "quality": 0.0,
+    "alignment_offset_s": 0.026349206349206344,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.006032027769833803,
+    "trial_index": 741,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 4.804094413074609,
+    "quality": 0.2717210295053292,
+    "alignment_offset_s": 0.029251700680272108,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0006899003637954593,
+    "trial_index": 742,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 0.5612616297948082,
+    "quality": 0.0,
+    "alignment_offset_s": 0.020544217687074817,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0009766191942617297,
+    "trial_index": 743,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 4.861330033258849,
+    "quality": 0.2758092880899178,
+    "alignment_offset_s": 0.01473922902494329,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0006953253177925944,
+    "trial_index": 744,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 2.245647602395435,
+    "quality": 0.08897482874253106,
+    "alignment_offset_s": 0.017641723356009054,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.000994153437204659,
+    "trial_index": 745,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 5.599921722922866,
+    "quality": 0.32856583735163325,
+    "alignment_offset_s": 0.017641723356009054,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0006830209749750793,
+    "trial_index": 746,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -2.166910077289118,
+    "quality": 0.0,
+    "alignment_offset_s": 0.017641723356009054,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0013929118867963552,
+    "trial_index": 747,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 4.309689537124005,
+    "quality": 0.23640639550885753,
+    "alignment_offset_s": 0.026349206349206344,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0006922952015884221,
+    "trial_index": 748,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 2.596250246391556,
+    "quality": 0.114017874742254,
+    "alignment_offset_s": 0.035056689342403635,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0007421849295496941,
+    "trial_index": 749,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 6.404949082674629,
+    "quality": 0.38606779161961635,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0009139739559032023,
+    "trial_index": 750,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 4.232844325127694,
+    "quality": 0.23091745179483528,
+    "alignment_offset_s": 0.04086167800453516,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0010003212373703718,
+    "trial_index": 751,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 0.5521213745762104,
+    "quality": 0.0,
+    "alignment_offset_s": 0.008934240362811763,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0008485038415528834,
+    "trial_index": 752,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 3.2473964637828594,
+    "quality": 0.08732887798100945,
+    "alignment_offset_s": 0.04086167800453516,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0008857112261466682,
+    "trial_index": 753,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 4.924136365254834,
+    "quality": 0.2802954546610596,
+    "alignment_offset_s": 0.020544217687074817,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.000589409377425909,
+    "trial_index": 754,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 10.587521853987623,
+    "quality": 0.6848229895705444,
+    "alignment_offset_s": -0.005578231292517,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0032590406481176615,
+    "trial_index": 755,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 5.74220007116857,
+    "quality": 0.33872857651204075,
+    "alignment_offset_s": 0.011836734693877526,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.000567039882298559,
+    "trial_index": 756,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 6.723765324638088,
+    "quality": 0.408840380331292,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0009376122616231441,
+    "trial_index": 757,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 2.1293030026242095,
+    "quality": 0.06538290969856646,
+    "alignment_offset_s": 0.017641723356009054,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0007425096700899303,
+    "trial_index": 758,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -2.6887820543645673,
+    "quality": 0.0,
+    "alignment_offset_s": 0.026349206349206344,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0059715514071285725,
+    "trial_index": 759,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 2.681116515296629,
+    "quality": 0.12007975109261637,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0006814712542109191,
+    "trial_index": 760,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 2.8812459286055168,
+    "quality": 0.13437470918610833,
+    "alignment_offset_s": 0.029251700680272108,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0007920209318399429,
+    "trial_index": 761,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -0.2707597524444237,
+    "quality": 0.0,
+    "alignment_offset_s": 0.04086167800453516,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0005522247520275414,
+    "trial_index": 762,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 2.232014446229426,
+    "quality": 0.08800103187353041,
+    "alignment_offset_s": 0.04086167800453516,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0007225802983157337,
+    "trial_index": 763,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 9.51127673136822,
+    "quality": 0.6079483379548728,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0007150341989472508,
+    "trial_index": 764,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -4.910571704502049,
+    "quality": 0.0,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0008250318351201713,
+    "trial_index": 765,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 3.540702736398715,
+    "quality": 0.1814787668856225,
+    "alignment_offset_s": 0.017641723356009054,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0008082989370450377,
+    "trial_index": 766,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 9.5705328155276,
+    "quality": 0.6121809153948286,
+    "alignment_offset_s": 0.029251700680272108,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0006932762335054576,
+    "trial_index": 767,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 1.1334762709386021,
+    "quality": 0.009534019352757297,
+    "alignment_offset_s": 0.06408163265306122,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0006915966514497995,
+    "trial_index": 768,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -4.7867633384703865,
+    "quality": 0.0,
+    "alignment_offset_s": 0.02344671201814058,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0011833951575681567,
+    "trial_index": 769,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 1.9653308286470874,
+    "quality": 0.06895220204622053,
+    "alignment_offset_s": 0.04086167800453516,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0005684278439730406,
+    "trial_index": 770,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -3.905271437698492,
+    "quality": 0.0,
+    "alignment_offset_s": 0.011836734693877526,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.003465431509539485,
+    "trial_index": 771,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 11.204916251660057,
+    "quality": 0.7289225894042898,
+    "alignment_offset_s": 0.011836734693877526,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.006208884529769421,
+    "trial_index": 772,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": -3.5248232847823147,
+    "quality": 0.0,
+    "alignment_offset_s": 0.017641723356009054,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0009885960025712848,
+    "trial_index": 773,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 2.991761409249389,
+    "quality": 0.14226867208924207,
+    "alignment_offset_s": 0.017641723356009054,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0006102994084358215,
+    "trial_index": 774,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 0.32068388840373296,
+    "quality": 0.0,
+    "alignment_offset_s": 0.035056689342403635,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0005782152875326574,
+    "trial_index": 775,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 4.461655026833962,
+    "quality": 0.247261073345283,
+    "alignment_offset_s": 0.017641723356009054,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0006768170860596001,
+    "trial_index": 776,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 24.352377101077643,
+    "quality": 1.0,
+    "alignment_offset_s": 0.03215419501133787,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0006267173448577523,
+    "trial_index": 777,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 0.02618295403590246,
+    "quality": 0.0,
+    "alignment_offset_s": 0.01473922902494329,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.0007381535251624882,
+    "trial_index": 778,
+    "seam_samples": 0
+  },
+  {
+    "snr_db": 4.372000003462388,
+    "quality": 0.006090575656465086,
+    "alignment_offset_s": -0.011383219954648527,
+    "clipping_fraction": 0.0,
+    "background_rms": 0.000838719482999295,
+    "trial_index": 779,
+    "seam_samples": 0
+  }
+]

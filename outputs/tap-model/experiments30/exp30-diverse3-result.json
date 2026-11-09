@@ -1,0 +1,450 @@
+{
+  "name": "exp30-diverse3",
+  "config": {
+    "policy": "baseline weight 2 plus top 3 distinct feature families weight 1",
+    "members": [
+      {
+        "name": "baseline-current",
+        "weight": 2.0
+      },
+      {
+        "name": "exp23-guard80",
+        "weight": 1.0,
+        "family": "shared_motion_lid_optical_bank"
+      },
+      {
+        "name": "exp09_trees",
+        "weight": 1.0,
+        "family": "sensor_representation_09"
+      },
+      {
+        "name": "exp15_template_k1",
+        "weight": 1.0,
+        "family": "sensor_representation_15"
+      }
+    ]
+  },
+  "validation": {
+    "n": 226,
+    "exact": 0.07964601769911504,
+    "within_one": 0.5,
+    "within_two": 0.7389380530973452,
+    "mean_distance_cells": 2.339942725012189,
+    "median_distance_cells": 1.7071067811865475,
+    "far_half_screen": 0.022123893805309734,
+    "far_third_screen": 0.05752212389380531,
+    "side_x": 0.8362831858407079,
+    "side_y": 0.9292035398230089,
+    "edge_exact": 0.125,
+    "unique_predicted_cells": 120,
+    "score": 0.8988478121217124
+  },
+  "extra": {
+    "selection": "ranked by predeclared shared validation score; no test access",
+    "family_rule": "unchanged M/F-bank methods share one family; added sensor representations form separate families",
+    "joint_caveat": "exp22 can be marginalized but joint MAP is not equivalent; excluded here by shared-bank family deduplication",
+    "candidate_audit": [
+      {
+        "name": "baseline-current",
+        "agent": 0,
+        "reported_score": 1.014128397489249,
+        "marginal_score": 1.014128397489249,
+        "excluded": "baseline separately weighted"
+      },
+      {
+        "name": "exp01_svm_c15",
+        "agent": 1,
+        "reported_score": 0.7608928466422019,
+        "marginal_score": 0.7608928466422019,
+        "family": "sensor_representation_01"
+      },
+      {
+        "name": "exp01_svm_c3",
+        "agent": 1,
+        "reported_score": 0.7416476239662728,
+        "marginal_score": 0.7416476239662728,
+        "family": "sensor_representation_01"
+      },
+      {
+        "name": "exp02-svm",
+        "agent": 2,
+        "reported_score": 0.35388237231995734,
+        "marginal_score": 0.35388237231995734,
+        "family": "sensor_representation_02"
+      },
+      {
+        "name": "exp02-trees",
+        "agent": 2,
+        "reported_score": 0.5207067557131153,
+        "marginal_score": 0.5207067557131153,
+        "family": "sensor_representation_02"
+      },
+      {
+        "name": "exp03_svm_c15",
+        "agent": 3,
+        "reported_score": 0.4502607989671311,
+        "marginal_score": 0.4502607989671311,
+        "family": "sensor_representation_03"
+      },
+      {
+        "name": "exp03_svm_c3",
+        "agent": 3,
+        "reported_score": 0.44338557341527424,
+        "marginal_score": 0.44338557341527424,
+        "family": "sensor_representation_03"
+      },
+      {
+        "name": "exp04_svm",
+        "agent": 4,
+        "reported_score": 0.24232873167378183,
+        "marginal_score": 0.24232873167378183,
+        "family": "sensor_representation_04"
+      },
+      {
+        "name": "exp04_tree",
+        "agent": 4,
+        "reported_score": 0.5100192012482508,
+        "marginal_score": 0.5100192012482508,
+        "family": "sensor_representation_04"
+      },
+      {
+        "name": "exp05_svm",
+        "agent": 5,
+        "reported_score": 0.31660374378035705,
+        "marginal_score": 0.31660374378035705,
+        "family": "sensor_representation_05"
+      },
+      {
+        "name": "exp05_trees",
+        "agent": 5,
+        "reported_score": 0.6795513411295598,
+        "marginal_score": 0.6795513411295598,
+        "family": "sensor_representation_05"
+      },
+      {
+        "name": "exp06_svm",
+        "agent": 6,
+        "reported_score": 0.536539299550606,
+        "marginal_score": 0.536539299550606,
+        "family": "sensor_representation_06"
+      },
+      {
+        "name": "exp06_trees",
+        "agent": 6,
+        "reported_score": 0.8575595383429115,
+        "marginal_score": 0.8575595383429115,
+        "family": "sensor_representation_06"
+      },
+      {
+        "name": "exp07_svm",
+        "agent": 7,
+        "reported_score": 0.4908295463088101,
+        "marginal_score": 0.4908295463088101,
+        "family": "sensor_representation_07"
+      },
+      {
+        "name": "exp07_tree",
+        "agent": 7,
+        "reported_score": 0.887277476525265,
+        "marginal_score": 0.887277476525265,
+        "family": "sensor_representation_07"
+      },
+      {
+        "name": "exp08_svm",
+        "agent": 8,
+        "reported_score": 0.34121245764587216,
+        "marginal_score": 0.34121245764587216,
+        "family": "sensor_representation_08"
+      },
+      {
+        "name": "exp08_trees",
+        "agent": 8,
+        "reported_score": 0.8494238930502467,
+        "marginal_score": 0.8494238930502467,
+        "family": "sensor_representation_08"
+      },
+      {
+        "name": "exp09_svm",
+        "agent": 9,
+        "reported_score": 0.5109410886698097,
+        "marginal_score": 0.5109410886698097,
+        "family": "sensor_representation_09"
+      },
+      {
+        "name": "exp09_trees",
+        "agent": 9,
+        "reported_score": 0.9541086677471878,
+        "marginal_score": 0.9541086677471878,
+        "family": "sensor_representation_09"
+      },
+      {
+        "name": "exp10_svm",
+        "agent": 10,
+        "reported_score": 0.5778633590915945,
+        "marginal_score": 0.5778633590915945,
+        "family": "sensor_representation_10"
+      },
+      {
+        "name": "exp10_tree",
+        "agent": 10,
+        "reported_score": 0.7971051095095847,
+        "marginal_score": 0.7971051095095847,
+        "family": "sensor_representation_10"
+      },
+      {
+        "name": "exp11_svm",
+        "agent": 11,
+        "reported_score": 0.3971131714256957,
+        "marginal_score": 0.3971131714256957,
+        "family": "sensor_representation_11"
+      },
+      {
+        "name": "exp11_tree",
+        "agent": 11,
+        "reported_score": 0.8047369263007618,
+        "marginal_score": 0.8047369263007618,
+        "family": "sensor_representation_11"
+      },
+      {
+        "name": "exp12_svm",
+        "agent": 12,
+        "reported_score": 0.4890994658725612,
+        "marginal_score": 0.4890994658725612,
+        "family": "sensor_representation_12"
+      },
+      {
+        "name": "exp12_tree",
+        "agent": 12,
+        "reported_score": 0.7606651151224616,
+        "marginal_score": 0.7606651151224616,
+        "family": "sensor_representation_12"
+      },
+      {
+        "name": "exp13_select128_trees",
+        "agent": 13,
+        "reported_score": 0.8582930276871182,
+        "marginal_score": 0.8582930276871182,
+        "family": "shared_motion_lid_optical_bank"
+      },
+      {
+        "name": "exp13_select64_svm",
+        "agent": 13,
+        "reported_score": 0.5773517622485732,
+        "marginal_score": 0.5773517622485732,
+        "family": "shared_motion_lid_optical_bank"
+      },
+      {
+        "name": "exp14_pca48_whiten_svm",
+        "agent": 14,
+        "reported_score": 0.5661149952004677,
+        "marginal_score": 0.5661149952004677,
+        "family": "shared_motion_lid_optical_bank"
+      },
+      {
+        "name": "exp14_pca96_svm",
+        "agent": 14,
+        "reported_score": 0.6059510604524897,
+        "marginal_score": 0.6059510604524897,
+        "family": "shared_motion_lid_optical_bank"
+      },
+      {
+        "name": "exp15_template_k1",
+        "agent": 15,
+        "reported_score": 0.9109815072345226,
+        "marginal_score": 0.9109815072345226,
+        "family": "sensor_representation_15"
+      },
+      {
+        "name": "exp15_template_k3",
+        "agent": 15,
+        "reported_score": 0.6366816039084786,
+        "marginal_score": 0.6366816039084786,
+        "family": "sensor_representation_15"
+      },
+      {
+        "name": "exp16_spatial_0p25",
+        "agent": 16,
+        "reported_score": 0.3913132344596155,
+        "marginal_score": 0.3913132344596155,
+        "family": "shared_motion_lid_optical_bank"
+      },
+      {
+        "name": "exp16_spatial_1p0",
+        "agent": 16,
+        "reported_score": 0.40906961151884236,
+        "marginal_score": 0.40906961151884236,
+        "family": "shared_motion_lid_optical_bank"
+      },
+      {
+        "name": "exp17_risk1",
+        "agent": 17,
+        "reported_score": 1.0063533242251164,
+        "marginal_score": 1.014128397489249,
+        "excluded": "risk decoder predictions not represented by saved px/py"
+      },
+      {
+        "name": "exp17_risk3",
+        "agent": 17,
+        "reported_score": 1.0230658753673632,
+        "marginal_score": 1.014128397489249,
+        "excluded": "risk decoder predictions not represented by saved px/py"
+      },
+      {
+        "name": "exp18_forest_fraction015_leaf3",
+        "agent": 18,
+        "reported_score": 0.8035156074846299,
+        "marginal_score": 0.8035156074846299,
+        "family": "shared_motion_lid_optical_bank"
+      },
+      {
+        "name": "exp18_forest_sqrt_leaf2",
+        "agent": 18,
+        "reported_score": 0.8482264164205043,
+        "marginal_score": 0.8482264164205043,
+        "family": "shared_motion_lid_optical_bank"
+      },
+      {
+        "name": "exp19_lda_08",
+        "agent": 19,
+        "reported_score": 0.6651224098651438,
+        "marginal_score": 0.6651224098651438,
+        "family": "shared_motion_lid_optical_bank"
+      },
+      {
+        "name": "exp19_lda_auto",
+        "agent": 19,
+        "reported_score": 0.6716085031671536,
+        "marginal_score": 0.6716085031671536,
+        "family": "shared_motion_lid_optical_bank"
+      },
+      {
+        "name": "exp20_gbm_depth3",
+        "agent": 20,
+        "reported_score": 0.4834224796266827,
+        "marginal_score": 0.4834224796266827,
+        "family": "shared_motion_lid_optical_bank"
+      },
+      {
+        "name": "exp20_gbm_depth4",
+        "agent": 20,
+        "reported_score": 0.4924360965927546,
+        "marginal_score": 0.4924360965927546,
+        "family": "shared_motion_lid_optical_bank"
+      },
+      {
+        "name": "exp21_ordinal_C0p1",
+        "agent": 21,
+        "reported_score": 0.8158307793317937,
+        "marginal_score": 0.8158307793317937,
+        "family": "shared_motion_lid_optical_bank"
+      },
+      {
+        "name": "exp21_ordinal_C1p0",
+        "agent": 21,
+        "reported_score": 0.79462814138966,
+        "marginal_score": 0.79462814138966,
+        "family": "shared_motion_lid_optical_bank"
+      },
+      {
+        "name": "exp22_multiscale_0p25",
+        "agent": 22,
+        "reported_score": 0.9762103911113017,
+        "marginal_score": 0.8612817898823572,
+        "conversion": "joint mass marginalized; marginal MAP differs from reported joint MAP",
+        "family": "shared_motion_lid_optical_bank"
+      },
+      {
+        "name": "exp22_multiscale_0p75",
+        "agent": 22,
+        "reported_score": 0.9163674226200063,
+        "marginal_score": 0.8612817898823572,
+        "conversion": "joint mass marginalized; marginal MAP differs from reported joint MAP",
+        "family": "shared_motion_lid_optical_bank"
+      },
+      {
+        "name": "exp23-guard80",
+        "agent": 23,
+        "reported_score": 1.0906515734926843,
+        "marginal_score": 1.0906515734926843,
+        "family": "shared_motion_lid_optical_bank"
+      },
+      {
+        "name": "exp23-guard90",
+        "agent": 23,
+        "reported_score": 1.0400257360200649,
+        "marginal_score": 1.0400257360200649,
+        "family": "shared_motion_lid_optical_bank"
+      },
+      {
+        "name": "exp24_auto_motion",
+        "agent": 24,
+        "reported_score": 0.988261533390249,
+        "marginal_score": 0.988261533390249,
+        "family": "shared_motion_lid_optical_bank"
+      },
+      {
+        "name": "exp24_auto_motion_light",
+        "agent": 24,
+        "reported_score": 0.9212518330993671,
+        "marginal_score": 0.9212518330993671,
+        "family": "shared_motion_lid_optical_bank"
+      },
+      {
+        "name": "exp25_edge0p5",
+        "agent": 25,
+        "reported_score": 0.9153022250908112,
+        "marginal_score": 0.9153022250908112,
+        "family": "shared_motion_lid_optical_bank"
+      },
+      {
+        "name": "exp25_edge1p5",
+        "agent": 25,
+        "reported_score": 0.9303732545261856,
+        "marginal_score": 0.9303732545261856,
+        "family": "shared_motion_lid_optical_bank"
+      },
+      {
+        "name": "exp26_axis_svm",
+        "agent": 26,
+        "reported_score": 0.6089722008007451,
+        "marginal_score": 0.6089722008007451,
+        "family": "shared_motion_lid_optical_bank"
+      },
+      {
+        "name": "exp26_axis_tree",
+        "agent": 26,
+        "reported_score": 0.8471780205761198,
+        "marginal_score": 0.8471780205761198,
+        "family": "shared_motion_lid_optical_bank"
+      },
+      {
+        "name": "exp27_svm",
+        "agent": 27,
+        "reported_score": 0.6121918840721574,
+        "marginal_score": 0.6121918840721574,
+        "family": "sensor_representation_27"
+      },
+      {
+        "name": "exp27_tree",
+        "agent": 27,
+        "reported_score": 0.8216202785884367,
+        "marginal_score": 0.8216202785884367,
+        "family": "sensor_representation_27"
+      },
+      {
+        "name": "exp29-consensus10",
+        "agent": 29,
+        "reported_score": 1.0665479517095007,
+        "marginal_score": 1.0665479517095007,
+        "excluded": "nested guarded baseline/template ensemble duplicates members"
+      },
+      {
+        "name": "exp29-consensus25",
+        "agent": 29,
+        "reported_score": 0.9773592408100633,
+        "marginal_score": 0.9773592408100633,
+        "excluded": "nested guarded baseline/template ensemble duplicates members"
+      }
+    ]
+  }
+}

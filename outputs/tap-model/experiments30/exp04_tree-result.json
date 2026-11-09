@@ -1,0 +1,26 @@
+{
+  "name": "exp04_tree",
+  "feature_count": 634,
+  "config": {
+    "family": "trees",
+    "n_estimators": 420,
+    "min_samples_leaf": 2,
+    "max_features": 0.65
+  },
+  "validation": {
+    "n": 226,
+    "exact": 0.035398230088495575,
+    "within_one": 0.3230088495575221,
+    "within_two": 0.5442477876106194,
+    "mean_distance_cells": 3.478609750888405,
+    "median_distance_cells": 2.23606797749979,
+    "far_half_screen": 0.07079646017699115,
+    "far_third_screen": 0.1415929203539823,
+    "side_x": 0.831858407079646,
+    "side_y": 0.8938053097345132,
+    "edge_exact": 0.10714285714285714,
+    "unique_predicted_cells": 127,
+    "score": 0.5100192012482508
+  },
+  "extra": {}
+}

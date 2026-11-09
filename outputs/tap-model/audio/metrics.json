@@ -1,0 +1,1780 @@
+{
+  "audio_used": true,
+  "selected": {
+    "kind": "audio_fusion",
+    "config": {
+      "family": "linear",
+      "augment": false
+    },
+    "alpha": 0.1,
+    "gate": "none",
+    "validation": {
+      "n": 226,
+      "exact": 0.11946902654867257,
+      "within_one": 0.5442477876106194,
+      "within_two": 0.7831858407079646,
+      "mean_distance_cells": 2.47337845003616,
+      "median_distance_cells": 1.4142135623730951,
+      "x_exact": 0.29646017699115046,
+      "y_exact": 0.41150442477876104,
+      "side_x": 0.8761061946902655,
+      "side_y": 0.9070796460176991,
+      "unique_predicted_cells": 124,
+      "edge_n": 56,
+      "edge_exact": 0.17857142857142858,
+      "region_2x2": 0.827433628318584,
+      "region_3x3": 0.7345132743362832,
+      "region_4x4": 0.6327433628318584
+    }
+  },
+  "best_positive_audio": {
+    "kind": "audio_fusion",
+    "config": {
+      "family": "linear",
+      "augment": false
+    },
+    "alpha": 0.1,
+    "gate": "none",
+    "validation": {
+      "n": 226,
+      "exact": 0.11946902654867257,
+      "within_one": 0.5442477876106194,
+      "within_two": 0.7831858407079646,
+      "mean_distance_cells": 2.47337845003616,
+      "median_distance_cells": 1.4142135623730951,
+      "x_exact": 0.29646017699115046,
+      "y_exact": 0.41150442477876104,
+      "side_x": 0.8761061946902655,
+      "side_y": 0.9070796460176991,
+      "unique_predicted_cells": 124,
+      "edge_n": 56,
+      "edge_exact": 0.17857142857142858,
+      "region_2x2": 0.827433628318584,
+      "region_3x3": 0.7345132743362832,
+      "region_4x4": 0.6327433628318584
+    }
+  },
+  "candidates": [
+    {
+      "kind": "baseline",
+      "validation": {
+        "n": 226,
+        "exact": 0.10619469026548672,
+        "within_one": 0.5486725663716814,
+        "within_two": 0.7787610619469026,
+        "mean_distance_cells": 2.504046798167184,
+        "median_distance_cells": 1.4142135623730951,
+        "x_exact": 0.26991150442477874,
+        "y_exact": 0.41150442477876104,
+        "side_x": 0.8761061946902655,
+        "side_y": 0.911504424778761,
+        "unique_predicted_cells": 125,
+        "edge_n": 56,
+        "edge_exact": 0.19642857142857142,
+        "region_2x2": 0.8141592920353983,
+        "region_3x3": 0.7522123893805309,
+        "region_4x4": 0.5973451327433629
+      }
+    },
+    {
+      "kind": "audio_fusion",
+      "config": {
+        "family": "linear",
+        "augment": false
+      },
+      "alpha": 0.1,
+      "gate": "none",
+      "validation": {
+        "n": 226,
+        "exact": 0.11946902654867257,
+        "within_one": 0.5442477876106194,
+        "within_two": 0.7831858407079646,
+        "mean_distance_cells": 2.47337845003616,
+        "median_distance_cells": 1.4142135623730951,
+        "x_exact": 0.29646017699115046,
+        "y_exact": 0.41150442477876104,
+        "side_x": 0.8761061946902655,
+        "side_y": 0.9070796460176991,
+        "unique_predicted_cells": 124,
+        "edge_n": 56,
+        "edge_exact": 0.17857142857142858,
+        "region_2x2": 0.827433628318584,
+        "region_3x3": 0.7345132743362832,
+        "region_4x4": 0.6327433628318584
+      }
+    },
+    {
+      "kind": "audio_fusion",
+      "config": {
+        "family": "linear",
+        "augment": false
+      },
+      "alpha": 0.25,
+      "gate": "none",
+      "validation": {
+        "n": 226,
+        "exact": 0.09734513274336283,
+        "within_one": 0.46017699115044247,
+        "within_two": 0.7212389380530974,
+        "mean_distance_cells": 2.9592757351102073,
+        "median_distance_cells": 2.0,
+        "x_exact": 0.252212389380531,
+        "y_exact": 0.38495575221238937,
+        "side_x": 0.831858407079646,
+        "side_y": 0.9070796460176991,
+        "unique_predicted_cells": 129,
+        "edge_n": 56,
+        "edge_exact": 0.16071428571428573,
+        "region_2x2": 0.7699115044247787,
+        "region_3x3": 0.6637168141592921,
+        "region_4x4": 0.5486725663716814
+      }
+    },
+    {
+      "kind": "audio_fusion",
+      "config": {
+        "family": "linear",
+        "augment": false
+      },
+      "alpha": 0.5,
+      "gate": "none",
+      "validation": {
+        "n": 226,
+        "exact": 0.06637168141592921,
+        "within_one": 0.30973451327433627,
+        "within_two": 0.504424778761062,
+        "mean_distance_cells": 4.591140029937083,
+        "median_distance_cells": 2.8284271247461903,
+        "x_exact": 0.2079646017699115,
+        "y_exact": 0.3185840707964602,
+        "side_x": 0.7743362831858407,
+        "side_y": 0.8097345132743363,
+        "unique_predicted_cells": 143,
+        "edge_n": 56,
+        "edge_exact": 0.10714285714285714,
+        "region_2x2": 0.6327433628318584,
+        "region_3x3": 0.47345132743362833,
+        "region_4x4": 0.36283185840707965
+      }
+    },
+    {
+      "kind": "audio_fusion",
+      "config": {
+        "family": "linear",
+        "augment": false
+      },
+      "alpha": 0.75,
+      "gate": "none",
+      "validation": {
+        "n": 226,
+        "exact": 0.035398230088495575,
+        "within_one": 0.16371681415929204,
+        "within_two": 0.3495575221238938,
+        "mean_distance_cells": 6.02270059945381,
+        "median_distance_cells": 5.0990195135927845,
+        "x_exact": 0.14601769911504425,
+        "y_exact": 0.24336283185840707,
+        "side_x": 0.7079646017699115,
+        "side_y": 0.7168141592920354,
+        "unique_predicted_cells": 137,
+        "edge_n": 56,
+        "edge_exact": 0.05357142857142857,
+        "region_2x2": 0.49557522123893805,
+        "region_3x3": 0.3053097345132743,
+        "region_4x4": 0.24336283185840707
+      }
+    },
+    {
+      "kind": "audio_fusion",
+      "config": {
+        "family": "linear",
+        "augment": false
+      },
+      "alpha": 1.0,
+      "gate": "none",
+      "validation": {
+        "n": 226,
+        "exact": 0.022123893805309734,
+        "within_one": 0.11946902654867257,
+        "within_two": 0.29646017699115046,
+        "mean_distance_cells": 6.549820553397779,
+        "median_distance_cells": 6.0,
+        "x_exact": 0.11504424778761062,
+        "y_exact": 0.18584070796460178,
+        "side_x": 0.6814159292035398,
+        "side_y": 0.6769911504424779,
+        "unique_predicted_cells": 137,
+        "edge_n": 56,
+        "edge_exact": 0.03571428571428571,
+        "region_2x2": 0.4646017699115044,
+        "region_3x3": 0.26548672566371684,
+        "region_4x4": 0.20353982300884957
+      }
+    },
+    {
+      "kind": "audio_fusion",
+      "config": {
+        "family": "linear",
+        "augment": false
+      },
+      "alpha": 0.1,
+      "gate": "quality",
+      "validation": {
+        "n": 226,
+        "exact": 0.10619469026548672,
+        "within_one": 0.5486725663716814,
+        "within_two": 0.7787610619469026,
+        "mean_distance_cells": 2.4923859890082416,
+        "median_distance_cells": 1.4142135623730951,
+        "x_exact": 0.27876106194690264,
+        "y_exact": 0.415929203539823,
+        "side_x": 0.8761061946902655,
+        "side_y": 0.911504424778761,
+        "unique_predicted_cells": 126,
+        "edge_n": 56,
+        "edge_exact": 0.19642857142857142,
+        "region_2x2": 0.8141592920353983,
+        "region_3x3": 0.7477876106194691,
+        "region_4x4": 0.6017699115044248
+      }
+    },
+    {
+      "kind": "audio_fusion",
+      "config": {
+        "family": "linear",
+        "augment": false
+      },
+      "alpha": 0.25,
+      "gate": "quality",
+      "validation": {
+        "n": 226,
+        "exact": 0.11504424778761062,
+        "within_one": 0.5442477876106194,
+        "within_two": 0.7699115044247787,
+        "mean_distance_cells": 2.5234819935962602,
+        "median_distance_cells": 1.4142135623730951,
+        "x_exact": 0.2831858407079646,
+        "y_exact": 0.40707964601769914,
+        "side_x": 0.8672566371681416,
+        "side_y": 0.911504424778761,
+        "unique_predicted_cells": 124,
+        "edge_n": 56,
+        "edge_exact": 0.19642857142857142,
+        "region_2x2": 0.8053097345132744,
+        "region_3x3": 0.7212389380530974,
+        "region_4x4": 0.588495575221239
+      }
+    },
+    {
+      "kind": "audio_fusion",
+      "config": {
+        "family": "linear",
+        "augment": false
+      },
+      "alpha": 0.5,
+      "gate": "quality",
+      "validation": {
+        "n": 226,
+        "exact": 0.11061946902654868,
+        "within_one": 0.5132743362831859,
+        "within_two": 0.7522123893805309,
+        "mean_distance_cells": 2.6835302405817174,
+        "median_distance_cells": 1.4142135623730951,
+        "x_exact": 0.26991150442477874,
+        "y_exact": 0.40707964601769914,
+        "side_x": 0.8628318584070797,
+        "side_y": 0.9026548672566371,
+        "unique_predicted_cells": 131,
+        "edge_n": 56,
+        "edge_exact": 0.17857142857142858,
+        "region_2x2": 0.7787610619469026,
+        "region_3x3": 0.7035398230088495,
+        "region_4x4": 0.5619469026548672
+      }
+    },
+    {
+      "kind": "audio_fusion",
+      "config": {
+        "family": "linear",
+        "augment": false
+      },
+      "alpha": 0.75,
+      "gate": "quality",
+      "validation": {
+        "n": 226,
+        "exact": 0.10619469026548672,
+        "within_one": 0.5,
+        "within_two": 0.7345132743362832,
+        "mean_distance_cells": 2.8131778077141485,
+        "median_distance_cells": 1.7071067811865475,
+        "x_exact": 0.26548672566371684,
+        "y_exact": 0.3938053097345133,
+        "side_x": 0.8451327433628318,
+        "side_y": 0.8893805309734514,
+        "unique_predicted_cells": 126,
+        "edge_n": 56,
+        "edge_exact": 0.19642857142857142,
+        "region_2x2": 0.7566371681415929,
+        "region_3x3": 0.6991150442477876,
+        "region_4x4": 0.5530973451327433
+      }
+    },
+    {
+      "kind": "audio_fusion",
+      "config": {
+        "family": "linear",
+        "augment": false
+      },
+      "alpha": 1.0,
+      "gate": "quality",
+      "validation": {
+        "n": 226,
+        "exact": 0.10176991150442478,
+        "within_one": 0.4778761061946903,
+        "within_two": 0.7168141592920354,
+        "mean_distance_cells": 3.0233317005796994,
+        "median_distance_cells": 2.0,
+        "x_exact": 0.2610619469026549,
+        "y_exact": 0.38495575221238937,
+        "side_x": 0.8451327433628318,
+        "side_y": 0.8805309734513275,
+        "unique_predicted_cells": 125,
+        "edge_n": 56,
+        "edge_exact": 0.16071428571428573,
+        "region_2x2": 0.7477876106194691,
+        "region_3x3": 0.6814159292035398,
+        "region_4x4": 0.5353982300884956
+      }
+    },
+    {
+      "kind": "audio_fusion",
+      "config": {
+        "family": "svm",
+        "augment": false
+      },
+      "alpha": 0.1,
+      "gate": "none",
+      "validation": {
+        "n": 226,
+        "exact": 0.11061946902654868,
+        "within_one": 0.5398230088495575,
+        "within_two": 0.7831858407079646,
+        "mean_distance_cells": 2.445857954015659,
+        "median_distance_cells": 1.4142135623730951,
+        "x_exact": 0.27876106194690264,
+        "y_exact": 0.40707964601769914,
+        "side_x": 0.8805309734513275,
+        "side_y": 0.911504424778761,
+        "unique_predicted_cells": 121,
+        "edge_n": 56,
+        "edge_exact": 0.19642857142857142,
+        "region_2x2": 0.8185840707964602,
+        "region_3x3": 0.7522123893805309,
+        "region_4x4": 0.5973451327433629
+      }
+    },
+    {
+      "kind": "audio_fusion",
+      "config": {
+        "family": "svm",
+        "augment": false
+      },
+      "alpha": 0.25,
+      "gate": "none",
+      "validation": {
+        "n": 226,
+        "exact": 0.11061946902654868,
+        "within_one": 0.5575221238938053,
+        "within_two": 0.7876106194690266,
+        "mean_distance_cells": 2.429236803425836,
+        "median_distance_cells": 1.4142135623730951,
+        "x_exact": 0.2831858407079646,
+        "y_exact": 0.42035398230088494,
+        "side_x": 0.8849557522123894,
+        "side_y": 0.9070796460176991,
+        "unique_predicted_cells": 125,
+        "edge_n": 56,
+        "edge_exact": 0.19642857142857142,
+        "region_2x2": 0.8230088495575221,
+        "region_3x3": 0.7566371681415929,
+        "region_4x4": 0.6238938053097345
+      }
+    },
+    {
+      "kind": "audio_fusion",
+      "config": {
+        "family": "svm",
+        "augment": false
+      },
+      "alpha": 0.5,
+      "gate": "none",
+      "validation": {
+        "n": 226,
+        "exact": 0.11061946902654868,
+        "within_one": 0.5575221238938053,
+        "within_two": 0.8008849557522124,
+        "mean_distance_cells": 2.3754793086643176,
+        "median_distance_cells": 1.4142135623730951,
+        "x_exact": 0.2920353982300885,
+        "y_exact": 0.41150442477876104,
+        "side_x": 0.8938053097345132,
+        "side_y": 0.911504424778761,
+        "unique_predicted_cells": 124,
+        "edge_n": 56,
+        "edge_exact": 0.17857142857142858,
+        "region_2x2": 0.8362831858407079,
+        "region_3x3": 0.7610619469026548,
+        "region_4x4": 0.6194690265486725
+      }
+    },
+    {
+      "kind": "audio_fusion",
+      "config": {
+        "family": "svm",
+        "augment": false
+      },
+      "alpha": 0.75,
+      "gate": "none",
+      "validation": {
+        "n": 226,
+        "exact": 0.08849557522123894,
+        "within_one": 0.47345132743362833,
+        "within_two": 0.7389380530973452,
+        "mean_distance_cells": 2.6395583326137944,
+        "median_distance_cells": 2.0,
+        "x_exact": 0.24778761061946902,
+        "y_exact": 0.3893805309734513,
+        "side_x": 0.8451327433628318,
+        "side_y": 0.9292035398230089,
+        "unique_predicted_cells": 129,
+        "edge_n": 56,
+        "edge_exact": 0.10714285714285714,
+        "region_2x2": 0.7787610619469026,
+        "region_3x3": 0.7035398230088495,
+        "region_4x4": 0.5486725663716814
+      }
+    },
+    {
+      "kind": "audio_fusion",
+      "config": {
+        "family": "svm",
+        "augment": false
+      },
+      "alpha": 1.0,
+      "gate": "none",
+      "validation": {
+        "n": 226,
+        "exact": 0.02654867256637168,
+        "within_one": 0.13274336283185842,
+        "within_two": 0.2345132743362832,
+        "mean_distance_cells": 6.8978901119610185,
+        "median_distance_cells": 6.041381265149109,
+        "x_exact": 0.09734513274336283,
+        "y_exact": 0.17699115044247787,
+        "side_x": 0.6238938053097345,
+        "side_y": 0.6769911504424779,
+        "unique_predicted_cells": 86,
+        "edge_n": 56,
+        "edge_exact": 0.05357142857142857,
+        "region_2x2": 0.40707964601769914,
+        "region_3x3": 0.28761061946902655,
+        "region_4x4": 0.19469026548672566
+      }
+    },
+    {
+      "kind": "audio_fusion",
+      "config": {
+        "family": "svm",
+        "augment": false
+      },
+      "alpha": 0.1,
+      "gate": "quality",
+      "validation": {
+        "n": 226,
+        "exact": 0.10619469026548672,
+        "within_one": 0.5486725663716814,
+        "within_two": 0.7831858407079646,
+        "mean_distance_cells": 2.4915224971589347,
+        "median_distance_cells": 1.4142135623730951,
+        "x_exact": 0.2743362831858407,
+        "y_exact": 0.41150442477876104,
+        "side_x": 0.8761061946902655,
+        "side_y": 0.911504424778761,
+        "unique_predicted_cells": 125,
+        "edge_n": 56,
+        "edge_exact": 0.19642857142857142,
+        "region_2x2": 0.8141592920353983,
+        "region_3x3": 0.7522123893805309,
+        "region_4x4": 0.6017699115044248
+      }
+    },
+    {
+      "kind": "audio_fusion",
+      "config": {
+        "family": "svm",
+        "augment": false
+      },
+      "alpha": 0.25,
+      "gate": "quality",
+      "validation": {
+        "n": 226,
+        "exact": 0.10619469026548672,
+        "within_one": 0.5575221238938053,
+        "within_two": 0.7831858407079646,
+        "mean_distance_cells": 2.4764272472996343,
+        "median_distance_cells": 1.4142135623730951,
+        "x_exact": 0.27876106194690264,
+        "y_exact": 0.415929203539823,
+        "side_x": 0.8761061946902655,
+        "side_y": 0.911504424778761,
+        "unique_predicted_cells": 127,
+        "edge_n": 56,
+        "edge_exact": 0.19642857142857142,
+        "region_2x2": 0.8141592920353983,
+        "region_3x3": 0.7522123893805309,
+        "region_4x4": 0.6106194690265486
+      }
+    },
+    {
+      "kind": "audio_fusion",
+      "config": {
+        "family": "svm",
+        "augment": false
+      },
+      "alpha": 0.5,
+      "gate": "quality",
+      "validation": {
+        "n": 226,
+        "exact": 0.10619469026548672,
+        "within_one": 0.5530973451327433,
+        "within_two": 0.7876106194690266,
+        "mean_distance_cells": 2.444626259066338,
+        "median_distance_cells": 1.4142135623730951,
+        "x_exact": 0.2743362831858407,
+        "y_exact": 0.41150442477876104,
+        "side_x": 0.8805309734513275,
+        "side_y": 0.911504424778761,
+        "unique_predicted_cells": 124,
+        "edge_n": 56,
+        "edge_exact": 0.19642857142857142,
+        "region_2x2": 0.8185840707964602,
+        "region_3x3": 0.7522123893805309,
+        "region_4x4": 0.6061946902654868
+      }
+    },
+    {
+      "kind": "audio_fusion",
+      "config": {
+        "family": "svm",
+        "augment": false
+      },
+      "alpha": 0.75,
+      "gate": "quality",
+      "validation": {
+        "n": 226,
+        "exact": 0.09734513274336283,
+        "within_one": 0.5442477876106194,
+        "within_two": 0.7876106194690266,
+        "mean_distance_cells": 2.4612231403083262,
+        "median_distance_cells": 1.4142135623730951,
+        "x_exact": 0.26991150442477874,
+        "y_exact": 0.4026548672566372,
+        "side_x": 0.8805309734513275,
+        "side_y": 0.915929203539823,
+        "unique_predicted_cells": 129,
+        "edge_n": 56,
+        "edge_exact": 0.16071428571428573,
+        "region_2x2": 0.8185840707964602,
+        "region_3x3": 0.7433628318584071,
+        "region_4x4": 0.6017699115044248
+      }
+    },
+    {
+      "kind": "audio_fusion",
+      "config": {
+        "family": "svm",
+        "augment": false
+      },
+      "alpha": 1.0,
+      "gate": "quality",
+      "validation": {
+        "n": 226,
+        "exact": 0.10176991150442478,
+        "within_one": 0.5221238938053098,
+        "within_two": 0.7566371681415929,
+        "mean_distance_cells": 2.6910703721902602,
+        "median_distance_cells": 1.4142135623730951,
+        "x_exact": 0.26548672566371684,
+        "y_exact": 0.39823008849557523,
+        "side_x": 0.8805309734513275,
+        "side_y": 0.8982300884955752,
+        "unique_predicted_cells": 124,
+        "edge_n": 56,
+        "edge_exact": 0.16071428571428573,
+        "region_2x2": 0.7964601769911505,
+        "region_3x3": 0.7123893805309734,
+        "region_4x4": 0.5752212389380531
+      }
+    },
+    {
+      "kind": "audio_fusion",
+      "config": {
+        "family": "trees",
+        "augment": false
+      },
+      "alpha": 0.1,
+      "gate": "none",
+      "validation": {
+        "n": 226,
+        "exact": 0.11061946902654868,
+        "within_one": 0.5575221238938053,
+        "within_two": 0.7920353982300885,
+        "mean_distance_cells": 2.429249350952906,
+        "median_distance_cells": 1.4142135623730951,
+        "x_exact": 0.2743362831858407,
+        "y_exact": 0.4026548672566372,
+        "side_x": 0.8805309734513275,
+        "side_y": 0.9070796460176991,
+        "unique_predicted_cells": 121,
+        "edge_n": 56,
+        "edge_exact": 0.19642857142857142,
+        "region_2x2": 0.8185840707964602,
+        "region_3x3": 0.7566371681415929,
+        "region_4x4": 0.6106194690265486
+      }
+    },
+    {
+      "kind": "audio_fusion",
+      "config": {
+        "family": "trees",
+        "augment": false
+      },
+      "alpha": 0.25,
+      "gate": "none",
+      "validation": {
+        "n": 226,
+        "exact": 0.10619469026548672,
+        "within_one": 0.5309734513274337,
+        "within_two": 0.7743362831858407,
+        "mean_distance_cells": 2.424858431306418,
+        "median_distance_cells": 1.4142135623730951,
+        "x_exact": 0.2610619469026549,
+        "y_exact": 0.39823008849557523,
+        "side_x": 0.8849557522123894,
+        "side_y": 0.9070796460176991,
+        "unique_predicted_cells": 132,
+        "edge_n": 56,
+        "edge_exact": 0.19642857142857142,
+        "region_2x2": 0.8185840707964602,
+        "region_3x3": 0.7522123893805309,
+        "region_4x4": 0.6061946902654868
+      }
+    },
+    {
+      "kind": "audio_fusion",
+      "config": {
+        "family": "trees",
+        "augment": false
+      },
+      "alpha": 0.5,
+      "gate": "none",
+      "validation": {
+        "n": 226,
+        "exact": 0.084070796460177,
+        "within_one": 0.40707964601769914,
+        "within_two": 0.6283185840707964,
+        "mean_distance_cells": 3.2389072310729214,
+        "median_distance_cells": 2.23606797749979,
+        "x_exact": 0.20353982300884957,
+        "y_exact": 0.3584070796460177,
+        "side_x": 0.8185840707964602,
+        "side_y": 0.915929203539823,
+        "unique_predicted_cells": 138,
+        "edge_n": 56,
+        "edge_exact": 0.10714285714285714,
+        "region_2x2": 0.7522123893805309,
+        "region_3x3": 0.6327433628318584,
+        "region_4x4": 0.47345132743362833
+      }
+    },
+    {
+      "kind": "audio_fusion",
+      "config": {
+        "family": "trees",
+        "augment": false
+      },
+      "alpha": 0.75,
+      "gate": "none",
+      "validation": {
+        "n": 226,
+        "exact": 0.030973451327433628,
+        "within_one": 0.19469026548672566,
+        "within_two": 0.3495575221238938,
+        "mean_distance_cells": 5.706778245717551,
+        "median_distance_cells": 4.47213595499958,
+        "x_exact": 0.14601769911504425,
+        "y_exact": 0.25663716814159293,
+        "side_x": 0.6814159292035398,
+        "side_y": 0.7743362831858407,
+        "unique_predicted_cells": 133,
+        "edge_n": 56,
+        "edge_exact": 0.03571428571428571,
+        "region_2x2": 0.5176991150442478,
+        "region_3x3": 0.3584070796460177,
+        "region_4x4": 0.27876106194690264
+      }
+    },
+    {
+      "kind": "audio_fusion",
+      "config": {
+        "family": "trees",
+        "augment": false
+      },
+      "alpha": 1.0,
+      "gate": "none",
+      "validation": {
+        "n": 226,
+        "exact": 0.02654867256637168,
+        "within_one": 0.10176991150442478,
+        "within_two": 0.2079646017699115,
+        "mean_distance_cells": 7.055692481675045,
+        "median_distance_cells": 6.324555320336759,
+        "x_exact": 0.12389380530973451,
+        "y_exact": 0.13716814159292035,
+        "side_x": 0.6150442477876106,
+        "side_y": 0.6371681415929203,
+        "unique_predicted_cells": 128,
+        "edge_n": 56,
+        "edge_exact": 0.017857142857142856,
+        "region_2x2": 0.3938053097345133,
+        "region_3x3": 0.22566371681415928,
+        "region_4x4": 0.16371681415929204
+      }
+    },
+    {
+      "kind": "audio_fusion",
+      "config": {
+        "family": "trees",
+        "augment": false
+      },
+      "alpha": 0.1,
+      "gate": "quality",
+      "validation": {
+        "n": 226,
+        "exact": 0.10619469026548672,
+        "within_one": 0.5486725663716814,
+        "within_two": 0.7831858407079646,
+        "mean_distance_cells": 2.487365901967774,
+        "median_distance_cells": 1.4142135623730951,
+        "x_exact": 0.2743362831858407,
+        "y_exact": 0.41150442477876104,
+        "side_x": 0.8761061946902655,
+        "side_y": 0.911504424778761,
+        "unique_predicted_cells": 126,
+        "edge_n": 56,
+        "edge_exact": 0.19642857142857142,
+        "region_2x2": 0.8141592920353983,
+        "region_3x3": 0.7522123893805309,
+        "region_4x4": 0.6017699115044248
+      }
+    },
+    {
+      "kind": "audio_fusion",
+      "config": {
+        "family": "trees",
+        "augment": false
+      },
+      "alpha": 0.25,
+      "gate": "quality",
+      "validation": {
+        "n": 226,
+        "exact": 0.10619469026548672,
+        "within_one": 0.5486725663716814,
+        "within_two": 0.7920353982300885,
+        "mean_distance_cells": 2.4324361065165014,
+        "median_distance_cells": 1.4142135623730951,
+        "x_exact": 0.2743362831858407,
+        "y_exact": 0.415929203539823,
+        "side_x": 0.8805309734513275,
+        "side_y": 0.911504424778761,
+        "unique_predicted_cells": 125,
+        "edge_n": 56,
+        "edge_exact": 0.19642857142857142,
+        "region_2x2": 0.8185840707964602,
+        "region_3x3": 0.7522123893805309,
+        "region_4x4": 0.6061946902654868
+      }
+    },
+    {
+      "kind": "audio_fusion",
+      "config": {
+        "family": "trees",
+        "augment": false
+      },
+      "alpha": 0.5,
+      "gate": "quality",
+      "validation": {
+        "n": 226,
+        "exact": 0.11061946902654868,
+        "within_one": 0.5309734513274337,
+        "within_two": 0.7743362831858407,
+        "mean_distance_cells": 2.54186396436668,
+        "median_distance_cells": 1.4142135623730951,
+        "x_exact": 0.26991150442477874,
+        "y_exact": 0.39823008849557523,
+        "side_x": 0.8761061946902655,
+        "side_y": 0.9070796460176991,
+        "unique_predicted_cells": 124,
+        "edge_n": 56,
+        "edge_exact": 0.19642857142857142,
+        "region_2x2": 0.8185840707964602,
+        "region_3x3": 0.7345132743362832,
+        "region_4x4": 0.5929203539823009
+      }
+    },
+    {
+      "kind": "audio_fusion",
+      "config": {
+        "family": "trees",
+        "augment": false
+      },
+      "alpha": 0.75,
+      "gate": "quality",
+      "validation": {
+        "n": 226,
+        "exact": 0.08849557522123894,
+        "within_one": 0.5,
+        "within_two": 0.7300884955752213,
+        "mean_distance_cells": 2.818932060589198,
+        "median_distance_cells": 1.7071067811865475,
+        "x_exact": 0.2610619469026549,
+        "y_exact": 0.37610619469026546,
+        "side_x": 0.8584070796460177,
+        "side_y": 0.9026548672566371,
+        "unique_predicted_cells": 129,
+        "edge_n": 56,
+        "edge_exact": 0.14285714285714285,
+        "region_2x2": 0.7743362831858407,
+        "region_3x3": 0.6991150442477876,
+        "region_4x4": 0.5442477876106194
+      }
+    },
+    {
+      "kind": "audio_fusion",
+      "config": {
+        "family": "trees",
+        "augment": false
+      },
+      "alpha": 1.0,
+      "gate": "quality",
+      "validation": {
+        "n": 226,
+        "exact": 0.09292035398230089,
+        "within_one": 0.48672566371681414,
+        "within_two": 0.7035398230088495,
+        "mean_distance_cells": 3.1604288346521012,
+        "median_distance_cells": 2.0,
+        "x_exact": 0.252212389380531,
+        "y_exact": 0.3672566371681416,
+        "side_x": 0.831858407079646,
+        "side_y": 0.8893805309734514,
+        "unique_predicted_cells": 121,
+        "edge_n": 56,
+        "edge_exact": 0.16071428571428573,
+        "region_2x2": 0.7389380530973452,
+        "region_3x3": 0.668141592920354,
+        "region_4x4": 0.5265486725663717
+      }
+    },
+    {
+      "kind": "audio_fusion",
+      "config": {
+        "family": "gbm",
+        "augment": false
+      },
+      "alpha": 0.1,
+      "gate": "none",
+      "validation": {
+        "n": 226,
+        "exact": 0.11061946902654868,
+        "within_one": 0.5530973451327433,
+        "within_two": 0.7920353982300885,
+        "mean_distance_cells": 2.4061025408964727,
+        "median_distance_cells": 1.4142135623730951,
+        "x_exact": 0.28761061946902655,
+        "y_exact": 0.3893805309734513,
+        "side_x": 0.8805309734513275,
+        "side_y": 0.9070796460176991,
+        "unique_predicted_cells": 126,
+        "edge_n": 56,
+        "edge_exact": 0.21428571428571427,
+        "region_2x2": 0.8141592920353983,
+        "region_3x3": 0.7522123893805309,
+        "region_4x4": 0.6061946902654868
+      }
+    },
+    {
+      "kind": "audio_fusion",
+      "config": {
+        "family": "gbm",
+        "augment": false
+      },
+      "alpha": 0.25,
+      "gate": "none",
+      "validation": {
+        "n": 226,
+        "exact": 0.11061946902654868,
+        "within_one": 0.48672566371681414,
+        "within_two": 0.6858407079646017,
+        "mean_distance_cells": 2.8221990712727205,
+        "median_distance_cells": 2.0,
+        "x_exact": 0.26991150442477874,
+        "y_exact": 0.3495575221238938,
+        "side_x": 0.8495575221238938,
+        "side_y": 0.915929203539823,
+        "unique_predicted_cells": 138,
+        "edge_n": 56,
+        "edge_exact": 0.14285714285714285,
+        "region_2x2": 0.7787610619469026,
+        "region_3x3": 0.6858407079646017,
+        "region_4x4": 0.5353982300884956
+      }
+    },
+    {
+      "kind": "audio_fusion",
+      "config": {
+        "family": "gbm",
+        "augment": false
+      },
+      "alpha": 0.5,
+      "gate": "none",
+      "validation": {
+        "n": 226,
+        "exact": 0.04424778761061947,
+        "within_one": 0.26991150442477874,
+        "within_two": 0.42920353982300885,
+        "mean_distance_cells": 5.011729096542041,
+        "median_distance_cells": 3.1622776601683795,
+        "x_exact": 0.168141592920354,
+        "y_exact": 0.2743362831858407,
+        "side_x": 0.7300884955752213,
+        "side_y": 0.7743362831858407,
+        "unique_predicted_cells": 138,
+        "edge_n": 56,
+        "edge_exact": 0.03571428571428571,
+        "region_2x2": 0.5752212389380531,
+        "region_3x3": 0.43805309734513276,
+        "region_4x4": 0.3230088495575221
+      }
+    },
+    {
+      "kind": "audio_fusion",
+      "config": {
+        "family": "gbm",
+        "augment": false
+      },
+      "alpha": 0.75,
+      "gate": "none",
+      "validation": {
+        "n": 226,
+        "exact": 0.004424778761061947,
+        "within_one": 0.12389380530973451,
+        "within_two": 0.24336283185840707,
+        "mean_distance_cells": 6.488086194005607,
+        "median_distance_cells": 5.385164807134504,
+        "x_exact": 0.10176991150442478,
+        "y_exact": 0.17699115044247787,
+        "side_x": 0.6592920353982301,
+        "side_y": 0.6637168141592921,
+        "unique_predicted_cells": 130,
+        "edge_n": 56,
+        "edge_exact": 0.0,
+        "region_2x2": 0.46017699115044247,
+        "region_3x3": 0.3141592920353982,
+        "region_4x4": 0.19469026548672566
+      }
+    },
+    {
+      "kind": "audio_fusion",
+      "config": {
+        "family": "gbm",
+        "augment": false
+      },
+      "alpha": 1.0,
+      "gate": "none",
+      "validation": {
+        "n": 226,
+        "exact": 0.0,
+        "within_one": 0.084070796460177,
+        "within_two": 0.18141592920353983,
+        "mean_distance_cells": 7.149887005720284,
+        "median_distance_cells": 6.4031242374328485,
+        "x_exact": 0.08849557522123894,
+        "y_exact": 0.09292035398230089,
+        "side_x": 0.6415929203539823,
+        "side_y": 0.5929203539823009,
+        "unique_predicted_cells": 129,
+        "edge_n": 56,
+        "edge_exact": 0.0,
+        "region_2x2": 0.3893805309734513,
+        "region_3x3": 0.22123893805309736,
+        "region_4x4": 0.12831858407079647
+      }
+    },
+    {
+      "kind": "audio_fusion",
+      "config": {
+        "family": "gbm",
+        "augment": false
+      },
+      "alpha": 0.1,
+      "gate": "quality",
+      "validation": {
+        "n": 226,
+        "exact": 0.10619469026548672,
+        "within_one": 0.5486725663716814,
+        "within_two": 0.7831858407079646,
+        "mean_distance_cells": 2.4811083198333796,
+        "median_distance_cells": 1.4142135623730951,
+        "x_exact": 0.2743362831858407,
+        "y_exact": 0.415929203539823,
+        "side_x": 0.8761061946902655,
+        "side_y": 0.911504424778761,
+        "unique_predicted_cells": 124,
+        "edge_n": 56,
+        "edge_exact": 0.19642857142857142,
+        "region_2x2": 0.8141592920353983,
+        "region_3x3": 0.7522123893805309,
+        "region_4x4": 0.6017699115044248
+      }
+    },
+    {
+      "kind": "audio_fusion",
+      "config": {
+        "family": "gbm",
+        "augment": false
+      },
+      "alpha": 0.25,
+      "gate": "quality",
+      "validation": {
+        "n": 226,
+        "exact": 0.10619469026548672,
+        "within_one": 0.5486725663716814,
+        "within_two": 0.7876106194690266,
+        "mean_distance_cells": 2.440374651066045,
+        "median_distance_cells": 1.4142135623730951,
+        "x_exact": 0.2831858407079646,
+        "y_exact": 0.4026548672566372,
+        "side_x": 0.8672566371681416,
+        "side_y": 0.911504424778761,
+        "unique_predicted_cells": 123,
+        "edge_n": 56,
+        "edge_exact": 0.19642857142857142,
+        "region_2x2": 0.8053097345132744,
+        "region_3x3": 0.7433628318584071,
+        "region_4x4": 0.588495575221239
+      }
+    },
+    {
+      "kind": "audio_fusion",
+      "config": {
+        "family": "gbm",
+        "augment": false
+      },
+      "alpha": 0.5,
+      "gate": "quality",
+      "validation": {
+        "n": 226,
+        "exact": 0.09734513274336283,
+        "within_one": 0.5,
+        "within_two": 0.7345132743362832,
+        "mean_distance_cells": 2.8179237586863075,
+        "median_distance_cells": 1.7071067811865475,
+        "x_exact": 0.26548672566371684,
+        "y_exact": 0.3805309734513274,
+        "side_x": 0.831858407079646,
+        "side_y": 0.9026548672566371,
+        "unique_predicted_cells": 127,
+        "edge_n": 56,
+        "edge_exact": 0.16071428571428573,
+        "region_2x2": 0.7566371681415929,
+        "region_3x3": 0.7035398230088495,
+        "region_4x4": 0.5353982300884956
+      }
+    },
+    {
+      "kind": "audio_fusion",
+      "config": {
+        "family": "gbm",
+        "augment": false
+      },
+      "alpha": 0.75,
+      "gate": "quality",
+      "validation": {
+        "n": 226,
+        "exact": 0.084070796460177,
+        "within_one": 0.46017699115044247,
+        "within_two": 0.6814159292035398,
+        "mean_distance_cells": 3.1370218306699935,
+        "median_distance_cells": 2.0,
+        "x_exact": 0.24336283185840707,
+        "y_exact": 0.3584070796460177,
+        "side_x": 0.8185840707964602,
+        "side_y": 0.8938053097345132,
+        "unique_predicted_cells": 129,
+        "edge_n": 56,
+        "edge_exact": 0.14285714285714285,
+        "region_2x2": 0.7345132743362832,
+        "region_3x3": 0.672566371681416,
+        "region_4x4": 0.49557522123893805
+      }
+    },
+    {
+      "kind": "audio_fusion",
+      "config": {
+        "family": "gbm",
+        "augment": false
+      },
+      "alpha": 1.0,
+      "gate": "quality",
+      "validation": {
+        "n": 226,
+        "exact": 0.084070796460177,
+        "within_one": 0.4424778761061947,
+        "within_two": 0.6460176991150443,
+        "mean_distance_cells": 3.384235804660673,
+        "median_distance_cells": 2.0,
+        "x_exact": 0.23893805309734514,
+        "y_exact": 0.3407079646017699,
+        "side_x": 0.8053097345132744,
+        "side_y": 0.8716814159292036,
+        "unique_predicted_cells": 127,
+        "edge_n": 56,
+        "edge_exact": 0.14285714285714285,
+        "region_2x2": 0.7035398230088495,
+        "region_3x3": 0.6415929203539823,
+        "region_4x4": 0.4778761061946903
+      }
+    },
+    {
+      "kind": "audio_fusion",
+      "config": {
+        "family": "svm",
+        "augment": true
+      },
+      "alpha": 0.1,
+      "gate": "none",
+      "validation": {
+        "n": 226,
+        "exact": 0.10619469026548672,
+        "within_one": 0.5398230088495575,
+        "within_two": 0.7920353982300885,
+        "mean_distance_cells": 2.3159120886824405,
+        "median_distance_cells": 1.4142135623730951,
+        "x_exact": 0.2920353982300885,
+        "y_exact": 0.415929203539823,
+        "side_x": 0.8805309734513275,
+        "side_y": 0.915929203539823,
+        "unique_predicted_cells": 120,
+        "edge_n": 56,
+        "edge_exact": 0.17857142857142858,
+        "region_2x2": 0.8230088495575221,
+        "region_3x3": 0.7566371681415929,
+        "region_4x4": 0.6017699115044248
+      }
+    },
+    {
+      "kind": "audio_fusion",
+      "config": {
+        "family": "svm",
+        "augment": true
+      },
+      "alpha": 0.25,
+      "gate": "none",
+      "validation": {
+        "n": 226,
+        "exact": 0.10619469026548672,
+        "within_one": 0.5,
+        "within_two": 0.7433628318584071,
+        "mean_distance_cells": 2.637068499366464,
+        "median_distance_cells": 1.7071067811865475,
+        "x_exact": 0.27876106194690264,
+        "y_exact": 0.3893805309734513,
+        "side_x": 0.8716814159292036,
+        "side_y": 0.9203539823008849,
+        "unique_predicted_cells": 131,
+        "edge_n": 56,
+        "edge_exact": 0.17857142857142858,
+        "region_2x2": 0.8097345132743363,
+        "region_3x3": 0.6991150442477876,
+        "region_4x4": 0.588495575221239
+      }
+    },
+    {
+      "kind": "audio_fusion",
+      "config": {
+        "family": "svm",
+        "augment": true
+      },
+      "alpha": 0.5,
+      "gate": "none",
+      "validation": {
+        "n": 226,
+        "exact": 0.08849557522123894,
+        "within_one": 0.336283185840708,
+        "within_two": 0.5707964601769911,
+        "mean_distance_cells": 3.734798579748026,
+        "median_distance_cells": 2.23606797749979,
+        "x_exact": 0.22123893805309736,
+        "y_exact": 0.35398230088495575,
+        "side_x": 0.831858407079646,
+        "side_y": 0.8938053097345132,
+        "unique_predicted_cells": 140,
+        "edge_n": 56,
+        "edge_exact": 0.16071428571428573,
+        "region_2x2": 0.7477876106194691,
+        "region_3x3": 0.5973451327433629,
+        "region_4x4": 0.4557522123893805
+      }
+    },
+    {
+      "kind": "audio_fusion",
+      "config": {
+        "family": "svm",
+        "augment": true
+      },
+      "alpha": 0.75,
+      "gate": "none",
+      "validation": {
+        "n": 226,
+        "exact": 0.03982300884955752,
+        "within_one": 0.1902654867256637,
+        "within_two": 0.3672566371681416,
+        "mean_distance_cells": 5.621813587913062,
+        "median_distance_cells": 4.123105625617661,
+        "x_exact": 0.15486725663716813,
+        "y_exact": 0.23008849557522124,
+        "side_x": 0.7389380530973452,
+        "side_y": 0.7787610619469026,
+        "unique_predicted_cells": 124,
+        "edge_n": 56,
+        "edge_exact": 0.08928571428571429,
+        "region_2x2": 0.5752212389380531,
+        "region_3x3": 0.37168141592920356,
+        "region_4x4": 0.2831858407079646
+      }
+    },
+    {
+      "kind": "audio_fusion",
+      "config": {
+        "family": "svm",
+        "augment": true
+      },
+      "alpha": 1.0,
+      "gate": "none",
+      "validation": {
+        "n": 226,
+        "exact": 0.022123893805309734,
+        "within_one": 0.12831858407079647,
+        "within_two": 0.26991150442477874,
+        "mean_distance_cells": 6.773029254614163,
+        "median_distance_cells": 6.0,
+        "x_exact": 0.11504424778761062,
+        "y_exact": 0.14601769911504425,
+        "side_x": 0.6858407079646017,
+        "side_y": 0.6548672566371682,
+        "unique_predicted_cells": 124,
+        "edge_n": 56,
+        "edge_exact": 0.05357142857142857,
+        "region_2x2": 0.4778761061946903,
+        "region_3x3": 0.27876106194690264,
+        "region_4x4": 0.18584070796460178
+      }
+    },
+    {
+      "kind": "audio_fusion",
+      "config": {
+        "family": "svm",
+        "augment": true
+      },
+      "alpha": 0.1,
+      "gate": "quality",
+      "validation": {
+        "n": 226,
+        "exact": 0.10619469026548672,
+        "within_one": 0.5442477876106194,
+        "within_two": 0.7876106194690266,
+        "mean_distance_cells": 2.436332968284818,
+        "median_distance_cells": 1.4142135623730951,
+        "x_exact": 0.2743362831858407,
+        "y_exact": 0.41150442477876104,
+        "side_x": 0.8805309734513275,
+        "side_y": 0.911504424778761,
+        "unique_predicted_cells": 123,
+        "edge_n": 56,
+        "edge_exact": 0.19642857142857142,
+        "region_2x2": 0.8230088495575221,
+        "region_3x3": 0.7477876106194691,
+        "region_4x4": 0.6017699115044248
+      }
+    },
+    {
+      "kind": "audio_fusion",
+      "config": {
+        "family": "svm",
+        "augment": true
+      },
+      "alpha": 0.25,
+      "gate": "quality",
+      "validation": {
+        "n": 226,
+        "exact": 0.10619469026548672,
+        "within_one": 0.5398230088495575,
+        "within_two": 0.7831858407079646,
+        "mean_distance_cells": 2.4463958630302023,
+        "median_distance_cells": 1.4142135623730951,
+        "x_exact": 0.27876106194690264,
+        "y_exact": 0.4026548672566372,
+        "side_x": 0.8805309734513275,
+        "side_y": 0.911504424778761,
+        "unique_predicted_cells": 123,
+        "edge_n": 56,
+        "edge_exact": 0.17857142857142858,
+        "region_2x2": 0.8230088495575221,
+        "region_3x3": 0.7433628318584071,
+        "region_4x4": 0.5929203539823009
+      }
+    },
+    {
+      "kind": "audio_fusion",
+      "config": {
+        "family": "svm",
+        "augment": true
+      },
+      "alpha": 0.5,
+      "gate": "quality",
+      "validation": {
+        "n": 226,
+        "exact": 0.11504424778761062,
+        "within_one": 0.5442477876106194,
+        "within_two": 0.7699115044247787,
+        "mean_distance_cells": 2.4533253993806987,
+        "median_distance_cells": 1.4142135623730951,
+        "x_exact": 0.28761061946902655,
+        "y_exact": 0.415929203539823,
+        "side_x": 0.8805309734513275,
+        "side_y": 0.9203539823008849,
+        "unique_predicted_cells": 130,
+        "edge_n": 56,
+        "edge_exact": 0.19642857142857142,
+        "region_2x2": 0.8185840707964602,
+        "region_3x3": 0.7212389380530974,
+        "region_4x4": 0.5929203539823009
+      }
+    },
+    {
+      "kind": "audio_fusion",
+      "config": {
+        "family": "svm",
+        "augment": true
+      },
+      "alpha": 0.75,
+      "gate": "quality",
+      "validation": {
+        "n": 226,
+        "exact": 0.10619469026548672,
+        "within_one": 0.5132743362831859,
+        "within_two": 0.7522123893805309,
+        "mean_distance_cells": 2.727520735584165,
+        "median_distance_cells": 1.4142135623730951,
+        "x_exact": 0.27876106194690264,
+        "y_exact": 0.40707964601769914,
+        "side_x": 0.8716814159292036,
+        "side_y": 0.9070796460176991,
+        "unique_predicted_cells": 129,
+        "edge_n": 56,
+        "edge_exact": 0.19642857142857142,
+        "region_2x2": 0.7920353982300885,
+        "region_3x3": 0.7123893805309734,
+        "region_4x4": 0.5663716814159292
+      }
+    },
+    {
+      "kind": "audio_fusion",
+      "config": {
+        "family": "svm",
+        "augment": true
+      },
+      "alpha": 1.0,
+      "gate": "quality",
+      "validation": {
+        "n": 226,
+        "exact": 0.09292035398230089,
+        "within_one": 0.4557522123893805,
+        "within_two": 0.7123893805309734,
+        "mean_distance_cells": 3.0595009826061617,
+        "median_distance_cells": 2.0,
+        "x_exact": 0.252212389380531,
+        "y_exact": 0.3938053097345133,
+        "side_x": 0.8495575221238938,
+        "side_y": 0.8849557522123894,
+        "unique_predicted_cells": 127,
+        "edge_n": 56,
+        "edge_exact": 0.17857142857142858,
+        "region_2x2": 0.7477876106194691,
+        "region_3x3": 0.6858407079646017,
+        "region_4x4": 0.5221238938053098
+      }
+    }
+  ],
+  "audio_only_candidates": [
+    {
+      "config": {
+        "family": "linear",
+        "augment": false
+      },
+      "validation": {
+        "n": 226,
+        "exact": 0.022123893805309734,
+        "within_one": 0.11946902654867257,
+        "within_two": 0.29646017699115046,
+        "mean_distance_cells": 6.549820553397779,
+        "median_distance_cells": 6.0,
+        "x_exact": 0.11504424778761062,
+        "y_exact": 0.18584070796460178,
+        "side_x": 0.6814159292035398,
+        "side_y": 0.6769911504424779,
+        "unique_predicted_cells": 137,
+        "edge_n": 56,
+        "edge_exact": 0.03571428571428571,
+        "region_2x2": 0.4646017699115044,
+        "region_3x3": 0.26548672566371684,
+        "region_4x4": 0.20353982300884957
+      }
+    },
+    {
+      "config": {
+        "family": "svm",
+        "augment": false
+      },
+      "validation": {
+        "n": 226,
+        "exact": 0.02654867256637168,
+        "within_one": 0.13274336283185842,
+        "within_two": 0.2345132743362832,
+        "mean_distance_cells": 6.8978901119610185,
+        "median_distance_cells": 6.041381265149109,
+        "x_exact": 0.09734513274336283,
+        "y_exact": 0.17699115044247787,
+        "side_x": 0.6238938053097345,
+        "side_y": 0.6769911504424779,
+        "unique_predicted_cells": 86,
+        "edge_n": 56,
+        "edge_exact": 0.05357142857142857,
+        "region_2x2": 0.40707964601769914,
+        "region_3x3": 0.28761061946902655,
+        "region_4x4": 0.19469026548672566
+      }
+    },
+    {
+      "config": {
+        "family": "trees",
+        "augment": false
+      },
+      "validation": {
+        "n": 226,
+        "exact": 0.02654867256637168,
+        "within_one": 0.10176991150442478,
+        "within_two": 0.2079646017699115,
+        "mean_distance_cells": 7.055692481675045,
+        "median_distance_cells": 6.324555320336759,
+        "x_exact": 0.12389380530973451,
+        "y_exact": 0.13716814159292035,
+        "side_x": 0.6150442477876106,
+        "side_y": 0.6371681415929203,
+        "unique_predicted_cells": 128,
+        "edge_n": 56,
+        "edge_exact": 0.017857142857142856,
+        "region_2x2": 0.3938053097345133,
+        "region_3x3": 0.22566371681415928,
+        "region_4x4": 0.16371681415929204
+      }
+    },
+    {
+      "config": {
+        "family": "gbm",
+        "augment": false
+      },
+      "validation": {
+        "n": 226,
+        "exact": 0.0,
+        "within_one": 0.084070796460177,
+        "within_two": 0.18141592920353983,
+        "mean_distance_cells": 7.149887005720284,
+        "median_distance_cells": 6.4031242374328485,
+        "x_exact": 0.08849557522123894,
+        "y_exact": 0.09292035398230089,
+        "side_x": 0.6415929203539823,
+        "side_y": 0.5929203539823009,
+        "unique_predicted_cells": 129,
+        "edge_n": 56,
+        "edge_exact": 0.0,
+        "region_2x2": 0.3893805309734513,
+        "region_3x3": 0.22123893805309736,
+        "region_4x4": 0.12831858407079647
+      }
+    },
+    {
+      "config": {
+        "family": "svm",
+        "augment": true
+      },
+      "validation": {
+        "n": 226,
+        "exact": 0.022123893805309734,
+        "within_one": 0.12831858407079647,
+        "within_two": 0.26991150442477874,
+        "mean_distance_cells": 6.773029254614163,
+        "median_distance_cells": 6.0,
+        "x_exact": 0.11504424778761062,
+        "y_exact": 0.14601769911504425,
+        "side_x": 0.6858407079646017,
+        "side_y": 0.6548672566371682,
+        "unique_predicted_cells": 124,
+        "edge_n": 56,
+        "edge_exact": 0.05357142857142857,
+        "region_2x2": 0.4778761061946903,
+        "region_3x3": 0.27876106194690264,
+        "region_4x4": 0.18584070796460178
+      }
+    }
+  ],
+  "background_only_validation": {
+    "n": 226,
+    "exact": 0.0,
+    "within_one": 0.035398230088495575,
+    "within_two": 0.084070796460177,
+    "mean_distance_cells": 8.086795070661438,
+    "median_distance_cells": 7.615773105863909,
+    "x_exact": 0.04424778761061947,
+    "y_exact": 0.09734513274336283,
+    "side_x": 0.4823008849557522,
+    "side_y": 0.6017699115044248,
+    "unique_predicted_cells": 88,
+    "edge_n": 56,
+    "edge_exact": 0.0,
+    "region_2x2": 0.252212389380531,
+    "region_3x3": 0.14601769911504425,
+    "region_4x4": 0.03982300884955752
+  },
+  "test": {
+    "n": 217,
+    "exact": 0.12442396313364056,
+    "within_one": 0.5898617511520737,
+    "within_two": 0.8110599078341014,
+    "mean_distance_cells": 2.0243941299250325,
+    "median_distance_cells": 1.4142135623730951,
+    "x_exact": 0.3225806451612903,
+    "y_exact": 0.43317972350230416,
+    "side_x": 0.8525345622119815,
+    "side_y": 0.9216589861751152,
+    "unique_predicted_cells": 118,
+    "edge_n": 57,
+    "edge_exact": 0.17543859649122806,
+    "region_2x2": 0.8018433179723502,
+    "region_3x3": 0.7511520737327189,
+    "region_4x4": 0.6129032258064516
+  },
+  "previous_same_test": {
+    "n": 217,
+    "exact": 0.10599078341013825,
+    "within_one": 0.5806451612903226,
+    "within_two": 0.815668202764977,
+    "mean_distance_cells": 2.0230301298709494,
+    "median_distance_cells": 1.4142135623730951,
+    "x_exact": 0.31797235023041476,
+    "y_exact": 0.42857142857142855,
+    "side_x": 0.847926267281106,
+    "side_y": 0.9216589861751152,
+    "unique_predicted_cells": 119,
+    "edge_n": 57,
+    "edge_exact": 0.12280701754385964,
+    "region_2x2": 0.7972350230414746,
+    "region_3x3": 0.7603686635944701,
+    "region_4x4": 0.6036866359447005
+  },
+  "positive_audio_test": {
+    "n": 217,
+    "exact": 0.12442396313364056,
+    "within_one": 0.5898617511520737,
+    "within_two": 0.8110599078341014,
+    "mean_distance_cells": 2.0243941299250325,
+    "median_distance_cells": 1.4142135623730951,
+    "x_exact": 0.3225806451612903,
+    "y_exact": 0.43317972350230416,
+    "side_x": 0.8525345622119815,
+    "side_y": 0.9216589861751152,
+    "unique_predicted_cells": 118,
+    "edge_n": 57,
+    "edge_exact": 0.17543859649122806,
+    "region_2x2": 0.8018433179723502,
+    "region_3x3": 0.7511520737327189,
+    "region_4x4": 0.6129032258064516
+  },
+  "audio_only_test": {
+    "n": 217,
+    "exact": 0.03686635944700461,
+    "within_one": 0.17511520737327188,
+    "within_two": 0.3778801843317972,
+    "mean_distance_cells": 4.865368293790046,
+    "median_distance_cells": 3.605551275463989,
+    "x_exact": 0.16129032258064516,
+    "y_exact": 0.25806451612903225,
+    "side_x": 0.6912442396313364,
+    "side_y": 0.7788018433179723,
+    "unique_predicted_cells": 108,
+    "edge_n": 57,
+    "edge_exact": 0.03508771929824561,
+    "region_2x2": 0.5207373271889401,
+    "region_3x3": 0.37327188940092165,
+    "region_4x4": 0.2857142857142857
+  },
+  "shuffled_audio_test": {
+    "n": 217,
+    "exact": 0.1152073732718894,
+    "within_one": 0.5806451612903226,
+    "within_two": 0.815668202764977,
+    "mean_distance_cells": 1.985712178683929,
+    "median_distance_cells": 1.4142135623730951,
+    "x_exact": 0.3225806451612903,
+    "y_exact": 0.42857142857142855,
+    "side_x": 0.8525345622119815,
+    "side_y": 0.9216589861751152,
+    "unique_predicted_cells": 122,
+    "edge_n": 57,
+    "edge_exact": 0.15789473684210525,
+    "region_2x2": 0.8018433179723502,
+    "region_3x3": 0.7511520737327189,
+    "region_4x4": 0.6175115207373272
+  },
+  "noise_groups": {
+    "noisier_background": {
+      "n": 115,
+      "combined": {
+        "n": 115,
+        "exact": 0.0782608695652174,
+        "within_one": 0.6173913043478261,
+        "within_two": 0.8173913043478261,
+        "mean_distance_cells": 2.049611686547896,
+        "median_distance_cells": 1.4142135623730951,
+        "x_exact": 0.2782608695652174,
+        "y_exact": 0.4,
+        "side_x": 0.8695652173913043,
+        "side_y": 0.9043478260869565,
+        "unique_predicted_cells": 80,
+        "edge_n": 30,
+        "edge_exact": 0.16666666666666666,
+        "region_2x2": 0.808695652173913,
+        "region_3x3": 0.7304347826086957,
+        "region_4x4": 0.6260869565217392
+      },
+      "baseline": {
+        "n": 115,
+        "exact": 0.06086956521739131,
+        "within_one": 0.6173913043478261,
+        "within_two": 0.8260869565217391,
+        "mean_distance_cells": 2.045404019106274,
+        "median_distance_cells": 1.4142135623730951,
+        "x_exact": 0.30434782608695654,
+        "y_exact": 0.3826086956521739,
+        "side_x": 0.8695652173913043,
+        "side_y": 0.8956521739130435,
+        "unique_predicted_cells": 83,
+        "edge_n": 30,
+        "edge_exact": 0.13333333333333333,
+        "region_2x2": 0.808695652173913,
+        "region_3x3": 0.7391304347826086,
+        "region_4x4": 0.6260869565217392
+      }
+    },
+    "quieter_background": {
+      "n": 102,
+      "combined": {
+        "n": 102,
+        "exact": 0.17647058823529413,
+        "within_one": 0.5588235294117647,
+        "within_two": 0.803921568627451,
+        "mean_distance_cells": 1.9959625709874904,
+        "median_distance_cells": 1.4142135623730951,
+        "x_exact": 0.37254901960784315,
+        "y_exact": 0.47058823529411764,
+        "side_x": 0.8333333333333334,
+        "side_y": 0.9411764705882353,
+        "unique_predicted_cells": 70,
+        "edge_n": 27,
+        "edge_exact": 0.18518518518518517,
+        "region_2x2": 0.7941176470588235,
+        "region_3x3": 0.7745098039215687,
+        "region_4x4": 0.5980392156862745
+      },
+      "baseline": {
+        "n": 102,
+        "exact": 0.1568627450980392,
+        "within_one": 0.5392156862745098,
+        "within_two": 0.803921568627451,
+        "mean_distance_cells": 1.9978046665173974,
+        "median_distance_cells": 1.4142135623730951,
+        "x_exact": 0.3333333333333333,
+        "y_exact": 0.4803921568627451,
+        "side_x": 0.8235294117647058,
+        "side_y": 0.9509803921568627,
+        "unique_predicted_cells": 69,
+        "edge_n": 27,
+        "edge_exact": 0.1111111111111111,
+        "region_2x2": 0.7843137254901961,
+        "region_3x3": 0.7843137254901961,
+        "region_4x4": 0.5784313725490197
+      }
+    }
+  },
+  "quality_summary": {
+    "valid_trials": 779,
+    "invalid_trials": 0,
+    "valid_test": 217,
+    "median_snr_db": 2.713516644869671,
+    "median_quality": 0.09864230005884383,
+    "test_zero_quality": 69,
+    "median_audio_alignment_ms": 23.44671201814058
+  },
+  "feature_count": 202,
+  "sample_rate": 44100,
+  "split": {
+    "train": 259,
+    "validation": 226,
+    "evaluation_fit": 519,
+    "test": 217
+  },
+  "normalization": "StandardScaler fitted on training audio features only; per-tap background PSD estimated from -340..-100 ms, never future/validation data.",
+  "augmentation": "Only training background snippets from -940..-400 ms; mixed at nominal +12/+6 dB SNR, original labels weighted 1 and augmented labels 0.7. No validation/test audio in augmentation.",
+  "warnings": [
+    "Historical third pass reused, not a fresh independent recording.",
+    "No speech recognition; features are short-window spectrum/attack/decay/noise-relative shape.",
+    "Noise suppression cannot guarantee recovery of a tap fully masked by another transient.",
+    "Current-room background can differ from future background; needs new-session validation.",
+    "For missing audio, fused prediction falls back to existing sensors; test set not reduced."
+  ],
+  "paired_comparison": {
+    "changed_predictions": 35,
+    "fixed_exact": 7,
+    "lost_exact": 3,
+    "mcnemar_exact_two_sided_p": 0.34375
+  },
+  "shuffled_audio_1000": {
+    "mean_exact": 0.10919815668202765,
+    "p95_exact": 0.12442396313364056,
+    "fraction_at_least_actual": 0.054945054945054944,
+    "n": 1000,
+    "note": "Same audio features permuted across held-out examples; empirical negative control, not fresh-data validation."
+  },
+  "verification": "Saved evaluation model reproduces all 217 predictions; audio scalers fit the correct training subset, mean~0, no nonfinite values; final and evaluated models separate."
+}

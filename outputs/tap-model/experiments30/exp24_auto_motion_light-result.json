@@ -1,0 +1,27 @@
+{
+  "name": "exp24_auto_motion_light",
+  "feature_count": 805,
+  "config": {
+    "family": "trees",
+    "n_estimators": 300,
+    "min_samples_leaf": 2,
+    "max_features": 0.6,
+    "manual": false
+  },
+  "validation": {
+    "n": 226,
+    "exact": 0.09734513274336283,
+    "within_one": 0.5,
+    "within_two": 0.7123893805309734,
+    "mean_distance_cells": 2.7245420277652266,
+    "median_distance_cells": 1.7071067811865475,
+    "far_half_screen": 0.06637168141592921,
+    "far_third_screen": 0.09734513274336283,
+    "side_x": 0.8495575221238938,
+    "side_y": 0.9070796460176991,
+    "edge_exact": 0.125,
+    "unique_predicted_cells": 129,
+    "score": 0.9212518330993671
+  },
+  "extra": {}
+}

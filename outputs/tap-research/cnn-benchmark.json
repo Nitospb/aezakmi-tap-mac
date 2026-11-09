@@ -1,0 +1,35 @@
+{
+  "architecture": "Small 3-layer 1D CNN; shared embedding; cell/X/Y/quadrant heads; IMU derivatives at 800Hz; lid and magnitude context; time-shift augmentation on training only",
+  "candidates": [
+    {
+      "seed": 7,
+      "validation": {
+        "n": 100,
+        "exact": 0.03,
+        "within_one": 0.14,
+        "mean_distance": 5.214596395618262
+      },
+      "selection_score": 0.1857080720876348
+    },
+    {
+      "seed": 19,
+      "validation": {
+        "n": 100,
+        "exact": 0.06,
+        "within_one": 0.16,
+        "mean_distance": 5.627337606159094
+      },
+      "selection_score": 0.3474532478768181
+    }
+  ],
+  "selected_seed": 19,
+  "test": {
+    "n": 102,
+    "exact": 0.00980392156862745,
+    "within_one": 0.09803921568627451,
+    "mean_distance": 5.953340330317033
+  },
+  "training_original_n": 212,
+  "training_augmented_n": 1060,
+  "warning": "Same historical test as prior iterations, not new independent data. Inspired by TapNet, not a faithful reproduction. No augmentation copies cross validation/test boundaries."
+}

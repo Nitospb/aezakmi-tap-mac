@@ -1,0 +1,26 @@
+{
+  "name": "exp18_forest_fraction015_leaf3",
+  "feature_count": 805,
+  "config": {
+    "family": "forest",
+    "n_estimators": 400,
+    "min_samples_leaf": 3,
+    "max_features": 0.15
+  },
+  "validation": {
+    "n": 226,
+    "exact": 0.09292035398230089,
+    "within_one": 0.43805309734513276,
+    "within_two": 0.6460176991150443,
+    "mean_distance_cells": 3.354180354758912,
+    "median_distance_cells": 2.0,
+    "far_half_screen": 0.11061946902654868,
+    "far_third_screen": 0.14601769911504425,
+    "side_x": 0.8185840707964602,
+    "side_y": 0.8893805309734514,
+    "edge_exact": 0.16071428571428573,
+    "unique_predicted_cells": 123,
+    "score": 0.8035156074846299
+  },
+  "extra": {}
+}

@@ -1,0 +1,25 @@
+{
+  "name": "exp04_svm",
+  "feature_count": 634,
+  "config": {
+    "family": "svm",
+    "C": 10,
+    "gamma": "scale"
+  },
+  "validation": {
+    "n": 226,
+    "exact": 0.035398230088495575,
+    "within_one": 0.2079646017699115,
+    "within_two": 0.37610619469026546,
+    "mean_distance_cells": 5.779228073306158,
+    "median_distance_cells": 3.802775637731995,
+    "far_half_screen": 0.26548672566371684,
+    "far_third_screen": 0.3407079646017699,
+    "side_x": 0.7123893805309734,
+    "side_y": 0.831858407079646,
+    "edge_exact": 0.03571428571428571,
+    "unique_predicted_cells": 76,
+    "score": 0.24232873167378183
+  },
+  "extra": {}
+}

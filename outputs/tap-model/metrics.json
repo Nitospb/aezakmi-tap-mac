@@ -1,0 +1,223 @@
+{
+  "dataset_n": 576,
+  "automatic_n": 414,
+  "manual_candidates_n": 160,
+  "manual_excluded": [
+    {
+      "trial_id": "2F424C8A-CE4B-4AC7-93CA-20EC84575325",
+      "reason": "manual interval too short"
+    },
+    {
+      "trial_id": "10FE457F-07C6-4CC0-8D34-D8C09FD9DC9A",
+      "reason": "manual interval too short"
+    }
+  ],
+  "feature_count": 258,
+  "chosen": {
+    "params": {
+      "num_leaves": 15,
+      "max_depth": 4,
+      "min_child_samples": 6,
+      "n_estimators": 450
+    },
+    "include_manual": true,
+    "validation": {
+      "n": 100,
+      "exact_cell": 0.03,
+      "within_1_cell": 0.17,
+      "within_2_cells": 0.31,
+      "within_3_cells": 0.44,
+      "mean_distance_cells": 4.534164413748017,
+      "median_distance_cells": 4.357394919005424,
+      "rmse_cells": 5.233119022165328,
+      "mae_x_cells": 3.528146356856156,
+      "mae_y_cells": 2.1995406020008685
+    }
+  },
+  "experiments": [
+    {
+      "params": {
+        "num_leaves": 7,
+        "max_depth": 3,
+        "min_child_samples": 12,
+        "n_estimators": 250
+      },
+      "include_manual": false,
+      "validation": {
+        "n": 100,
+        "exact_cell": 0.04,
+        "within_1_cell": 0.13,
+        "within_2_cells": 0.29,
+        "within_3_cells": 0.5,
+        "mean_distance_cells": 4.747107873588152,
+        "median_distance_cells": 4.184358629153807,
+        "rmse_cells": 5.5614853066954035,
+        "mae_x_cells": 3.800264897864427,
+        "mae_y_cells": 2.256425796602956
+      }
+    },
+    {
+      "params": {
+        "num_leaves": 15,
+        "max_depth": 4,
+        "min_child_samples": 10,
+        "n_estimators": 350
+      },
+      "include_manual": false,
+      "validation": {
+        "n": 100,
+        "exact_cell": 0.03,
+        "within_1_cell": 0.14,
+        "within_2_cells": 0.26,
+        "within_3_cells": 0.48,
+        "mean_distance_cells": 4.7699003942823115,
+        "median_distance_cells": 4.137057452646459,
+        "rmse_cells": 5.5433636228040015,
+        "mae_x_cells": 3.8595434236192308,
+        "mae_y_cells": 2.1887934357019976
+      }
+    },
+    {
+      "params": {
+        "num_leaves": 15,
+        "max_depth": 4,
+        "min_child_samples": 6,
+        "n_estimators": 450
+      },
+      "include_manual": false,
+      "validation": {
+        "n": 100,
+        "exact_cell": 0.01,
+        "within_1_cell": 0.15,
+        "within_2_cells": 0.25,
+        "within_3_cells": 0.48,
+        "mean_distance_cells": 4.69562779865415,
+        "median_distance_cells": 4.235908438920347,
+        "rmse_cells": 5.442323696771635,
+        "mae_x_cells": 3.7622137712020933,
+        "mae_y_cells": 2.1983489433319297
+      }
+    },
+    {
+      "params": {
+        "num_leaves": 7,
+        "max_depth": 3,
+        "min_child_samples": 12,
+        "n_estimators": 250
+      },
+      "include_manual": true,
+      "validation": {
+        "n": 100,
+        "exact_cell": 0.03,
+        "within_1_cell": 0.18,
+        "within_2_cells": 0.33,
+        "within_3_cells": 0.47,
+        "mean_distance_cells": 4.527822181897557,
+        "median_distance_cells": 4.207223936077132,
+        "rmse_cells": 5.291780735373958,
+        "mae_x_cells": 3.5423363232054665,
+        "mae_y_cells": 2.218836774782911
+      }
+    },
+    {
+      "params": {
+        "num_leaves": 15,
+        "max_depth": 4,
+        "min_child_samples": 10,
+        "n_estimators": 350
+      },
+      "include_manual": true,
+      "validation": {
+        "n": 100,
+        "exact_cell": 0.02,
+        "within_1_cell": 0.16,
+        "within_2_cells": 0.28,
+        "within_3_cells": 0.44,
+        "mean_distance_cells": 4.6485556875328635,
+        "median_distance_cells": 4.207920522340432,
+        "rmse_cells": 5.384905840084172,
+        "mae_x_cells": 3.70448898733069,
+        "mae_y_cells": 2.157025447880503
+      }
+    },
+    {
+      "params": {
+        "num_leaves": 15,
+        "max_depth": 4,
+        "min_child_samples": 6,
+        "n_estimators": 450
+      },
+      "include_manual": true,
+      "validation": {
+        "n": 100,
+        "exact_cell": 0.03,
+        "within_1_cell": 0.17,
+        "within_2_cells": 0.31,
+        "within_3_cells": 0.44,
+        "mean_distance_cells": 4.534164413748017,
+        "median_distance_cells": 4.357394919005424,
+        "rmse_cells": 5.233119022165328,
+        "mae_x_cells": 3.528146356856156,
+        "mae_y_cells": 2.1995406020008685
+      }
+    }
+  ],
+  "evaluation": {
+    "heldout_all": {
+      "n": 116,
+      "exact_cell": 0.02586206896551724,
+      "within_1_cell": 0.13793103448275862,
+      "within_2_cells": 0.33620689655172414,
+      "within_3_cells": 0.5862068965517241,
+      "mean_distance_cells": 4.617410190058441,
+      "median_distance_cells": 3.5826705705840904,
+      "rmse_cells": 5.5582474191520985,
+      "mae_x_cells": 3.820701647020714,
+      "mae_y_cells": 1.891253019012825
+    },
+    "heldout_automatic": {
+      "n": 102,
+      "exact_cell": 0.029411764705882353,
+      "within_1_cell": 0.1568627450980392,
+      "within_2_cells": 0.3627450980392157,
+      "within_3_cells": 0.6176470588235294,
+      "mean_distance_cells": 4.444800721290285,
+      "median_distance_cells": 3.4365567149968106,
+      "rmse_cells": 5.4044471663721865,
+      "mae_x_cells": 3.644572705921373,
+      "mae_y_cells": 1.8335500913001024
+    },
+    "center_baseline_automatic": {
+      "n": 102,
+      "exact_cell": 0.00980392156862745,
+      "within_1_cell": 0.058823529411764705,
+      "within_2_cells": 0.12745098039215685,
+      "within_3_cells": 0.2647058823529412,
+      "mean_distance_cells": 6.20252302022531,
+      "median_distance_cells": 6.475185394067078,
+      "rmse_cells": 6.79800294582516,
+      "mae_x_cells": 4.594186146074151,
+      "mae_y_cells": 3.366469731997603
+    },
+    "heldout_manual_estimated": {
+      "n": 14,
+      "exact_cell": 0.0,
+      "within_1_cell": 0.0,
+      "within_2_cells": 0.14285714285714285,
+      "within_3_cells": 0.35714285714285715,
+      "mean_distance_cells": 5.874993462512168,
+      "median_distance_cells": 4.738131969363852,
+      "rmse_cells": 6.571019987426499,
+      "mae_x_cells": 5.103926789315913,
+      "mae_y_cells": 2.311660063776945
+    }
+  },
+  "deployment_training_n": 574,
+  "split": "chronological trial index: <340 train, 340..459 validation, >=460 untouched test; evaluate on untouched test after choosing configuration with validation only; final deployment refit on all allowed data",
+  "limitations": [
+    "One session on one Mac; this does not measure accuracy in a new session.",
+    "Manual tap timing is estimated from motion and is less reliable.",
+    "No independent finger location measurements: labels are prompted target centers.",
+    "Regression loss favors nearby errors over distant errors; this does not guarantee exact cell localization."
+  ]
+}

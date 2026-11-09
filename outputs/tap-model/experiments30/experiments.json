@@ -1,0 +1,1555 @@
+{
+  "agent_count": 30,
+  "predictive_variants": 58,
+  "confidence_rules": 2,
+  "experiments": [
+    {
+      "agent": "exp01",
+      "source": "exp01.py",
+      "result_count": 2,
+      "results": [
+        "exp01_svm_c15",
+        "exp01_svm_c3"
+      ],
+      "best": {
+        "name": "exp01_svm_c15",
+        "feature_count": 431,
+        "config": {
+          "family": "svm",
+          "C": 15.0
+        },
+        "validation": {
+          "n": 226,
+          "exact": 0.08849557522123894,
+          "within_one": 0.40707964601769914,
+          "within_two": 0.6460176991150443,
+          "mean_distance_cells": 3.2108110419918523,
+          "median_distance_cells": 2.23606797749979,
+          "far_half_screen": 0.11061946902654868,
+          "far_third_screen": 0.14601769911504425,
+          "side_x": 0.8185840707964602,
+          "side_y": 0.8761061946902655,
+          "edge_exact": 0.14285714285714285,
+          "unique_predicted_cells": 106,
+          "score": 0.7608928466422019
+        },
+        "extra": {}
+      }
+    },
+    {
+      "agent": "exp02",
+      "source": "exp02.py",
+      "result_count": 2,
+      "results": [
+        "exp02-svm",
+        "exp02-trees"
+      ],
+      "best": {
+        "name": "exp02-trees",
+        "feature_count": 396,
+        "config": {
+          "family": "trees"
+        },
+        "validation": {
+          "n": 226,
+          "exact": 0.03982300884955752,
+          "within_one": 0.3584070796460177,
+          "within_two": 0.5486725663716814,
+          "mean_distance_cells": 4.243445340565617,
+          "median_distance_cells": 2.23606797749979,
+          "far_half_screen": 0.1415929203539823,
+          "far_third_screen": 0.2168141592920354,
+          "side_x": 0.7566371681415929,
+          "side_y": 0.8938053097345132,
+          "edge_exact": 0.03571428571428571,
+          "unique_predicted_cells": 142,
+          "score": 0.5207067557131153
+        },
+        "extra": {}
+      }
+    },
+    {
+      "agent": "exp03",
+      "source": "exp03.py",
+      "result_count": 2,
+      "results": [
+        "exp03_svm_c15",
+        "exp03_svm_c3"
+      ],
+      "best": {
+        "name": "exp03_svm_c15",
+        "feature_count": 2537,
+        "config": {
+          "family": "svm",
+          "C": 15.0
+        },
+        "validation": {
+          "n": 226,
+          "exact": 0.02654867256637168,
+          "within_one": 0.29646017699115046,
+          "within_two": 0.5221238938053098,
+          "mean_distance_cells": 3.7331739294084816,
+          "median_distance_cells": 2.8284271247461903,
+          "far_half_screen": 0.07079646017699115,
+          "far_third_screen": 0.16371681415929204,
+          "side_x": 0.8407079646017699,
+          "side_y": 0.911504424778761,
+          "edge_exact": 0.05357142857142857,
+          "unique_predicted_cells": 76,
+          "score": 0.4502607989671311
+        },
+        "extra": {}
+      }
+    },
+    {
+      "agent": "exp04",
+      "source": "exp04.py",
+      "result_count": 2,
+      "results": [
+        "exp04_svm",
+        "exp04_tree"
+      ],
+      "best": {
+        "name": "exp04_tree",
+        "feature_count": 634,
+        "config": {
+          "family": "trees",
+          "n_estimators": 420,
+          "min_samples_leaf": 2,
+          "max_features": 0.65
+        },
+        "validation": {
+          "n": 226,
+          "exact": 0.035398230088495575,
+          "within_one": 0.3230088495575221,
+          "within_two": 0.5442477876106194,
+          "mean_distance_cells": 3.478609750888405,
+          "median_distance_cells": 2.23606797749979,
+          "far_half_screen": 0.07079646017699115,
+          "far_third_screen": 0.1415929203539823,
+          "side_x": 0.831858407079646,
+          "side_y": 0.8938053097345132,
+          "edge_exact": 0.10714285714285714,
+          "unique_predicted_cells": 127,
+          "score": 0.5100192012482508
+        },
+        "extra": {}
+      }
+    },
+    {
+      "agent": "exp05",
+      "source": "exp05.py",
+      "result_count": 2,
+      "results": [
+        "exp05_svm",
+        "exp05_trees"
+      ],
+      "best": {
+        "name": "exp05_trees",
+        "feature_count": 1324,
+        "config": {
+          "family": "trees",
+          "n_estimators": 400,
+          "min_samples_leaf": 2,
+          "max_features": 0.6
+        },
+        "validation": {
+          "n": 226,
+          "exact": 0.061946902654867256,
+          "within_one": 0.41150442477876104,
+          "within_two": 0.6283185840707964,
+          "mean_distance_cells": 3.408975497487684,
+          "median_distance_cells": 2.0,
+          "far_half_screen": 0.11061946902654868,
+          "far_third_screen": 0.15486725663716813,
+          "side_x": 0.8141592920353983,
+          "side_y": 0.8849557522123894,
+          "edge_exact": 0.08928571428571429,
+          "unique_predicted_cells": 139,
+          "score": 0.6795513411295598
+        },
+        "extra": {}
+      }
+    },
+    {
+      "agent": "exp06",
+      "source": "exp06.py",
+      "result_count": 2,
+      "results": [
+        "exp06_svm",
+        "exp06_trees"
+      ],
+      "best": {
+        "name": "exp06_trees",
+        "feature_count": 1588,
+        "config": {
+          "family": "trees",
+          "n_estimators": 350,
+          "min_samples_leaf": 2,
+          "max_features": 0.6
+        },
+        "validation": {
+          "n": 226,
+          "exact": 0.09292035398230089,
+          "within_one": 0.45132743362831856,
+          "within_two": 0.7168141592920354,
+          "mean_distance_cells": 2.852993996555937,
+          "median_distance_cells": 2.0,
+          "far_half_screen": 0.07079646017699115,
+          "far_third_screen": 0.09734513274336283,
+          "side_x": 0.8362831858407079,
+          "side_y": 0.915929203539823,
+          "edge_exact": 0.14285714285714285,
+          "unique_predicted_cells": 132,
+          "score": 0.8575595383429115
+        },
+        "extra": {}
+      }
+    },
+    {
+      "agent": "exp07",
+      "source": "exp07.py",
+      "result_count": 2,
+      "results": [
+        "exp07_svm",
+        "exp07_tree"
+      ],
+      "best": {
+        "name": "exp07_tree",
+        "feature_count": 2225,
+        "config": {
+          "family": "trees",
+          "n_estimators": 400,
+          "min_samples_leaf": 2,
+          "max_features": 0.6
+        },
+        "validation": {
+          "n": 226,
+          "exact": 0.09734513274336283,
+          "within_one": 0.4690265486725664,
+          "within_two": 0.6946902654867256,
+          "mean_distance_cells": 2.8646523278832516,
+          "median_distance_cells": 2.0,
+          "far_half_screen": 0.061946902654867256,
+          "far_third_screen": 0.11061946902654868,
+          "side_x": 0.8628318584070797,
+          "side_y": 0.915929203539823,
+          "edge_exact": 0.21428571428571427,
+          "unique_predicted_cells": 131,
+          "score": 0.887277476525265
+        },
+        "extra": {}
+      }
+    },
+    {
+      "agent": "exp08",
+      "source": "exp08.py",
+      "result_count": 2,
+      "results": [
+        "exp08_svm",
+        "exp08_trees"
+      ],
+      "best": {
+        "name": "exp08_trees",
+        "feature_count": 1837,
+        "config": {
+          "family": "trees",
+          "n_estimators": 320,
+          "min_samples_leaf": 2,
+          "max_features": 0.6
+        },
+        "validation": {
+          "n": 226,
+          "exact": 0.09734513274336283,
+          "within_one": 0.4469026548672566,
+          "within_two": 0.6814159292035398,
+          "mean_distance_cells": 3.1729422815566064,
+          "median_distance_cells": 2.0,
+          "far_half_screen": 0.084070796460177,
+          "far_third_screen": 0.11946902654867257,
+          "side_x": 0.8008849557522124,
+          "side_y": 0.9247787610619469,
+          "edge_exact": 0.21428571428571427,
+          "unique_predicted_cells": 130,
+          "score": 0.8494238930502467
+        },
+        "extra": {}
+      }
+    },
+    {
+      "agent": "exp09",
+      "source": "exp09.py",
+      "result_count": 2,
+      "results": [
+        "exp09_svm",
+        "exp09_trees"
+      ],
+      "best": {
+        "name": "exp09_trees",
+        "feature_count": 1097,
+        "config": {
+          "family": "trees",
+          "n_estimators": 400,
+          "min_samples_leaf": 2,
+          "max_features": 0.65
+        },
+        "validation": {
+          "n": 226,
+          "exact": 0.11504424778761062,
+          "within_one": 0.4911504424778761,
+          "within_two": 0.7256637168141593,
+          "mean_distance_cells": 3.029414554150094,
+          "median_distance_cells": 2.0,
+          "far_half_screen": 0.09292035398230089,
+          "far_third_screen": 0.12831858407079647,
+          "side_x": 0.831858407079646,
+          "side_y": 0.9026548672566371,
+          "edge_exact": 0.16071428571428573,
+          "unique_predicted_cells": 132,
+          "score": 0.9541086677471878
+        },
+        "extra": {}
+      }
+    },
+    {
+      "agent": "exp10",
+      "source": "exp10.py",
+      "result_count": 2,
+      "results": [
+        "exp10_svm",
+        "exp10_tree"
+      ],
+      "best": {
+        "name": "exp10_tree",
+        "feature_count": 1006,
+        "config": {
+          "family": "trees",
+          "n_estimators": 400,
+          "min_samples_leaf": 2,
+          "max_features": 0.7
+        },
+        "validation": {
+          "n": 226,
+          "exact": 0.08849557522123894,
+          "within_one": 0.43805309734513276,
+          "within_two": 0.6637168141592921,
+          "mean_distance_cells": 3.432474787696703,
+          "median_distance_cells": 2.0,
+          "far_half_screen": 0.10619469026548672,
+          "far_third_screen": 0.16371681415929204,
+          "side_x": 0.8053097345132744,
+          "side_y": 0.911504424778761,
+          "edge_exact": 0.16071428571428573,
+          "unique_predicted_cells": 129,
+          "score": 0.7971051095095847
+        },
+        "extra": {}
+      }
+    },
+    {
+      "agent": "exp11",
+      "source": "exp11.py",
+      "result_count": 2,
+      "results": [
+        "exp11_svm",
+        "exp11_tree"
+      ],
+      "best": {
+        "name": "exp11_tree",
+        "feature_count": 1670,
+        "config": {
+          "family": "trees",
+          "n_estimators": 400,
+          "min_samples_leaf": 2,
+          "max_features": 0.5
+        },
+        "validation": {
+          "n": 226,
+          "exact": 0.08849557522123894,
+          "within_one": 0.43805309734513276,
+          "within_two": 0.6371681415929203,
+          "mean_distance_cells": 3.2861041444890087,
+          "median_distance_cells": 2.0,
+          "far_half_screen": 0.07964601769911504,
+          "far_third_screen": 0.1415929203539823,
+          "side_x": 0.8097345132743363,
+          "side_y": 0.911504424778761,
+          "edge_exact": 0.16071428571428573,
+          "unique_predicted_cells": 127,
+          "score": 0.8047369263007618
+        },
+        "extra": {}
+      }
+    },
+    {
+      "agent": "exp12",
+      "source": "exp12.py",
+      "result_count": 2,
+      "results": [
+        "exp12_svm",
+        "exp12_tree"
+      ],
+      "best": {
+        "name": "exp12_tree",
+        "feature_count": 1024,
+        "config": {
+          "family": "trees",
+          "n_estimators": 360,
+          "min_samples_leaf": 3,
+          "max_features": 0.65
+        },
+        "validation": {
+          "n": 226,
+          "exact": 0.0752212389380531,
+          "within_one": 0.42920353982300885,
+          "within_two": 0.6637168141592921,
+          "mean_distance_cells": 3.0941978581586698,
+          "median_distance_cells": 2.0,
+          "far_half_screen": 0.084070796460177,
+          "far_third_screen": 0.13716814159292035,
+          "side_x": 0.8584070796460177,
+          "side_y": 0.8761061946902655,
+          "edge_exact": 0.14285714285714285,
+          "unique_predicted_cells": 125,
+          "score": 0.7606651151224616
+        },
+        "extra": {}
+      }
+    },
+    {
+      "agent": "exp13",
+      "source": "exp13.py",
+      "result_count": 2,
+      "results": [
+        "exp13_select128_trees",
+        "exp13_select64_svm"
+      ],
+      "best": {
+        "name": "exp13_select128_trees",
+        "feature_count": 805,
+        "config": {
+          "family": "trees",
+          "select_k": 128,
+          "n_estimators": 220,
+          "min_samples_leaf": 2,
+          "max_features": 0.6
+        },
+        "validation": {
+          "n": 226,
+          "exact": 0.084070796460177,
+          "within_one": 0.4823008849557522,
+          "within_two": 0.7123893805309734,
+          "mean_distance_cells": 2.901203188958625,
+          "median_distance_cells": 2.0,
+          "far_half_screen": 0.0752212389380531,
+          "far_third_screen": 0.11504424778761062,
+          "side_x": 0.8539823008849557,
+          "side_y": 0.8982300884955752,
+          "edge_exact": 0.10714285714285714,
+          "unique_predicted_cells": 121,
+          "score": 0.8582930276871182
+        },
+        "extra": {}
+      }
+    },
+    {
+      "agent": "exp14",
+      "source": "exp14.py",
+      "result_count": 2,
+      "results": [
+        "exp14_pca48_whiten_svm",
+        "exp14_pca96_svm"
+      ],
+      "best": {
+        "name": "exp14_pca96_svm",
+        "feature_count": 805,
+        "config": {
+          "family": "svm",
+          "C": 10,
+          "gamma": "scale",
+          "pca": 96,
+          "whiten": false
+        },
+        "validation": {
+          "n": 226,
+          "exact": 0.03982300884955752,
+          "within_one": 0.4026548672566372,
+          "within_two": 0.6194690265486725,
+          "mean_distance_cells": 3.530790621906955,
+          "median_distance_cells": 2.23606797749979,
+          "far_half_screen": 0.10176991150442478,
+          "far_third_screen": 0.14601769911504425,
+          "side_x": 0.8141592920353983,
+          "side_y": 0.9070796460176991,
+          "edge_exact": 0.07142857142857142,
+          "unique_predicted_cells": 101,
+          "score": 0.6059510604524897
+        },
+        "extra": {}
+      }
+    },
+    {
+      "agent": "exp15",
+      "source": "exp15.py",
+      "result_count": 2,
+      "results": [
+        "exp15_template_k1",
+        "exp15_template_k3"
+      ],
+      "best": {
+        "name": "exp15_template_k1",
+        "feature_count": 7614,
+        "config": {
+          "family": "shift_templates",
+          "k": 1,
+          "shift_samples": [
+            -4,
+            -3,
+            -2,
+            -1,
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "window_seconds": [
+            -0.025,
+            0.15
+          ],
+          "normalization": "separate gyro/accel trajectory L2",
+          "distance": "minimum squared Euclidean across shifts (normalized cosine equivalent)",
+          "voting": "sample-weighted discrete axis class vote"
+        },
+        "validation": {
+          "n": 226,
+          "exact": 0.084070796460177,
+          "within_one": 0.5,
+          "within_two": 0.7345132743362832,
+          "mean_distance_cells": 2.341292268091529,
+          "median_distance_cells": 1.7071067811865475,
+          "far_half_screen": 0.022123893805309734,
+          "far_third_screen": 0.05752212389380531,
+          "side_x": 0.8362831858407079,
+          "side_y": 0.9292035398230089,
+          "edge_exact": 0.10714285714285714,
+          "unique_predicted_cells": 116,
+          "score": 0.9109815072345226
+        },
+        "extra": {
+          "deployment": "Use exp15.get_features, fit_templates, template_probabilities; common.decode. Refit on approved training data, persist model dict.",
+          "notes": "Shift query only; training uses central template. Cosine and Euclidean equivalent after normalization. No coordinate averaging."
+        }
+      }
+    },
+    {
+      "agent": "exp16",
+      "source": "exp16.py",
+      "result_count": 2,
+      "results": [
+        "exp16_spatial_0p25",
+        "exp16_spatial_1p0"
+      ],
+      "best": {
+        "name": "exp16_spatial_1p0",
+        "feature_count": 805,
+        "config": {
+          "family": "custom_spatial_gbm",
+          "spatial_lambda": 1.0,
+          "n_estimators": 180,
+          "learning_rate": 0.04,
+          "num_leaves": 7,
+          "max_depth": 3,
+          "min_child_samples": 5,
+          "reg_lambda": 4,
+          "n_jobs": 1,
+          "manual": true
+        },
+        "validation": {
+          "n": 226,
+          "exact": 0.02654867256637168,
+          "within_one": 0.29646017699115046,
+          "within_two": 0.48672566371681414,
+          "mean_distance_cells": 4.291243713781318,
+          "median_distance_cells": 3.0,
+          "far_half_screen": 0.12831858407079647,
+          "far_third_screen": 0.2079646017699115,
+          "side_x": 0.7654867256637168,
+          "side_y": 0.8584070796460177,
+          "edge_exact": 0.03571428571428571,
+          "unique_predicted_cells": 127,
+          "score": 0.40906961151884236
+        },
+        "extra": {
+          "loss": "CE + lambda E[((class-label)/(K-1))^2]",
+          "hessian": "2p(1-p) + lambda abs(exact spatial diagonal), floor 1e-6",
+          "decoder": "per-axis class argmax",
+          "features": "M+F"
+        }
+      }
+    },
+    {
+      "agent": "exp17",
+      "source": "exp17.py",
+      "result_count": 2,
+      "results": [
+        "exp17_risk1",
+        "exp17_risk3"
+      ],
+      "best": {
+        "name": "exp17_risk3",
+        "config": {
+          "risk_strength": 3.0,
+          "top_k": 3,
+          "min_relative_probability": 0.2,
+          "cost": "min(abs(class-target)/half_screen,1)",
+          "objective": "-log(p)+risk_strength*expected_cost"
+        },
+        "validation": {
+          "n": 226,
+          "exact": 0.10176991150442478,
+          "within_one": 0.5707964601769911,
+          "within_two": 0.7964601769911505,
+          "mean_distance_cells": 2.484173865922461,
+          "median_distance_cells": 1.4142135623730951,
+          "far_half_screen": 0.0752212389380531,
+          "far_third_screen": 0.08849557522123894,
+          "side_x": 0.8672566371681416,
+          "side_y": 0.9070796460176991,
+          "edge_exact": 0.16071428571428573,
+          "unique_predicted_cells": 127,
+          "score": 1.0230658753673632
+        },
+        "baseline": {
+          "n": 226,
+          "exact": 0.10619469026548672,
+          "within_one": 0.5486725663716814,
+          "within_two": 0.7787610619469026,
+          "mean_distance_cells": 2.504046798167184,
+          "median_distance_cells": 1.4142135623730951,
+          "far_half_screen": 0.06637168141592921,
+          "far_third_screen": 0.07964601769911504,
+          "side_x": 0.8761061946902655,
+          "side_y": 0.911504424778761,
+          "edge_exact": 0.19642857142857142,
+          "unique_predicted_cells": 125,
+          "score": 1.014128397489249
+        },
+        "changed_predictions": 46,
+        "exact_delta": -0.00442477876106194,
+        "far_half_delta": 0.008849557522123894
+      }
+    },
+    {
+      "agent": "exp18",
+      "source": "exp18.py",
+      "result_count": 2,
+      "results": [
+        "exp18_forest_fraction015_leaf3",
+        "exp18_forest_sqrt_leaf2"
+      ],
+      "best": {
+        "name": "exp18_forest_sqrt_leaf2",
+        "feature_count": 805,
+        "config": {
+          "family": "forest",
+          "n_estimators": 400,
+          "min_samples_leaf": 2,
+          "max_features": "sqrt"
+        },
+        "validation": {
+          "n": 226,
+          "exact": 0.10619469026548672,
+          "within_one": 0.43805309734513276,
+          "within_two": 0.6548672566371682,
+          "mean_distance_cells": 3.1953886360465176,
+          "median_distance_cells": 2.0,
+          "far_half_screen": 0.10619469026548672,
+          "far_third_screen": 0.1415929203539823,
+          "side_x": 0.831858407079646,
+          "side_y": 0.8805309734513275,
+          "edge_exact": 0.19642857142857142,
+          "unique_predicted_cells": 119,
+          "score": 0.8482264164205043
+        },
+        "extra": {}
+      }
+    },
+    {
+      "agent": "exp19",
+      "source": "exp19.py",
+      "result_count": 2,
+      "results": [
+        "exp19_lda_08",
+        "exp19_lda_auto"
+      ],
+      "best": {
+        "name": "exp19_lda_auto",
+        "feature_count": 652,
+        "config": {
+          "family": "lda",
+          "solver": "lsqr",
+          "shrinkage": "auto",
+          "manual": false
+        },
+        "validation": {
+          "n": 226,
+          "exact": 0.05752212389380531,
+          "within_one": 0.3672566371681416,
+          "within_two": 0.6637168141592921,
+          "mean_distance_cells": 2.8675308422445345,
+          "median_distance_cells": 2.23606797749979,
+          "far_half_screen": 0.035398230088495575,
+          "far_third_screen": 0.084070796460177,
+          "side_x": 0.8362831858407079,
+          "side_y": 0.9070796460176991,
+          "edge_exact": 0.08928571428571429,
+          "unique_predicted_cells": 121,
+          "score": 0.6716085031671536
+        },
+        "extra": {
+          "training_n": 238,
+          "features": "M only",
+          "training": "automatic only"
+        }
+      }
+    },
+    {
+      "agent": "exp20",
+      "source": "exp20.py",
+      "result_count": 2,
+      "results": [
+        "exp20_gbm_depth3",
+        "exp20_gbm_depth4"
+      ],
+      "best": {
+        "name": "exp20_gbm_depth4",
+        "feature_count": 652,
+        "config": {
+          "family": "gbm",
+          "manual": false,
+          "n_estimators": 240,
+          "learning_rate": 0.035,
+          "num_leaves": 15,
+          "max_depth": 4,
+          "min_child_samples": 3,
+          "reg_lambda": 8
+        },
+        "validation": {
+          "n": 226,
+          "exact": 0.04424778761061947,
+          "within_one": 0.3230088495575221,
+          "within_two": 0.5088495575221239,
+          "mean_distance_cells": 4.254720282693085,
+          "median_distance_cells": 2.8284271247461903,
+          "far_half_screen": 0.13274336283185842,
+          "far_third_screen": 0.252212389380531,
+          "side_x": 0.7566371681415929,
+          "side_y": 0.8628318584070797,
+          "edge_exact": 0.017857142857142856,
+          "unique_predicted_cells": 137,
+          "score": 0.4924360965927546
+        },
+        "extra": {}
+      }
+    },
+    {
+      "agent": "exp21",
+      "source": "exp21.py",
+      "result_count": 2,
+      "results": [
+        "exp21_ordinal_C0p1",
+        "exp21_ordinal_C1p0"
+      ],
+      "best": {
+        "name": "exp21_ordinal_C0p1",
+        "feature_count": 805,
+        "config": {
+          "family": "ordinal_logistic",
+          "C": 0.1,
+          "features": "M+F",
+          "decoder": "survival_pava_then_class_argmax"
+        },
+        "validation": {
+          "n": 226,
+          "exact": 0.07964601769911504,
+          "within_one": 0.4469026548672566,
+          "within_two": 0.672566371681416,
+          "mean_distance_cells": 2.753455148107573,
+          "median_distance_cells": 2.0,
+          "far_half_screen": 0.04424778761061947,
+          "far_third_screen": 0.08849557522123894,
+          "side_x": 0.8141592920353983,
+          "side_y": 0.9380530973451328,
+          "edge_exact": 0.14285714285714285,
+          "unique_predicted_cells": 143,
+          "score": 0.8158307793317937
+        },
+        "extra": {}
+      }
+    },
+    {
+      "agent": "exp22",
+      "source": "exp22.py",
+      "result_count": 2,
+      "results": [
+        "exp22_multiscale_0p25",
+        "exp22_multiscale_0p75"
+      ],
+      "best": {
+        "name": "exp22_multiscale_0p25",
+        "feature_count": 805,
+        "config": {
+          "family": "custom_multiscale_trees",
+          "n_estimators": 350,
+          "min_samples_leaf": 2,
+          "max_features": 0.6,
+          "coarse_weight": 0.25,
+          "manual": true,
+          "n_jobs": 1
+        },
+        "validation": {
+          "n": 226,
+          "exact": 0.09734513274336283,
+          "within_one": 0.5309734513274337,
+          "within_two": 0.7787610619469026,
+          "mean_distance_cells": 2.5889693665587163,
+          "median_distance_cells": 1.4142135623730951,
+          "far_half_screen": 0.05309734513274336,
+          "far_third_screen": 0.08849557522123894,
+          "side_x": 0.8761061946902655,
+          "side_y": 0.911504424778761,
+          "edge_exact": 0.14285714285714285,
+          "unique_predicted_cells": 120,
+          "score": 0.9762103911113017
+        },
+        "extra": {
+          "features": "M+F",
+          "decoder": "argmax over 260 joint cell scores",
+          "joint_layout": "row-major: id=row*20+column",
+          "fusion": "log px + log py + alpha*(log quadrant + log region)",
+          "boundaries": "floor((cell+.5)/screen_extent*bins)"
+        }
+      }
+    },
+    {
+      "agent": "exp23",
+      "source": "exp23.py",
+      "result_count": 2,
+      "results": [
+        "exp23-guard80",
+        "exp23-guard90"
+      ],
+      "best": {
+        "name": "exp23-guard80",
+        "feature_count": 805,
+        "config": {
+          "family": "svm",
+          "C": 10,
+          "gamma": "scale",
+          "manual": true,
+          "threshold": 0.8,
+          "routing": "confident contradiction hard half mask"
+        },
+        "validation": {
+          "n": 226,
+          "exact": 0.11946902654867257,
+          "within_one": 0.5707964601769911,
+          "within_two": 0.7964601769911505,
+          "mean_distance_cells": 2.2593745465832575,
+          "median_distance_cells": 1.4142135623730951,
+          "far_half_screen": 0.048672566371681415,
+          "far_third_screen": 0.06637168141592921,
+          "side_x": 0.8982300884955752,
+          "side_y": 0.9292035398230089,
+          "edge_exact": 0.21428571428571427,
+          "unique_predicted_cells": 128,
+          "score": 1.0906515734926843
+        },
+        "extra": {
+          "baseline": {
+            "n": 226,
+            "exact": 0.10619469026548672,
+            "within_one": 0.5486725663716814,
+            "within_two": 0.7787610619469026,
+            "mean_distance_cells": 2.504046798167184,
+            "median_distance_cells": 1.4142135623730951,
+            "far_half_screen": 0.06637168141592921,
+            "far_third_screen": 0.07964601769911504,
+            "side_x": 0.8761061946902655,
+            "side_y": 0.911504424778761,
+            "edge_exact": 0.19642857142857142,
+            "unique_predicted_cells": 125,
+            "score": 1.014128397489249
+          },
+          "changed_predictions": 10,
+          "side_x_accuracy": 0.8451327433628318,
+          "side_y_accuracy": 0.9336283185840708,
+          "confident_x": 149,
+          "confident_y": 200
+        }
+      }
+    },
+    {
+      "agent": "exp24",
+      "source": "exp24.py",
+      "result_count": 2,
+      "results": [
+        "exp24_auto_motion",
+        "exp24_auto_motion_light"
+      ],
+      "best": {
+        "name": "exp24_auto_motion",
+        "feature_count": 652,
+        "config": {
+          "family": "trees",
+          "n_estimators": 300,
+          "min_samples_leaf": 2,
+          "max_features": 0.6,
+          "manual": false
+        },
+        "validation": {
+          "n": 226,
+          "exact": 0.10619469026548672,
+          "within_one": 0.5265486725663717,
+          "within_two": 0.7566371681415929,
+          "mean_distance_cells": 2.627554283808105,
+          "median_distance_cells": 1.4142135623730951,
+          "far_half_screen": 0.061946902654867256,
+          "far_third_screen": 0.09292035398230089,
+          "side_x": 0.8495575221238938,
+          "side_y": 0.9203539823008849,
+          "edge_exact": 0.14285714285714285,
+          "unique_predicted_cells": 131,
+          "score": 0.988261533390249
+        },
+        "extra": {}
+      }
+    },
+    {
+      "agent": "exp25",
+      "source": "exp25.py",
+      "result_count": 2,
+      "results": [
+        "exp25_edge0p5",
+        "exp25_edge1p5"
+      ],
+      "best": {
+        "name": "exp25_edge1p5",
+        "feature_count": 652,
+        "config": {
+          "family": "trees",
+          "n_estimators": 300,
+          "min_samples_leaf": 2,
+          "max_features": 0.6,
+          "edge_weight": 1.5
+        },
+        "validation": {
+          "n": 226,
+          "exact": 0.11061946902654868,
+          "within_one": 0.48672566371681414,
+          "within_two": 0.6858407079646017,
+          "mean_distance_cells": 3.1372291424030143,
+          "median_distance_cells": 2.0,
+          "far_half_screen": 0.084070796460177,
+          "far_third_screen": 0.13716814159292035,
+          "side_x": 0.827433628318584,
+          "side_y": 0.911504424778761,
+          "edge_exact": 0.19642857142857142,
+          "unique_predicted_cells": 121,
+          "score": 0.9303732545261856
+        },
+        "extra": {}
+      }
+    },
+    {
+      "agent": "exp26",
+      "source": "exp26.py",
+      "result_count": 2,
+      "results": [
+        "exp26_axis_svm",
+        "exp26_axis_tree"
+      ],
+      "best": {
+        "name": "exp26_axis_tree",
+        "feature_count": 772,
+        "config": {
+          "family": "trees",
+          "m_k": 80
+        },
+        "validation": {
+          "n": 226,
+          "exact": 0.08849557522123894,
+          "within_one": 0.46017699115044247,
+          "within_two": 0.6858407079646017,
+          "mean_distance_cells": 2.976285923396478,
+          "median_distance_cells": 2.0,
+          "far_half_screen": 0.06637168141592921,
+          "far_third_screen": 0.11504424778761062,
+          "side_x": 0.8451327433628318,
+          "side_y": 0.9380530973451328,
+          "edge_exact": 0.14285714285714285,
+          "unique_predicted_cells": 124,
+          "score": 0.8471780205761198
+        },
+        "extra": {
+          "axis_physical_features": [
+            56,
+            64
+          ],
+          "shared_selected_per_axis": 80,
+          "deployment": "get_features, fit_models, predict_probabilities"
+        }
+      }
+    },
+    {
+      "agent": "exp27",
+      "source": "exp27.py",
+      "result_count": 2,
+      "results": [
+        "exp27_svm",
+        "exp27_tree"
+      ],
+      "best": {
+        "name": "exp27_tree",
+        "feature_count": 904,
+        "config": {
+          "family": "trees",
+          "n_estimators": 350,
+          "min_samples_leaf": 2,
+          "max_features": 0.6
+        },
+        "validation": {
+          "n": 226,
+          "exact": 0.084070796460177,
+          "within_one": 0.45132743362831856,
+          "within_two": 0.6902654867256637,
+          "mean_distance_cells": 2.949080120717341,
+          "median_distance_cells": 2.0,
+          "far_half_screen": 0.0752212389380531,
+          "far_third_screen": 0.11061946902654868,
+          "side_x": 0.8230088495575221,
+          "side_y": 0.915929203539823,
+          "edge_exact": 0.14285714285714285,
+          "unique_predicted_cells": 133,
+          "score": 0.8216202785884367
+        },
+        "extra": {}
+      }
+    },
+    {
+      "agent": "exp28",
+      "source": "exp28.py",
+      "result_count": 0,
+      "results": [],
+      "summary": "exp28-summary.json",
+      "kind": "confidence/rejection rules; not counted as improved recognition"
+    },
+    {
+      "agent": "exp29",
+      "source": "exp29.py",
+      "result_count": 2,
+      "results": [
+        "exp29-consensus10",
+        "exp29-consensus25"
+      ],
+      "best": {
+        "name": "exp29-consensus10",
+        "config": {
+          "alpha": 0.1,
+          "cuts": [
+            10,
+            7
+          ],
+          "baseline": "exp23-guard80",
+          "template": "exp15_template_k1"
+        },
+        "validation": {
+          "n": 226,
+          "exact": 0.11061946902654868,
+          "within_one": 0.5663716814159292,
+          "within_two": 0.8053097345132744,
+          "mean_distance_cells": 2.1813562866049656,
+          "median_distance_cells": 1.4142135623730951,
+          "far_half_screen": 0.03982300884955752,
+          "far_third_screen": 0.061946902654867256,
+          "side_x": 0.8982300884955752,
+          "side_y": 0.9292035398230089,
+          "edge_exact": 0.17857142857142858,
+          "unique_predicted_cells": 131,
+          "score": 1.0665479517095007
+        },
+        "changed_predictions": 139
+      }
+    },
+    {
+      "agent": "exp30",
+      "source": "exp30.py",
+      "result_count": 2,
+      "results": [
+        "exp30-diverse3",
+        "exp30-diverse5"
+      ],
+      "best": {
+        "name": "exp30-diverse5",
+        "config": {
+          "policy": "baseline weight 2 plus top 5 distinct feature families weight 1",
+          "members": [
+            {
+              "name": "baseline-current",
+              "weight": 2.0
+            },
+            {
+              "name": "exp23-guard80",
+              "weight": 1.0,
+              "family": "shared_motion_lid_optical_bank"
+            },
+            {
+              "name": "exp09_trees",
+              "weight": 1.0,
+              "family": "sensor_representation_09"
+            },
+            {
+              "name": "exp15_template_k1",
+              "weight": 1.0,
+              "family": "sensor_representation_15"
+            },
+            {
+              "name": "exp07_tree",
+              "weight": 1.0,
+              "family": "sensor_representation_07"
+            },
+            {
+              "name": "exp06_trees",
+              "weight": 1.0,
+              "family": "sensor_representation_06"
+            }
+          ]
+        },
+        "validation": {
+          "n": 226,
+          "exact": 0.07964601769911504,
+          "within_one": 0.5088495575221239,
+          "within_two": 0.7433628318584071,
+          "mean_distance_cells": 2.32372061804955,
+          "median_distance_cells": 1.4142135623730951,
+          "far_half_screen": 0.022123893805309734,
+          "far_third_screen": 0.05752212389380531,
+          "side_x": 0.8362831858407079,
+          "side_y": 0.9292035398230089,
+          "edge_exact": 0.125,
+          "unique_predicted_cells": 123,
+          "score": 0.9089688837674882
+        },
+        "extra": {
+          "selection": "ranked by predeclared shared validation score; no test access",
+          "family_rule": "unchanged M/F-bank methods share one family; added sensor representations form separate families",
+          "joint_caveat": "exp22 can be marginalized but joint MAP is not equivalent; excluded here by shared-bank family deduplication",
+          "candidate_audit": [
+            {
+              "name": "baseline-current",
+              "agent": 0,
+              "reported_score": 1.014128397489249,
+              "marginal_score": 1.014128397489249,
+              "excluded": "baseline separately weighted"
+            },
+            {
+              "name": "exp01_svm_c15",
+              "agent": 1,
+              "reported_score": 0.7608928466422019,
+              "marginal_score": 0.7608928466422019,
+              "family": "sensor_representation_01"
+            },
+            {
+              "name": "exp01_svm_c3",
+              "agent": 1,
+              "reported_score": 0.7416476239662728,
+              "marginal_score": 0.7416476239662728,
+              "family": "sensor_representation_01"
+            },
+            {
+              "name": "exp02-svm",
+              "agent": 2,
+              "reported_score": 0.35388237231995734,
+              "marginal_score": 0.35388237231995734,
+              "family": "sensor_representation_02"
+            },
+            {
+              "name": "exp02-trees",
+              "agent": 2,
+              "reported_score": 0.5207067557131153,
+              "marginal_score": 0.5207067557131153,
+              "family": "sensor_representation_02"
+            },
+            {
+              "name": "exp03_svm_c15",
+              "agent": 3,
+              "reported_score": 0.4502607989671311,
+              "marginal_score": 0.4502607989671311,
+              "family": "sensor_representation_03"
+            },
+            {
+              "name": "exp03_svm_c3",
+              "agent": 3,
+              "reported_score": 0.44338557341527424,
+              "marginal_score": 0.44338557341527424,
+              "family": "sensor_representation_03"
+            },
+            {
+              "name": "exp04_svm",
+              "agent": 4,
+              "reported_score": 0.24232873167378183,
+              "marginal_score": 0.24232873167378183,
+              "family": "sensor_representation_04"
+            },
+            {
+              "name": "exp04_tree",
+              "agent": 4,
+              "reported_score": 0.5100192012482508,
+              "marginal_score": 0.5100192012482508,
+              "family": "sensor_representation_04"
+            },
+            {
+              "name": "exp05_svm",
+              "agent": 5,
+              "reported_score": 0.31660374378035705,
+              "marginal_score": 0.31660374378035705,
+              "family": "sensor_representation_05"
+            },
+            {
+              "name": "exp05_trees",
+              "agent": 5,
+              "reported_score": 0.6795513411295598,
+              "marginal_score": 0.6795513411295598,
+              "family": "sensor_representation_05"
+            },
+            {
+              "name": "exp06_svm",
+              "agent": 6,
+              "reported_score": 0.536539299550606,
+              "marginal_score": 0.536539299550606,
+              "family": "sensor_representation_06"
+            },
+            {
+              "name": "exp06_trees",
+              "agent": 6,
+              "reported_score": 0.8575595383429115,
+              "marginal_score": 0.8575595383429115,
+              "family": "sensor_representation_06"
+            },
+            {
+              "name": "exp07_svm",
+              "agent": 7,
+              "reported_score": 0.4908295463088101,
+              "marginal_score": 0.4908295463088101,
+              "family": "sensor_representation_07"
+            },
+            {
+              "name": "exp07_tree",
+              "agent": 7,
+              "reported_score": 0.887277476525265,
+              "marginal_score": 0.887277476525265,
+              "family": "sensor_representation_07"
+            },
+            {
+              "name": "exp08_svm",
+              "agent": 8,
+              "reported_score": 0.34121245764587216,
+              "marginal_score": 0.34121245764587216,
+              "family": "sensor_representation_08"
+            },
+            {
+              "name": "exp08_trees",
+              "agent": 8,
+              "reported_score": 0.8494238930502467,
+              "marginal_score": 0.8494238930502467,
+              "family": "sensor_representation_08"
+            },
+            {
+              "name": "exp09_svm",
+              "agent": 9,
+              "reported_score": 0.5109410886698097,
+              "marginal_score": 0.5109410886698097,
+              "family": "sensor_representation_09"
+            },
+            {
+              "name": "exp09_trees",
+              "agent": 9,
+              "reported_score": 0.9541086677471878,
+              "marginal_score": 0.9541086677471878,
+              "family": "sensor_representation_09"
+            },
+            {
+              "name": "exp10_svm",
+              "agent": 10,
+              "reported_score": 0.5778633590915945,
+              "marginal_score": 0.5778633590915945,
+              "family": "sensor_representation_10"
+            },
+            {
+              "name": "exp10_tree",
+              "agent": 10,
+              "reported_score": 0.7971051095095847,
+              "marginal_score": 0.7971051095095847,
+              "family": "sensor_representation_10"
+            },
+            {
+              "name": "exp11_svm",
+              "agent": 11,
+              "reported_score": 0.3971131714256957,
+              "marginal_score": 0.3971131714256957,
+              "family": "sensor_representation_11"
+            },
+            {
+              "name": "exp11_tree",
+              "agent": 11,
+              "reported_score": 0.8047369263007618,
+              "marginal_score": 0.8047369263007618,
+              "family": "sensor_representation_11"
+            },
+            {
+              "name": "exp12_svm",
+              "agent": 12,
+              "reported_score": 0.4890994658725612,
+              "marginal_score": 0.4890994658725612,
+              "family": "sensor_representation_12"
+            },
+            {
+              "name": "exp12_tree",
+              "agent": 12,
+              "reported_score": 0.7606651151224616,
+              "marginal_score": 0.7606651151224616,
+              "family": "sensor_representation_12"
+            },
+            {
+              "name": "exp13_select128_trees",
+              "agent": 13,
+              "reported_score": 0.8582930276871182,
+              "marginal_score": 0.8582930276871182,
+              "family": "shared_motion_lid_optical_bank"
+            },
+            {
+              "name": "exp13_select64_svm",
+              "agent": 13,
+              "reported_score": 0.5773517622485732,
+              "marginal_score": 0.5773517622485732,
+              "family": "shared_motion_lid_optical_bank"
+            },
+            {
+              "name": "exp14_pca48_whiten_svm",
+              "agent": 14,
+              "reported_score": 0.5661149952004677,
+              "marginal_score": 0.5661149952004677,
+              "family": "shared_motion_lid_optical_bank"
+            },
+            {
+              "name": "exp14_pca96_svm",
+              "agent": 14,
+              "reported_score": 0.6059510604524897,
+              "marginal_score": 0.6059510604524897,
+              "family": "shared_motion_lid_optical_bank"
+            },
+            {
+              "name": "exp15_template_k1",
+              "agent": 15,
+              "reported_score": 0.9109815072345226,
+              "marginal_score": 0.9109815072345226,
+              "family": "sensor_representation_15"
+            },
+            {
+              "name": "exp15_template_k3",
+              "agent": 15,
+              "reported_score": 0.6366816039084786,
+              "marginal_score": 0.6366816039084786,
+              "family": "sensor_representation_15"
+            },
+            {
+              "name": "exp16_spatial_0p25",
+              "agent": 16,
+              "reported_score": 0.3913132344596155,
+              "marginal_score": 0.3913132344596155,
+              "family": "shared_motion_lid_optical_bank"
+            },
+            {
+              "name": "exp16_spatial_1p0",
+              "agent": 16,
+              "reported_score": 0.40906961151884236,
+              "marginal_score": 0.40906961151884236,
+              "family": "shared_motion_lid_optical_bank"
+            },
+            {
+              "name": "exp17_risk1",
+              "agent": 17,
+              "reported_score": 1.0063533242251164,
+              "marginal_score": 1.014128397489249,
+              "excluded": "risk decoder predictions not represented by saved px/py"
+            },
+            {
+              "name": "exp17_risk3",
+              "agent": 17,
+              "reported_score": 1.0230658753673632,
+              "marginal_score": 1.014128397489249,
+              "excluded": "risk decoder predictions not represented by saved px/py"
+            },
+            {
+              "name": "exp18_forest_fraction015_leaf3",
+              "agent": 18,
+              "reported_score": 0.8035156074846299,
+              "marginal_score": 0.8035156074846299,
+              "family": "shared_motion_lid_optical_bank"
+            },
+            {
+              "name": "exp18_forest_sqrt_leaf2",
+              "agent": 18,
+              "reported_score": 0.8482264164205043,
+              "marginal_score": 0.8482264164205043,
+              "family": "shared_motion_lid_optical_bank"
+            },
+            {
+              "name": "exp19_lda_08",
+              "agent": 19,
+              "reported_score": 0.6651224098651438,
+              "marginal_score": 0.6651224098651438,
+              "family": "shared_motion_lid_optical_bank"
+            },
+            {
+              "name": "exp19_lda_auto",
+              "agent": 19,
+              "reported_score": 0.6716085031671536,
+              "marginal_score": 0.6716085031671536,
+              "family": "shared_motion_lid_optical_bank"
+            },
+            {
+              "name": "exp20_gbm_depth3",
+              "agent": 20,
+              "reported_score": 0.4834224796266827,
+              "marginal_score": 0.4834224796266827,
+              "family": "shared_motion_lid_optical_bank"
+            },
+            {
+              "name": "exp20_gbm_depth4",
+              "agent": 20,
+              "reported_score": 0.4924360965927546,
+              "marginal_score": 0.4924360965927546,
+              "family": "shared_motion_lid_optical_bank"
+            },
+            {
+              "name": "exp21_ordinal_C0p1",
+              "agent": 21,
+              "reported_score": 0.8158307793317937,
+              "marginal_score": 0.8158307793317937,
+              "family": "shared_motion_lid_optical_bank"
+            },
+            {
+              "name": "exp21_ordinal_C1p0",
+              "agent": 21,
+              "reported_score": 0.79462814138966,
+              "marginal_score": 0.79462814138966,
+              "family": "shared_motion_lid_optical_bank"
+            },
+            {
+              "name": "exp22_multiscale_0p25",
+              "agent": 22,
+              "reported_score": 0.9762103911113017,
+              "marginal_score": 0.8612817898823572,
+              "conversion": "joint mass marginalized; marginal MAP differs from reported joint MAP",
+              "family": "shared_motion_lid_optical_bank"
+            },
+            {
+              "name": "exp22_multiscale_0p75",
+              "agent": 22,
+              "reported_score": 0.9163674226200063,
+              "marginal_score": 0.8612817898823572,
+              "conversion": "joint mass marginalized; marginal MAP differs from reported joint MAP",
+              "family": "shared_motion_lid_optical_bank"
+            },
+            {
+              "name": "exp23-guard80",
+              "agent": 23,
+              "reported_score": 1.0906515734926843,
+              "marginal_score": 1.0906515734926843,
+              "family": "shared_motion_lid_optical_bank"
+            },
+            {
+              "name": "exp23-guard90",
+              "agent": 23,
+              "reported_score": 1.0400257360200649,
+              "marginal_score": 1.0400257360200649,
+              "family": "shared_motion_lid_optical_bank"
+            },
+            {
+              "name": "exp24_auto_motion",
+              "agent": 24,
+              "reported_score": 0.988261533390249,
+              "marginal_score": 0.988261533390249,
+              "family": "shared_motion_lid_optical_bank"
+            },
+            {
+              "name": "exp24_auto_motion_light",
+              "agent": 24,
+              "reported_score": 0.9212518330993671,
+              "marginal_score": 0.9212518330993671,
+              "family": "shared_motion_lid_optical_bank"
+            },
+            {
+              "name": "exp25_edge0p5",
+              "agent": 25,
+              "reported_score": 0.9153022250908112,
+              "marginal_score": 0.9153022250908112,
+              "family": "shared_motion_lid_optical_bank"
+            },
+            {
+              "name": "exp25_edge1p5",
+              "agent": 25,
+              "reported_score": 0.9303732545261856,
+              "marginal_score": 0.9303732545261856,
+              "family": "shared_motion_lid_optical_bank"
+            },
+            {
+              "name": "exp26_axis_svm",
+              "agent": 26,
+              "reported_score": 0.6089722008007451,
+              "marginal_score": 0.6089722008007451,
+              "family": "shared_motion_lid_optical_bank"
+            },
+            {
+              "name": "exp26_axis_tree",
+              "agent": 26,
+              "reported_score": 0.8471780205761198,
+              "marginal_score": 0.8471780205761198,
+              "family": "shared_motion_lid_optical_bank"
+            },
+            {
+              "name": "exp27_svm",
+              "agent": 27,
+              "reported_score": 0.6121918840721574,
+              "marginal_score": 0.6121918840721574,
+              "family": "sensor_representation_27"
+            },
+            {
+              "name": "exp27_tree",
+              "agent": 27,
+              "reported_score": 0.8216202785884367,
+              "marginal_score": 0.8216202785884367,
+              "family": "sensor_representation_27"
+            },
+            {
+              "name": "exp29-consensus10",
+              "agent": 29,
+              "reported_score": 1.0665479517095007,
+              "marginal_score": 1.0665479517095007,
+              "excluded": "nested guarded baseline/template ensemble duplicates members"
+            },
+            {
+              "name": "exp29-consensus25",
+              "agent": 29,
+              "reported_score": 0.9773592408100633,
+              "marginal_score": 0.9773592408100633,
+              "excluded": "nested guarded baseline/template ensemble duplicates members"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

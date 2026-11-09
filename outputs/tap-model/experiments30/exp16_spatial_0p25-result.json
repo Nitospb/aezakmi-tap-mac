@@ -1,0 +1,37 @@
+{
+  "name": "exp16_spatial_0p25",
+  "feature_count": 805,
+  "config": {
+    "family": "custom_spatial_gbm",
+    "spatial_lambda": 0.25,
+    "n_estimators": 180,
+    "learning_rate": 0.04,
+    "num_leaves": 7,
+    "max_depth": 3,
+    "min_child_samples": 5,
+    "reg_lambda": 4,
+    "n_jobs": 1,
+    "manual": true
+  },
+  "validation": {
+    "n": 226,
+    "exact": 0.02654867256637168,
+    "within_one": 0.2831858407079646,
+    "within_two": 0.46017699115044247,
+    "mean_distance_cells": 4.289789293564296,
+    "median_distance_cells": 3.0,
+    "far_half_screen": 0.12389380530973451,
+    "far_third_screen": 0.2079646017699115,
+    "side_x": 0.7743362831858407,
+    "side_y": 0.8495575221238938,
+    "edge_exact": 0.017857142857142856,
+    "unique_predicted_cells": 129,
+    "score": 0.3913132344596155
+  },
+  "extra": {
+    "loss": "CE + lambda E[((class-label)/(K-1))^2]",
+    "hessian": "2p(1-p) + lambda abs(exact spatial diagonal), floor 1e-6",
+    "decoder": "per-axis class argmax",
+    "features": "M+F"
+  }
+}

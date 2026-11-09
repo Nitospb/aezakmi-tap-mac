@@ -1,0 +1,27 @@
+{
+  "name": "exp13_select128_trees",
+  "feature_count": 805,
+  "config": {
+    "family": "trees",
+    "select_k": 128,
+    "n_estimators": 220,
+    "min_samples_leaf": 2,
+    "max_features": 0.6
+  },
+  "validation": {
+    "n": 226,
+    "exact": 0.084070796460177,
+    "within_one": 0.4823008849557522,
+    "within_two": 0.7123893805309734,
+    "mean_distance_cells": 2.901203188958625,
+    "median_distance_cells": 2.0,
+    "far_half_screen": 0.0752212389380531,
+    "far_third_screen": 0.11504424778761062,
+    "side_x": 0.8539823008849557,
+    "side_y": 0.8982300884955752,
+    "edge_exact": 0.10714285714285714,
+    "unique_predicted_cells": 121,
+    "score": 0.8582930276871182
+  },
+  "extra": {}
+}

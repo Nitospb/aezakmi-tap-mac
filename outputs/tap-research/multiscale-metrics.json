@@ -1,0 +1,210 @@
+{
+  "choices": {
+    "2": {
+      "family": "linear",
+      "C": 0.1
+    },
+    "3": {
+      "family": "linear",
+      "C": 1
+    },
+    "4": {
+      "family": "linear",
+      "C": 0.1
+    }
+  },
+  "fusion": {
+    "weight": 1,
+    "validation": {
+      "n": 100,
+      "exact_cell": 0.08,
+      "within_one_cell": 0.24,
+      "mean_distance_cells": 4.68955435678902,
+      "2x2": 0.62,
+      "3x3": 0.52,
+      "4x4": 0.32,
+      "side_x": 0.75,
+      "side_y": 0.72,
+      "multiscale_points": 4.195
+    }
+  },
+  "region_experiments": [
+    {
+      "grid": [
+        2,
+        2
+      ],
+      "config": {
+        "family": "linear",
+        "C": 0.1
+      },
+      "validation_accuracy": 0.57
+    },
+    {
+      "grid": [
+        2,
+        2
+      ],
+      "config": {
+        "family": "linear",
+        "C": 1
+      },
+      "validation_accuracy": 0.51
+    },
+    {
+      "grid": [
+        2,
+        2
+      ],
+      "config": {
+        "family": "gbm"
+      },
+      "validation_accuracy": 0.54
+    },
+    {
+      "grid": [
+        3,
+        3
+      ],
+      "config": {
+        "family": "linear",
+        "C": 0.1
+      },
+      "validation_accuracy": 0.48
+    },
+    {
+      "grid": [
+        3,
+        3
+      ],
+      "config": {
+        "family": "linear",
+        "C": 1
+      },
+      "validation_accuracy": 0.5
+    },
+    {
+      "grid": [
+        3,
+        3
+      ],
+      "config": {
+        "family": "gbm"
+      },
+      "validation_accuracy": 0.37
+    },
+    {
+      "grid": [
+        4,
+        4
+      ],
+      "config": {
+        "family": "linear",
+        "C": 0.1
+      },
+      "validation_accuracy": 0.33
+    },
+    {
+      "grid": [
+        4,
+        4
+      ],
+      "config": {
+        "family": "linear",
+        "C": 1
+      },
+      "validation_accuracy": 0.33
+    },
+    {
+      "grid": [
+        4,
+        4
+      ],
+      "config": {
+        "family": "gbm"
+      },
+      "validation_accuracy": 0.25
+    }
+  ],
+  "fusion_experiments": [
+    {
+      "weight": 0,
+      "validation": {
+        "n": 100,
+        "exact_cell": 0.06,
+        "within_one_cell": 0.18,
+        "mean_distance_cells": 5.382018435969896,
+        "2x2": 0.49,
+        "3x3": 0.42,
+        "4x4": 0.21,
+        "side_x": 0.67,
+        "side_y": 0.71,
+        "multiscale_points": 3.29
+      }
+    },
+    {
+      "weight": 0.25,
+      "validation": {
+        "n": 100,
+        "exact_cell": 0.07,
+        "within_one_cell": 0.21,
+        "mean_distance_cells": 5.056144702588654,
+        "2x2": 0.55,
+        "3x3": 0.48,
+        "4x4": 0.27,
+        "side_x": 0.73,
+        "side_y": 0.72,
+        "multiscale_points": 3.785
+      }
+    },
+    {
+      "weight": 0.5,
+      "validation": {
+        "n": 100,
+        "exact_cell": 0.07,
+        "within_one_cell": 0.24,
+        "mean_distance_cells": 4.809173197238005,
+        "2x2": 0.61,
+        "3x3": 0.52,
+        "4x4": 0.31,
+        "side_x": 0.75,
+        "side_y": 0.72,
+        "multiscale_points": 4.055
+      }
+    },
+    {
+      "weight": 1,
+      "validation": {
+        "n": 100,
+        "exact_cell": 0.08,
+        "within_one_cell": 0.24,
+        "mean_distance_cells": 4.68955435678902,
+        "2x2": 0.62,
+        "3x3": 0.52,
+        "4x4": 0.32,
+        "side_x": 0.75,
+        "side_y": 0.72,
+        "multiscale_points": 4.195
+      }
+    }
+  ],
+  "evaluation": {
+    "n": 102,
+    "exact_cell": 0.0196078431372549,
+    "within_one_cell": 0.16666666666666666,
+    "mean_distance_cells": 5.307506786787958,
+    "2x2": 0.5686274509803921,
+    "3x3": 0.3431372549019608,
+    "4x4": 0.3333333333333333,
+    "side_x": 0.6568627450980392,
+    "side_y": 0.9019607843137255,
+    "multiscale_points": 3.230392156862745
+  },
+  "independent_region_head_accuracy": {
+    "2x2": 0.6078431372549019,
+    "3x3": 0.3333333333333333,
+    "4x4": 0.21568627450980393
+  },
+  "score": "10 exact-cell +1 correct 2x2 region +2 correct 3x3 region +3 correct 4x4 region +0.5 correct left/right side +0.5 correct upper/lower side +4 extra exact-on-frame",
+  "warning": "Region hits are coarse labels, not exact-cell accuracy. 3x3 here means a fixed 9-region partition of the full screen, not the 8 neighboring fine cells. Same historical test, not new independent validation."
+}

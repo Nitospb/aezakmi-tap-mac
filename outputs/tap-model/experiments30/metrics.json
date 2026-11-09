@@ -1,0 +1,170 @@
+{
+  "selected": "exp23-guard80",
+  "threshold": 0.8,
+  "audio_used": false,
+  "test_baseline": {
+    "n": 217,
+    "exact": 0.10599078341013825,
+    "within_one": 0.5806451612903226,
+    "within_two": 0.815668202764977,
+    "mean_distance_cells": 2.0230301298709494,
+    "median_distance_cells": 1.4142135623730951,
+    "far_half_screen": 0.027649769585253458,
+    "far_third_screen": 0.03686635944700461,
+    "side_x": 0.847926267281106,
+    "side_y": 0.9216589861751152,
+    "edge_exact": 0.12280701754385964,
+    "unique_predicted_cells": 119,
+    "score": 1.076724456181625
+  },
+  "test_guard": {
+    "n": 217,
+    "exact": 0.10599078341013825,
+    "within_one": 0.5852534562211982,
+    "within_two": 0.8202764976958525,
+    "mean_distance_cells": 1.9790976858686733,
+    "median_distance_cells": 1.4142135623730951,
+    "far_half_screen": 0.027649769585253458,
+    "far_third_screen": 0.03686635944700461,
+    "side_x": 0.8571428571428571,
+    "side_y": 0.9400921658986175,
+    "edge_exact": 0.12280701754385964,
+    "unique_predicted_cells": 120,
+    "score": 1.0826963635524562
+  },
+  "changed": 12,
+  "fixed_exact": 0,
+  "lost_exact": 0,
+  "validation": {
+    "n": 226,
+    "exact": 0.11946902654867257,
+    "within_one": 0.5707964601769911,
+    "within_two": 0.7964601769911505,
+    "mean_distance_cells": 2.2593745465832575,
+    "median_distance_cells": 1.4142135623730951,
+    "far_half_screen": 0.048672566371681415,
+    "far_third_screen": 0.06637168141592921,
+    "side_x": 0.8982300884955752,
+    "side_y": 0.9292035398230089,
+    "edge_exact": 0.21428571428571427,
+    "unique_predicted_cells": 128,
+    "score": 1.0906515734926843
+  },
+  "reverse": {
+    "baseline-current": {
+      "forward": {
+        "n": 226,
+        "exact": 0.10619469026548672,
+        "within_one": 0.5486725663716814,
+        "within_two": 0.7787610619469026,
+        "mean_distance_cells": 2.504046798167184,
+        "median_distance_cells": 1.4142135623730951,
+        "far_half_screen": 0.06637168141592921,
+        "far_third_screen": 0.07964601769911504,
+        "side_x": 0.8761061946902655,
+        "side_y": 0.911504424778761,
+        "edge_exact": 0.19642857142857142,
+        "unique_predicted_cells": 125,
+        "score": 1.014128397489249
+      },
+      "reverse": {
+        "n": 238,
+        "exact": 0.10084033613445378,
+        "within_one": 0.453781512605042,
+        "within_two": 0.7016806722689075,
+        "mean_distance_cells": 2.8369373987024042,
+        "median_distance_cells": 2.0,
+        "far_half_screen": 0.07563025210084033,
+        "far_third_screen": 0.12184873949579832,
+        "side_x": 0.8319327731092437,
+        "side_y": 0.9117647058823529,
+        "edge_exact": 0.11864406779661017,
+        "unique_predicted_cells": 136,
+        "score": 0.8774581712398838
+      },
+      "development_mean_score": 0.9457932843645664
+    },
+    "exp23-guard80": {
+      "forward": {
+        "n": 226,
+        "exact": 0.11946902654867257,
+        "within_one": 0.5707964601769911,
+        "within_two": 0.7964601769911505,
+        "mean_distance_cells": 2.2593745465832575,
+        "median_distance_cells": 1.4142135623730951,
+        "far_half_screen": 0.048672566371681415,
+        "far_third_screen": 0.06637168141592921,
+        "side_x": 0.8982300884955752,
+        "side_y": 0.9292035398230089,
+        "edge_exact": 0.21428571428571427,
+        "unique_predicted_cells": 128,
+        "score": 1.0906515734926843
+      },
+      "reverse": {
+        "n": 238,
+        "exact": 0.10084033613445378,
+        "within_one": 0.4579831932773109,
+        "within_two": 0.7184873949579832,
+        "mean_distance_cells": 2.6263087227364155,
+        "median_distance_cells": 2.0,
+        "far_half_screen": 0.058823529411764705,
+        "far_third_screen": 0.10084033613445378,
+        "side_x": 0.865546218487395,
+        "side_y": 0.9327731092436975,
+        "edge_exact": 0.11864406779661017,
+        "unique_predicted_cells": 137,
+        "score": 0.8954958135478859
+      },
+      "development_mean_score": 0.9930736935202851
+    },
+    "exp29-consensus10": {
+      "forward": {
+        "n": 226,
+        "exact": 0.11061946902654868,
+        "within_one": 0.5663716814159292,
+        "within_two": 0.8053097345132744,
+        "mean_distance_cells": 2.1813562866049656,
+        "median_distance_cells": 1.4142135623730951,
+        "far_half_screen": 0.03982300884955752,
+        "far_third_screen": 0.061946902654867256,
+        "side_x": 0.8982300884955752,
+        "side_y": 0.9292035398230089,
+        "edge_exact": 0.17857142857142858,
+        "unique_predicted_cells": 131,
+        "score": 1.0665479517095007
+      },
+      "reverse": {
+        "n": 238,
+        "exact": 0.07142857142857142,
+        "within_one": 0.47058823529411764,
+        "within_two": 0.7394957983193278,
+        "mean_distance_cells": 2.5956585174247966,
+        "median_distance_cells": 2.0,
+        "far_half_screen": 0.058823529411764705,
+        "far_third_screen": 0.10504201680672269,
+        "side_x": 0.865546218487395,
+        "side_y": 0.9327731092436975,
+        "edge_exact": 0.13559322033898305,
+        "unique_predicted_cells": 132,
+        "score": 0.8253136906466348
+      },
+      "development_mean_score": 0.9459308211780677
+    }
+  },
+  "warning": "Pass3 is a reused historical test; no claim of new-session generalization.",
+  "data_window": {
+    "n": 779,
+    "pre_seconds": 0.65,
+    "post_seconds": 0.5,
+    "minimum_auto_feedback_delay": 0.560415791660489,
+    "audio_used": false,
+    "notes": [
+      "Continuous samples.bin recovers longer context.",
+      "Canonical grid interpolates native ~796Hz IMU, ~155Hz angle and ~9.95Hz optical streams; not new sensor measurements.",
+      "Post-window ends before any green tap feedback for every automatic tap.",
+      "Manual timing inferred from motion, weight0.3, never main validation/test."
+    ]
+  },
+  "verification": "30 agent source modules and per-agent results present; saved guard reproduces every one of 217 historical test predictions; scaler counts 519 evaluation/779 final; audio excluded.",
+  "app_deployment": "Current app kept unchanged: improvement on historical test too small to justify replacing it."
+}

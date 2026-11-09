@@ -1,0 +1,26 @@
+{
+  "name": "exp10_tree",
+  "feature_count": 1006,
+  "config": {
+    "family": "trees",
+    "n_estimators": 400,
+    "min_samples_leaf": 2,
+    "max_features": 0.7
+  },
+  "validation": {
+    "n": 226,
+    "exact": 0.08849557522123894,
+    "within_one": 0.43805309734513276,
+    "within_two": 0.6637168141592921,
+    "mean_distance_cells": 3.432474787696703,
+    "median_distance_cells": 2.0,
+    "far_half_screen": 0.10619469026548672,
+    "far_third_screen": 0.16371681415929204,
+    "side_x": 0.8053097345132744,
+    "side_y": 0.911504424778761,
+    "edge_exact": 0.16071428571428573,
+    "unique_predicted_cells": 129,
+    "score": 0.7971051095095847
+  },
+  "extra": {}
+}

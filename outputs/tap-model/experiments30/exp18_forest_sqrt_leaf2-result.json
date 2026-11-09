@@ -1,0 +1,26 @@
+{
+  "name": "exp18_forest_sqrt_leaf2",
+  "feature_count": 805,
+  "config": {
+    "family": "forest",
+    "n_estimators": 400,
+    "min_samples_leaf": 2,
+    "max_features": "sqrt"
+  },
+  "validation": {
+    "n": 226,
+    "exact": 0.10619469026548672,
+    "within_one": 0.43805309734513276,
+    "within_two": 0.6548672566371682,
+    "mean_distance_cells": 3.1953886360465176,
+    "median_distance_cells": 2.0,
+    "far_half_screen": 0.10619469026548672,
+    "far_third_screen": 0.1415929203539823,
+    "side_x": 0.831858407079646,
+    "side_y": 0.8805309734513275,
+    "edge_exact": 0.19642857142857142,
+    "unique_predicted_cells": 119,
+    "score": 0.8482264164205043
+  },
+  "extra": {}
+}

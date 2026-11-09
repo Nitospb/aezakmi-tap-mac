@@ -1,0 +1,45 @@
+{
+  "name": "exp15_template_k3",
+  "feature_count": 7614,
+  "config": {
+    "family": "shift_templates",
+    "k": 3,
+    "shift_samples": [
+      -4,
+      -3,
+      -2,
+      -1,
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "window_seconds": [
+      -0.025,
+      0.15
+    ],
+    "normalization": "separate gyro/accel trajectory L2",
+    "distance": "minimum squared Euclidean across shifts (normalized cosine equivalent)",
+    "voting": "sample-weighted discrete axis class vote"
+  },
+  "validation": {
+    "n": 226,
+    "exact": 0.035398230088495575,
+    "within_one": 0.3893805309734513,
+    "within_two": 0.6902654867256637,
+    "mean_distance_cells": 2.733496414457458,
+    "median_distance_cells": 2.0,
+    "far_half_screen": 0.030973451327433628,
+    "far_third_screen": 0.0752212389380531,
+    "side_x": 0.8185840707964602,
+    "side_y": 0.915929203539823,
+    "edge_exact": 0.08928571428571429,
+    "unique_predicted_cells": 120,
+    "score": 0.6366816039084786
+  },
+  "extra": {
+    "deployment": "Use exp15.get_features, fit_templates, template_probabilities; common.decode. Refit on approved training data, persist model dict.",
+    "notes": "Shift query only; training uses central template. Cosine and Euclidean equivalent after normalization. No coordinate averaging."
+  }
+}

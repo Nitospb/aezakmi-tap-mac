@@ -1,0 +1,535 @@
+{
+  "selected": {
+    "config": {
+      "family": "logistic",
+      "C": 1,
+      "edge_weight": 0
+    },
+    "decoder": "map",
+    "validation": {
+      "n": 100,
+      "exact_cell": 0.06,
+      "x_exact": 0.14,
+      "y_exact": 0.25,
+      "x_third_correct": 0.62,
+      "y_third_correct": 0.59,
+      "within_1_cell": 0.18,
+      "mean_distance_cells": 5.382018435969896,
+      "far_error_rate": 0.4,
+      "edge_n": 20,
+      "edge_exact": 0.05,
+      "edge_to_middle_rate": 0.05,
+      "center_prediction_rate": 0.15,
+      "selection_reward": 3.015
+    }
+  },
+  "evaluation": {
+    "n": 102,
+    "exact_cell": 0.029411764705882353,
+    "x_exact": 0.10784313725490197,
+    "y_exact": 0.24509803921568626,
+    "x_third_correct": 0.5098039215686274,
+    "y_third_correct": 0.6372549019607843,
+    "within_1_cell": 0.14705882352941177,
+    "mean_distance_cells": 5.805133668104753,
+    "far_error_rate": 0.3431372549019608,
+    "edge_n": 26,
+    "edge_exact": 0.0,
+    "edge_to_middle_rate": 0.11538461538461539,
+    "center_prediction_rate": 0.0784313725490196,
+    "selection_reward": 2.406862745098039
+  },
+  "previous_regression_same_test": {
+    "n": 102,
+    "exact_cell": 0.029411764705882353,
+    "x_exact": 0.13725490196078433,
+    "y_exact": 0.20588235294117646,
+    "x_third_correct": 0.6372549019607843,
+    "y_third_correct": 0.7549019607843137,
+    "within_1_cell": 0.1568627450980392,
+    "mean_distance_cells": 4.40776553491292,
+    "far_error_rate": 0.23529411764705882,
+    "edge_n": 26,
+    "edge_exact": 0.0,
+    "edge_to_middle_rate": 0.15384615384615385,
+    "center_prediction_rate": 0.22549019607843138,
+    "selection_reward": 2.8333333333333335
+  },
+  "training_n": 574,
+  "experiments": [
+    {
+      "config": {
+        "family": "logistic",
+        "C": 0.01,
+        "edge_weight": 0
+      },
+      "decoder": "map",
+      "validation": {
+        "n": 100,
+        "exact_cell": 0.01,
+        "x_exact": 0.11,
+        "y_exact": 0.18,
+        "x_third_correct": 0.58,
+        "y_third_correct": 0.58,
+        "within_1_cell": 0.11,
+        "mean_distance_cells": 6.310454967613119,
+        "far_error_rate": 0.42,
+        "edge_n": 20,
+        "edge_exact": 0.05,
+        "edge_to_middle_rate": 0.1,
+        "center_prediction_rate": 0.07,
+        "selection_reward": 2.11
+      }
+    },
+    {
+      "config": {
+        "family": "logistic",
+        "C": 0.01,
+        "edge_weight": 0
+      },
+      "decoder": "hierarchical",
+      "validation": {
+        "n": 100,
+        "exact_cell": 0.02,
+        "x_exact": 0.12,
+        "y_exact": 0.14,
+        "x_third_correct": 0.65,
+        "y_third_correct": 0.61,
+        "within_1_cell": 0.13,
+        "mean_distance_cells": 5.948707887593988,
+        "far_error_rate": 0.36,
+        "edge_n": 20,
+        "edge_exact": 0.05,
+        "edge_to_middle_rate": 0.0,
+        "center_prediction_rate": 0.0,
+        "selection_reward": 2.46
+      }
+    },
+    {
+      "config": {
+        "family": "logistic",
+        "C": 0.1,
+        "edge_weight": 0
+      },
+      "decoder": "map",
+      "validation": {
+        "n": 100,
+        "exact_cell": 0.02,
+        "x_exact": 0.12,
+        "y_exact": 0.22,
+        "x_third_correct": 0.63,
+        "y_third_correct": 0.59,
+        "within_1_cell": 0.15,
+        "mean_distance_cells": 5.328296494416803,
+        "far_error_rate": 0.34,
+        "edge_n": 20,
+        "edge_exact": 0.05,
+        "edge_to_middle_rate": 0.05,
+        "center_prediction_rate": 0.14,
+        "selection_reward": 2.56
+      }
+    },
+    {
+      "config": {
+        "family": "logistic",
+        "C": 0.1,
+        "edge_weight": 0
+      },
+      "decoder": "hierarchical",
+      "validation": {
+        "n": 100,
+        "exact_cell": 0.01,
+        "x_exact": 0.11,
+        "y_exact": 0.19,
+        "x_third_correct": 0.67,
+        "y_third_correct": 0.64,
+        "within_1_cell": 0.17,
+        "mean_distance_cells": 5.335393791560858,
+        "far_error_rate": 0.34,
+        "edge_n": 20,
+        "edge_exact": 0.05,
+        "edge_to_middle_rate": 0.05,
+        "center_prediction_rate": 0.06,
+        "selection_reward": 2.535
+      }
+    },
+    {
+      "config": {
+        "family": "logistic",
+        "C": 1,
+        "edge_weight": 0
+      },
+      "decoder": "map",
+      "validation": {
+        "n": 100,
+        "exact_cell": 0.06,
+        "x_exact": 0.14,
+        "y_exact": 0.25,
+        "x_third_correct": 0.62,
+        "y_third_correct": 0.59,
+        "within_1_cell": 0.18,
+        "mean_distance_cells": 5.382018435969896,
+        "far_error_rate": 0.4,
+        "edge_n": 20,
+        "edge_exact": 0.05,
+        "edge_to_middle_rate": 0.05,
+        "center_prediction_rate": 0.15,
+        "selection_reward": 3.015
+      }
+    },
+    {
+      "config": {
+        "family": "logistic",
+        "C": 1,
+        "edge_weight": 0
+      },
+      "decoder": "hierarchical",
+      "validation": {
+        "n": 100,
+        "exact_cell": 0.05,
+        "x_exact": 0.14,
+        "y_exact": 0.23,
+        "x_third_correct": 0.63,
+        "y_third_correct": 0.59,
+        "within_1_cell": 0.17,
+        "mean_distance_cells": 5.470426711891361,
+        "far_error_rate": 0.39,
+        "edge_n": 20,
+        "edge_exact": 0.05,
+        "edge_to_middle_rate": 0.05,
+        "center_prediction_rate": 0.14,
+        "selection_reward": 2.89
+      }
+    },
+    {
+      "config": {
+        "family": "lda",
+        "edge_weight": 0
+      },
+      "decoder": "map",
+      "validation": {
+        "n": 100,
+        "exact_cell": 0.01,
+        "x_exact": 0.09,
+        "y_exact": 0.18,
+        "x_third_correct": 0.59,
+        "y_third_correct": 0.61,
+        "within_1_cell": 0.15,
+        "mean_distance_cells": 5.583226839909189,
+        "far_error_rate": 0.36,
+        "edge_n": 20,
+        "edge_exact": 0.05,
+        "edge_to_middle_rate": 0.15,
+        "center_prediction_rate": 0.12,
+        "selection_reward": 2.19
+      }
+    },
+    {
+      "config": {
+        "family": "lda",
+        "edge_weight": 0
+      },
+      "decoder": "hierarchical",
+      "validation": {
+        "n": 100,
+        "exact_cell": 0.01,
+        "x_exact": 0.09,
+        "y_exact": 0.17,
+        "x_third_correct": 0.6,
+        "y_third_correct": 0.62,
+        "within_1_cell": 0.15,
+        "mean_distance_cells": 5.65140953828246,
+        "far_error_rate": 0.37,
+        "edge_n": 20,
+        "edge_exact": 0.05,
+        "edge_to_middle_rate": 0.15,
+        "center_prediction_rate": 0.1,
+        "selection_reward": 2.19
+      }
+    },
+    {
+      "config": {
+        "family": "gbm",
+        "edge_weight": 0
+      },
+      "decoder": "map",
+      "validation": {
+        "n": 100,
+        "exact_cell": 0.02,
+        "x_exact": 0.11,
+        "y_exact": 0.16,
+        "x_third_correct": 0.51,
+        "y_third_correct": 0.59,
+        "within_1_cell": 0.12,
+        "mean_distance_cells": 6.308298340351534,
+        "far_error_rate": 0.45,
+        "edge_n": 20,
+        "edge_exact": 0.05,
+        "edge_to_middle_rate": 0.1,
+        "center_prediction_rate": 0.11,
+        "selection_reward": 2.06
+      }
+    },
+    {
+      "config": {
+        "family": "gbm",
+        "edge_weight": 0
+      },
+      "decoder": "hierarchical",
+      "validation": {
+        "n": 100,
+        "exact_cell": 0.02,
+        "x_exact": 0.13,
+        "y_exact": 0.15,
+        "x_third_correct": 0.52,
+        "y_third_correct": 0.58,
+        "within_1_cell": 0.12,
+        "mean_distance_cells": 6.330103185957318,
+        "far_error_rate": 0.46,
+        "edge_n": 20,
+        "edge_exact": 0.05,
+        "edge_to_middle_rate": 0.05,
+        "center_prediction_rate": 0.07,
+        "selection_reward": 2.11
+      }
+    },
+    {
+      "config": {
+        "family": "logistic",
+        "C": 0.01,
+        "edge_weight": 2
+      },
+      "decoder": "map",
+      "validation": {
+        "n": 100,
+        "exact_cell": 0.01,
+        "x_exact": 0.07,
+        "y_exact": 0.18,
+        "x_third_correct": 0.54,
+        "y_third_correct": 0.7,
+        "within_1_cell": 0.09,
+        "mean_distance_cells": 7.599826585192232,
+        "far_error_rate": 0.5,
+        "edge_n": 20,
+        "edge_exact": 0.05,
+        "edge_to_middle_rate": 0.0,
+        "center_prediction_rate": 0.01,
+        "selection_reward": 2.13
+      }
+    },
+    {
+      "config": {
+        "family": "logistic",
+        "C": 0.01,
+        "edge_weight": 2
+      },
+      "decoder": "hierarchical",
+      "validation": {
+        "n": 100,
+        "exact_cell": 0.01,
+        "x_exact": 0.09,
+        "y_exact": 0.17,
+        "x_third_correct": 0.57,
+        "y_third_correct": 0.65,
+        "within_1_cell": 0.08,
+        "mean_distance_cells": 7.778100726082249,
+        "far_error_rate": 0.53,
+        "edge_n": 20,
+        "edge_exact": 0.05,
+        "edge_to_middle_rate": 0.0,
+        "center_prediction_rate": 0.0,
+        "selection_reward": 2.08
+      }
+    },
+    {
+      "config": {
+        "family": "logistic",
+        "C": 0.1,
+        "edge_weight": 2
+      },
+      "decoder": "map",
+      "validation": {
+        "n": 100,
+        "exact_cell": 0.02,
+        "x_exact": 0.13,
+        "y_exact": 0.21,
+        "x_third_correct": 0.6,
+        "y_third_correct": 0.61,
+        "within_1_cell": 0.15,
+        "mean_distance_cells": 5.738416119764813,
+        "far_error_rate": 0.36,
+        "edge_n": 20,
+        "edge_exact": 0.05,
+        "edge_to_middle_rate": 0.05,
+        "center_prediction_rate": 0.08,
+        "selection_reward": 2.525
+      }
+    },
+    {
+      "config": {
+        "family": "logistic",
+        "C": 0.1,
+        "edge_weight": 2
+      },
+      "decoder": "hierarchical",
+      "validation": {
+        "n": 100,
+        "exact_cell": 0.02,
+        "x_exact": 0.12,
+        "y_exact": 0.18,
+        "x_third_correct": 0.66,
+        "y_third_correct": 0.62,
+        "within_1_cell": 0.14,
+        "mean_distance_cells": 5.910321299785008,
+        "far_error_rate": 0.35,
+        "edge_n": 20,
+        "edge_exact": 0.05,
+        "edge_to_middle_rate": 0.05,
+        "center_prediction_rate": 0.02,
+        "selection_reward": 2.55
+      }
+    },
+    {
+      "config": {
+        "family": "logistic",
+        "C": 1,
+        "edge_weight": 2
+      },
+      "decoder": "map",
+      "validation": {
+        "n": 100,
+        "exact_cell": 0.05,
+        "x_exact": 0.14,
+        "y_exact": 0.23,
+        "x_third_correct": 0.62,
+        "y_third_correct": 0.58,
+        "within_1_cell": 0.16,
+        "mean_distance_cells": 5.593428997537743,
+        "far_error_rate": 0.4,
+        "edge_n": 20,
+        "edge_exact": 0.05,
+        "edge_to_middle_rate": 0.05,
+        "center_prediction_rate": 0.14,
+        "selection_reward": 2.84
+      }
+    },
+    {
+      "config": {
+        "family": "logistic",
+        "C": 1,
+        "edge_weight": 2
+      },
+      "decoder": "hierarchical",
+      "validation": {
+        "n": 100,
+        "exact_cell": 0.04,
+        "x_exact": 0.14,
+        "y_exact": 0.21,
+        "x_third_correct": 0.62,
+        "y_third_correct": 0.58,
+        "within_1_cell": 0.15,
+        "mean_distance_cells": 5.720536007174113,
+        "far_error_rate": 0.39,
+        "edge_n": 20,
+        "edge_exact": 0.05,
+        "edge_to_middle_rate": 0.05,
+        "center_prediction_rate": 0.13,
+        "selection_reward": 2.7
+      }
+    },
+    {
+      "config": {
+        "family": "lda",
+        "edge_weight": 2
+      },
+      "decoder": "map",
+      "validation": {
+        "n": 100,
+        "exact_cell": 0.01,
+        "x_exact": 0.09,
+        "y_exact": 0.18,
+        "x_third_correct": 0.59,
+        "y_third_correct": 0.65,
+        "within_1_cell": 0.12,
+        "mean_distance_cells": 5.815492802372139,
+        "far_error_rate": 0.39,
+        "edge_n": 20,
+        "edge_exact": 0.05,
+        "edge_to_middle_rate": 0.15,
+        "center_prediction_rate": 0.09,
+        "selection_reward": 2.19
+      }
+    },
+    {
+      "config": {
+        "family": "lda",
+        "edge_weight": 2
+      },
+      "decoder": "hierarchical",
+      "validation": {
+        "n": 100,
+        "exact_cell": 0.01,
+        "x_exact": 0.09,
+        "y_exact": 0.18,
+        "x_third_correct": 0.62,
+        "y_third_correct": 0.62,
+        "within_1_cell": 0.12,
+        "mean_distance_cells": 5.871448047851774,
+        "far_error_rate": 0.38,
+        "edge_n": 20,
+        "edge_exact": 0.05,
+        "edge_to_middle_rate": 0.15,
+        "center_prediction_rate": 0.09,
+        "selection_reward": 2.2
+      }
+    },
+    {
+      "config": {
+        "family": "gbm",
+        "edge_weight": 2
+      },
+      "decoder": "map",
+      "validation": {
+        "n": 100,
+        "exact_cell": 0.01,
+        "x_exact": 0.11,
+        "y_exact": 0.13,
+        "x_third_correct": 0.54,
+        "y_third_correct": 0.55,
+        "within_1_cell": 0.09,
+        "mean_distance_cells": 6.302325697537194,
+        "far_error_rate": 0.45,
+        "edge_n": 20,
+        "edge_exact": 0.05,
+        "edge_to_middle_rate": 0.1,
+        "center_prediction_rate": 0.11,
+        "selection_reward": 1.855
+      }
+    },
+    {
+      "config": {
+        "family": "gbm",
+        "edge_weight": 2
+      },
+      "decoder": "hierarchical",
+      "validation": {
+        "n": 100,
+        "exact_cell": 0.01,
+        "x_exact": 0.11,
+        "y_exact": 0.14,
+        "x_third_correct": 0.55,
+        "y_third_correct": 0.58,
+        "within_1_cell": 0.1,
+        "mean_distance_cells": 6.366692376316114,
+        "far_error_rate": 0.46,
+        "edge_n": 20,
+        "edge_exact": 0.05,
+        "edge_to_middle_rate": 0.05,
+        "center_prediction_rate": 0.05,
+        "selection_reward": 1.975
+      }
+    }
+  ],
+  "reward": "10 exact +8 exact on frame +4 exact corner +2 correct X +2 correct Y +1.5 correct horizontal third +1.5 correct vertical third +1 within one cell -4 edge-to-middle -1 error >=6 cells",
+  "evaluation_warning": "Reuses the v1 chronological test; validation selects parameters. A new user session is still needed for independent confirmation."
+}

@@ -1,0 +1,14 @@
+30 independent experiments explicitly requested by user. Parent owns shared files and final app; you own only assigned expNN.py, expNN-*/expNN_* artifacts. Do not spawn agents. Do not modify common.py/data.npz/other experiments/app. No audio or audio features.
+Working directory: /Users/nikitatolochko/Documents/Codex/2026-11-07/new-chat
+Use OPENBLAS_NUM_THREADS=1 OMP_NUM_THREADS=1 work/model-env/bin/python (system python wrong architecture).
+Read common.py. Data ready in data.npz; common.load() gives arrays:
+W(N,461,6), TIME=np.linspace(-.65,.5,461): gyro XYZ then accel XYZ.
+H(N,921,6), HTIME=np.linspace(-.65,.5,921): high-rate version, ~800Hz interpolation.
+G(N,461): fractional lid angle. L(N,12,5), LIGHT_TIME=np.linspace(-.65,.5,12): lux and four raw optical channels, not calibrated RGB.
+M(N,652): current motion+lid derived features. F(N,153): dynamic light features.
+idx(N), y(N,2): true integer col,row. w(N): 1 automatic, .3 estimated manual.
+Do not use idx/y/w, cue/target/screen metadata as features. Only use labels inside fitting/scoring.
+Features via get_features(data) pure numeric function returning finite NxD matrix for same dict arrays, usable for live inference. If extra helpers/decoder/model fitting needed, keep them in your own module.
+common.evaluate(name,X,config) fits idx<260, validation automatic 260<=idx<520. NEVER evaluate >=520 labels; parent handles final historical test. max TWO fixed configs per agent. Use n_jobs=1. Model families trees/svm/linear/gbm; configs in common.py. common.fit(), probabilities(), decode(), metrics(), save_result() also available for custom experiment. Save validation probabilities with matching idx/truth for aggregation. Names must start expNN (e.g exp04_tree).
+Do not tune on test. Validation score predeclared: 3*exact + within_one +.25*within_two -.5*far_half_screen -.1*mean_normalized_distance. Discrete class argmax; no regression coordinate averaging. Extra conditional/decoder outputs should still save actual validation predictions and probabilities.
+Return concise chosen configuration, validation metrics, files, caveats. Exit after your experiment so parent can launch next agents.

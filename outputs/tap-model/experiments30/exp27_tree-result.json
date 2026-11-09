@@ -1,0 +1,26 @@
+{
+  "name": "exp27_tree",
+  "feature_count": 904,
+  "config": {
+    "family": "trees",
+    "n_estimators": 350,
+    "min_samples_leaf": 2,
+    "max_features": 0.6
+  },
+  "validation": {
+    "n": 226,
+    "exact": 0.084070796460177,
+    "within_one": 0.45132743362831856,
+    "within_two": 0.6902654867256637,
+    "mean_distance_cells": 2.949080120717341,
+    "median_distance_cells": 2.0,
+    "far_half_screen": 0.0752212389380531,
+    "far_third_screen": 0.11061946902654868,
+    "side_x": 0.8230088495575221,
+    "side_y": 0.915929203539823,
+    "edge_exact": 0.14285714285714285,
+    "unique_predicted_cells": 133,
+    "score": 0.8216202785884367
+  },
+  "extra": {}
+}

@@ -1,0 +1,32 @@
+{
+  "name": "exp26_axis_svm",
+  "feature_count": 772,
+  "config": {
+    "family": "svm",
+    "m_k": 80,
+    "C": 10
+  },
+  "validation": {
+    "n": 226,
+    "exact": 0.0752212389380531,
+    "within_one": 0.3008849557522124,
+    "within_two": 0.5398230088495575,
+    "mean_distance_cells": 3.338131896985382,
+    "median_distance_cells": 2.8284271247461903,
+    "far_half_screen": 0.06637168141592921,
+    "far_third_screen": 0.12831858407079647,
+    "side_x": 0.8672566371681416,
+    "side_y": 0.8805309734513275,
+    "edge_exact": 0.125,
+    "unique_predicted_cells": 104,
+    "score": 0.6089722008007451
+  },
+  "extra": {
+    "axis_physical_features": [
+      56,
+      64
+    ],
+    "shared_selected_per_axis": 80,
+    "deployment": "get_features, fit_models, predict_probabilities"
+  }
+}

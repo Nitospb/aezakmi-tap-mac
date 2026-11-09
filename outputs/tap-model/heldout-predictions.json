@@ -1,0 +1,930 @@
+[
+  {
+    "trial_index": 460,
+    "source": "manual_user_confirmed",
+    "true_col": 18,
+    "true_row": 9,
+    "pred_col_float": 10.230508125683432,
+    "pred_row_float": 9.23075917850562
+  },
+  {
+    "trial_index": 461,
+    "source": "automatic",
+    "true_col": 7,
+    "true_row": 6,
+    "pred_col_float": 7.034321155211304,
+    "pred_row_float": 4.704430092684639
+  },
+  {
+    "trial_index": 462,
+    "source": "manual_user_confirmed",
+    "true_col": 16,
+    "true_row": 12,
+    "pred_col_float": 13.102149236347868,
+    "pred_row_float": 11.267174781364766
+  },
+  {
+    "trial_index": 463,
+    "source": "automatic",
+    "true_col": 1,
+    "true_row": 2,
+    "pred_col_float": 12.07333859940475,
+    "pred_row_float": 4.617146928790893
+  },
+  {
+    "trial_index": 464,
+    "source": "manual_user_confirmed",
+    "true_col": 5,
+    "true_row": 7,
+    "pred_col_float": 9.729168059215983,
+    "pred_row_float": 9.465921894721317
+  },
+  {
+    "trial_index": 465,
+    "source": "automatic",
+    "true_col": 11,
+    "true_row": 3,
+    "pred_col_float": 12.420941621946366,
+    "pred_row_float": 5.729302080333187
+  },
+  {
+    "trial_index": 466,
+    "source": "automatic",
+    "true_col": 9,
+    "true_row": 0,
+    "pred_col_float": 9.52135248701858,
+    "pred_row_float": 3.281460165005966
+  },
+  {
+    "trial_index": 467,
+    "source": "automatic",
+    "true_col": 10,
+    "true_row": 5,
+    "pred_col_float": 8.82255190352208,
+    "pred_row_float": 7.9025608929820645
+  },
+  {
+    "trial_index": 468,
+    "source": "manual_user_confirmed",
+    "true_col": 1,
+    "true_row": 3,
+    "pred_col_float": 9.63957599213509,
+    "pred_row_float": 9.575069173020347
+  },
+  {
+    "trial_index": 469,
+    "source": "automatic",
+    "true_col": 0,
+    "true_row": 4,
+    "pred_col_float": 10.0524580515066,
+    "pred_row_float": 4.238184896261719
+  },
+  {
+    "trial_index": 470,
+    "source": "manual_user_confirmed",
+    "true_col": 13,
+    "true_row": 4,
+    "pred_col_float": 6.696855928838421,
+    "pred_row_float": 6.559678015727584
+  },
+  {
+    "trial_index": 471,
+    "source": "manual_user_confirmed",
+    "true_col": 0,
+    "true_row": 10,
+    "pred_col_float": 9.870451576728529,
+    "pred_row_float": 7.776800898681124
+  },
+  {
+    "trial_index": 472,
+    "source": "manual_user_confirmed",
+    "true_col": 16,
+    "true_row": 10,
+    "pred_col_float": 9.888922787201206,
+    "pred_row_float": 4.419502222866204
+  },
+  {
+    "trial_index": 473,
+    "source": "automatic",
+    "true_col": 4,
+    "true_row": 10,
+    "pred_col_float": 6.766452520067805,
+    "pred_row_float": 9.56048295044817
+  },
+  {
+    "trial_index": 474,
+    "source": "automatic",
+    "true_col": 15,
+    "true_row": 10,
+    "pred_col_float": 16.949604431240434,
+    "pred_row_float": 9.708947829594404
+  },
+  {
+    "trial_index": 475,
+    "source": "manual_user_confirmed",
+    "true_col": 15,
+    "true_row": 11,
+    "pred_col_float": 13.315410370048712,
+    "pred_row_float": 11.261824837458814
+  },
+  {
+    "trial_index": 476,
+    "source": "automatic",
+    "true_col": 17,
+    "true_row": 3,
+    "pred_col_float": 8.591359221238648,
+    "pred_row_float": 4.010932575644164
+  },
+  {
+    "trial_index": 477,
+    "source": "automatic",
+    "true_col": 11,
+    "true_row": 0,
+    "pred_col_float": 10.842332940964871,
+    "pred_row_float": 2.397564303138842
+  },
+  {
+    "trial_index": 478,
+    "source": "automatic",
+    "true_col": 12,
+    "true_row": 7,
+    "pred_col_float": 10.023921143491748,
+    "pred_row_float": 5.204688352246761
+  },
+  {
+    "trial_index": 479,
+    "source": "automatic",
+    "true_col": 8,
+    "true_row": 12,
+    "pred_col_float": 10.547852844576607,
+    "pred_row_float": 11.31500752840725
+  },
+  {
+    "trial_index": 480,
+    "source": "automatic",
+    "true_col": 16,
+    "true_row": 11,
+    "pred_col_float": 17.903689239160766,
+    "pred_row_float": 11.089597457093223
+  },
+  {
+    "trial_index": 481,
+    "source": "automatic",
+    "true_col": 8,
+    "true_row": 6,
+    "pred_col_float": 9.401748850257492,
+    "pred_row_float": 6.704181390176007
+  },
+  {
+    "trial_index": 482,
+    "source": "automatic",
+    "true_col": 0,
+    "true_row": 2,
+    "pred_col_float": 12.65522317356225,
+    "pred_row_float": 3.4993825051628877
+  },
+  {
+    "trial_index": 483,
+    "source": "automatic",
+    "true_col": 19,
+    "true_row": 0,
+    "pred_col_float": 9.773229093622628,
+    "pred_row_float": 5.815175638964061
+  },
+  {
+    "trial_index": 484,
+    "source": "automatic",
+    "true_col": 0,
+    "true_row": 8,
+    "pred_col_float": 7.940756258368026,
+    "pred_row_float": 8.270717666381238
+  },
+  {
+    "trial_index": 485,
+    "source": "automatic",
+    "true_col": 8,
+    "true_row": 8,
+    "pred_col_float": 11.38204937301893,
+    "pred_row_float": 5.683034114621306
+  },
+  {
+    "trial_index": 486,
+    "source": "automatic",
+    "true_col": 2,
+    "true_row": 2,
+    "pred_col_float": 4.163602165040184,
+    "pred_row_float": 2.7666572692800995
+  },
+  {
+    "trial_index": 487,
+    "source": "automatic",
+    "true_col": 5,
+    "true_row": 0,
+    "pred_col_float": 8.227128771050385,
+    "pred_row_float": 3.5907786261329893
+  },
+  {
+    "trial_index": 488,
+    "source": "automatic",
+    "true_col": 6,
+    "true_row": 6,
+    "pred_col_float": 7.015873513022116,
+    "pred_row_float": 3.643446587689105
+  },
+  {
+    "trial_index": 489,
+    "source": "automatic",
+    "true_col": 14,
+    "true_row": 0,
+    "pred_col_float": 7.894004776385537,
+    "pred_row_float": 7.229630349440767
+  },
+  {
+    "trial_index": 490,
+    "source": "automatic",
+    "true_col": 13,
+    "true_row": 3,
+    "pred_col_float": 8.005970717869712,
+    "pred_row_float": 2.4196254991825152
+  },
+  {
+    "trial_index": 491,
+    "source": "automatic",
+    "true_col": 9,
+    "true_row": 11,
+    "pred_col_float": 10.3838436753447,
+    "pred_row_float": 9.063776926499768
+  },
+  {
+    "trial_index": 492,
+    "source": "automatic",
+    "true_col": 10,
+    "true_row": 3,
+    "pred_col_float": 9.070018298232133,
+    "pred_row_float": 6.449035944300327
+  },
+  {
+    "trial_index": 493,
+    "source": "automatic",
+    "true_col": 16,
+    "true_row": 1,
+    "pred_col_float": 11.320967499726608,
+    "pred_row_float": 3.4874782563695503
+  },
+  {
+    "trial_index": 494,
+    "source": "automatic",
+    "true_col": 12,
+    "true_row": 3,
+    "pred_col_float": 11.303547742529963,
+    "pred_row_float": 4.43603494101739
+  },
+  {
+    "trial_index": 495,
+    "source": "automatic",
+    "true_col": 1,
+    "true_row": 8,
+    "pred_col_float": 12.76170692194425,
+    "pred_row_float": 7.175218961742885
+  },
+  {
+    "trial_index": 496,
+    "source": "automatic",
+    "true_col": 2,
+    "true_row": 7,
+    "pred_col_float": 8.46130518586696,
+    "pred_row_float": 6.3972337090562315
+  },
+  {
+    "trial_index": 497,
+    "source": "automatic",
+    "true_col": 10,
+    "true_row": 2,
+    "pred_col_float": 7.4865685810983225,
+    "pred_row_float": 4.784137850073985
+  },
+  {
+    "trial_index": 498,
+    "source": "automatic",
+    "true_col": 16,
+    "true_row": 2,
+    "pred_col_float": 6.014212071018735,
+    "pred_row_float": 5.950617390493902
+  },
+  {
+    "trial_index": 499,
+    "source": "automatic",
+    "true_col": 3,
+    "true_row": 1,
+    "pred_col_float": 6.941413232226421,
+    "pred_row_float": 4.782680927473004
+  },
+  {
+    "trial_index": 500,
+    "source": "automatic",
+    "true_col": 10,
+    "true_row": 11,
+    "pred_col_float": 11.244700655619894,
+    "pred_row_float": 9.60260594406817
+  },
+  {
+    "trial_index": 501,
+    "source": "automatic",
+    "true_col": 2,
+    "true_row": 0,
+    "pred_col_float": 6.609971267868977,
+    "pred_row_float": 3.7227802526655167
+  },
+  {
+    "trial_index": 502,
+    "source": "automatic",
+    "true_col": 15,
+    "true_row": 7,
+    "pred_col_float": 16.50639311097364,
+    "pred_row_float": 7.003921114765345
+  },
+  {
+    "trial_index": 503,
+    "source": "automatic",
+    "true_col": 0,
+    "true_row": 0,
+    "pred_col_float": 8.279346604525395,
+    "pred_row_float": 5.290419729790758
+  },
+  {
+    "trial_index": 504,
+    "source": "automatic",
+    "true_col": 10,
+    "true_row": 10,
+    "pred_col_float": 10.045005682848803,
+    "pred_row_float": 6.438053331869163
+  },
+  {
+    "trial_index": 505,
+    "source": "automatic",
+    "true_col": 19,
+    "true_row": 11,
+    "pred_col_float": 18.21048197330834,
+    "pred_row_float": 9.628048109227281
+  },
+  {
+    "trial_index": 506,
+    "source": "manual_user_confirmed",
+    "true_col": 0,
+    "true_row": 9,
+    "pred_col_float": 10.610082069873544,
+    "pred_row_float": 8.724341118906546
+  },
+  {
+    "trial_index": 507,
+    "source": "automatic",
+    "true_col": 9,
+    "true_row": 12,
+    "pred_col_float": 10.634542177309644,
+    "pred_row_float": 11.539159402606836
+  },
+  {
+    "trial_index": 508,
+    "source": "automatic",
+    "true_col": 3,
+    "true_row": 0,
+    "pred_col_float": 8.721379404152557,
+    "pred_row_float": 4.650501696709971
+  },
+  {
+    "trial_index": 509,
+    "source": "manual_user_confirmed",
+    "true_col": 5,
+    "true_row": 12,
+    "pred_col_float": 8.66385498262256,
+    "pred_row_float": 10.888209653350355
+  },
+  {
+    "trial_index": 510,
+    "source": "automatic",
+    "true_col": 3,
+    "true_row": 6,
+    "pred_col_float": 5.571953103062701,
+    "pred_row_float": 3.9101235569419455
+  },
+  {
+    "trial_index": 511,
+    "source": "automatic",
+    "true_col": 12,
+    "true_row": 8,
+    "pred_col_float": 12.969102048781409,
+    "pred_row_float": 5.728112404714601
+  },
+  {
+    "trial_index": 512,
+    "source": "automatic",
+    "true_col": 0,
+    "true_row": 6,
+    "pred_col_float": 6.942919050753619,
+    "pred_row_float": 4.498330168534687
+  },
+  {
+    "trial_index": 513,
+    "source": "automatic",
+    "true_col": 14,
+    "true_row": 1,
+    "pred_col_float": 9.36894926941696,
+    "pred_row_float": 10.483339330454664
+  },
+  {
+    "trial_index": 514,
+    "source": "automatic",
+    "true_col": 1,
+    "true_row": 4,
+    "pred_col_float": 14.5254874170391,
+    "pred_row_float": 5.047087754508175
+  },
+  {
+    "trial_index": 515,
+    "source": "automatic",
+    "true_col": 12,
+    "true_row": 10,
+    "pred_col_float": 9.233270017892837,
+    "pred_row_float": 10.856232142038115
+  },
+  {
+    "trial_index": 516,
+    "source": "automatic",
+    "true_col": 8,
+    "true_row": 2,
+    "pred_col_float": 6.1678210369624376,
+    "pred_row_float": 2.59017457930164
+  },
+  {
+    "trial_index": 517,
+    "source": "automatic",
+    "true_col": 12,
+    "true_row": 0,
+    "pred_col_float": 11.920451966926738,
+    "pred_row_float": 2.181511778018979
+  },
+  {
+    "trial_index": 518,
+    "source": "automatic",
+    "true_col": 18,
+    "true_row": 0,
+    "pred_col_float": 7.958878966675495,
+    "pred_row_float": 3.247109643813213
+  },
+  {
+    "trial_index": 519,
+    "source": "automatic",
+    "true_col": 18,
+    "true_row": 1,
+    "pred_col_float": 8.860032849051688,
+    "pred_row_float": 3.890078342692746
+  },
+  {
+    "trial_index": 520,
+    "source": "automatic",
+    "true_col": 14,
+    "true_row": 11,
+    "pred_col_float": 11.302391659113807,
+    "pred_row_float": 10.792614322776279
+  },
+  {
+    "trial_index": 521,
+    "source": "automatic",
+    "true_col": 9,
+    "true_row": 5,
+    "pred_col_float": 9.066069901284305,
+    "pred_row_float": 3.4806468943836095
+  },
+  {
+    "trial_index": 522,
+    "source": "automatic",
+    "true_col": 12,
+    "true_row": 10,
+    "pred_col_float": 12.300083801763918,
+    "pred_row_float": 10.080364209873109
+  },
+  {
+    "trial_index": 523,
+    "source": "manual_user_confirmed",
+    "true_col": 6,
+    "true_row": 11,
+    "pred_col_float": 9.100863171486726,
+    "pred_row_float": 10.825013808755793
+  },
+  {
+    "trial_index": 524,
+    "source": "automatic",
+    "true_col": 12,
+    "true_row": 2,
+    "pred_col_float": 7.860300142533844,
+    "pred_row_float": 3.1074217178310204
+  },
+  {
+    "trial_index": 525,
+    "source": "automatic",
+    "true_col": 13,
+    "true_row": 0,
+    "pred_col_float": 13.347152116063466,
+    "pred_row_float": 1.9709512919503152
+  },
+  {
+    "trial_index": 526,
+    "source": "manual_user_confirmed",
+    "true_col": 8,
+    "true_row": 12,
+    "pred_col_float": 10.010067951788825,
+    "pred_row_float": 10.633586546093078
+  },
+  {
+    "trial_index": 527,
+    "source": "automatic",
+    "true_col": 11,
+    "true_row": 1,
+    "pred_col_float": 14.440651006624496,
+    "pred_row_float": 3.220022440727101
+  },
+  {
+    "trial_index": 528,
+    "source": "automatic",
+    "true_col": 1,
+    "true_row": 5,
+    "pred_col_float": 6.592961350155178,
+    "pred_row_float": 6.874226225059267
+  },
+  {
+    "trial_index": 529,
+    "source": "automatic",
+    "true_col": 11,
+    "true_row": 9,
+    "pred_col_float": 10.609963441016722,
+    "pred_row_float": 9.057372811585957
+  },
+  {
+    "trial_index": 530,
+    "source": "automatic",
+    "true_col": 18,
+    "true_row": 4,
+    "pred_col_float": 15.628861923043662,
+    "pred_row_float": 5.218871171641146
+  },
+  {
+    "trial_index": 531,
+    "source": "automatic",
+    "true_col": 3,
+    "true_row": 8,
+    "pred_col_float": 6.389320257957544,
+    "pred_row_float": 5.50926939153784
+  },
+  {
+    "trial_index": 532,
+    "source": "automatic",
+    "true_col": 17,
+    "true_row": 9,
+    "pred_col_float": 18.879065239186783,
+    "pred_row_float": 10.147923490324505
+  },
+  {
+    "trial_index": 533,
+    "source": "automatic",
+    "true_col": 13,
+    "true_row": 6,
+    "pred_col_float": 11.865848127209217,
+    "pred_row_float": 5.368691992264369
+  },
+  {
+    "trial_index": 534,
+    "source": "automatic",
+    "true_col": 17,
+    "true_row": 11,
+    "pred_col_float": 10.08640226149771,
+    "pred_row_float": 7.505187443097943
+  },
+  {
+    "trial_index": 535,
+    "source": "automatic",
+    "true_col": 0,
+    "true_row": 8,
+    "pred_col_float": 6.841909383406295,
+    "pred_row_float": 7.152082585658017
+  },
+  {
+    "trial_index": 536,
+    "source": "automatic",
+    "true_col": 18,
+    "true_row": 1,
+    "pred_col_float": 8.932300523179082,
+    "pred_row_float": 4.157970867945628
+  },
+  {
+    "trial_index": 537,
+    "source": "automatic",
+    "true_col": 5,
+    "true_row": 4,
+    "pred_col_float": 8.549708679232541,
+    "pred_row_float": 7.25933647594826
+  },
+  {
+    "trial_index": 538,
+    "source": "automatic",
+    "true_col": 18,
+    "true_row": 10,
+    "pred_col_float": 15.975605028472394,
+    "pred_row_float": 6.868418597416947
+  },
+  {
+    "trial_index": 539,
+    "source": "automatic",
+    "true_col": 9,
+    "true_row": 3,
+    "pred_col_float": 9.908203254055135,
+    "pred_row_float": 6.49335166276895
+  },
+  {
+    "trial_index": 540,
+    "source": "automatic",
+    "true_col": 7,
+    "true_row": 2,
+    "pred_col_float": 7.02832125893757,
+    "pred_row_float": 1.5884311434032523
+  },
+  {
+    "trial_index": 541,
+    "source": "automatic",
+    "true_col": 12,
+    "true_row": 3,
+    "pred_col_float": 15.016329443772735,
+    "pred_row_float": 3.724373705222458
+  },
+  {
+    "trial_index": 542,
+    "source": "automatic",
+    "true_col": 9,
+    "true_row": 1,
+    "pred_col_float": 11.829466617056031,
+    "pred_row_float": 2.4350200344620534
+  },
+  {
+    "trial_index": 543,
+    "source": "automatic",
+    "true_col": 10,
+    "true_row": 6,
+    "pred_col_float": 7.9495056404378035,
+    "pred_row_float": 4.700506920793386
+  },
+  {
+    "trial_index": 544,
+    "source": "manual_user_confirmed",
+    "true_col": 6,
+    "true_row": 12,
+    "pred_col_float": 10.131113335461528,
+    "pred_row_float": 9.341653225107738
+  },
+  {
+    "trial_index": 545,
+    "source": "automatic",
+    "true_col": 10,
+    "true_row": 5,
+    "pred_col_float": 13.369312878714998,
+    "pred_row_float": 3.467722149216497
+  },
+  {
+    "trial_index": 546,
+    "source": "automatic",
+    "true_col": 9,
+    "true_row": 4,
+    "pred_col_float": 5.042407875626142,
+    "pred_row_float": 4.221371653600651
+  },
+  {
+    "trial_index": 547,
+    "source": "automatic",
+    "true_col": 11,
+    "true_row": 3,
+    "pred_col_float": 9.535971777055597,
+    "pred_row_float": 3.5371768910164625
+  },
+  {
+    "trial_index": 548,
+    "source": "automatic",
+    "true_col": 10,
+    "true_row": 7,
+    "pred_col_float": 10.15503769919732,
+    "pred_row_float": 7.634203329349392
+  },
+  {
+    "trial_index": 549,
+    "source": "automatic",
+    "true_col": 10,
+    "true_row": 1,
+    "pred_col_float": 11.231397321865032,
+    "pred_row_float": 2.2804947564261866
+  },
+  {
+    "trial_index": 550,
+    "source": "automatic",
+    "true_col": 3,
+    "true_row": 2,
+    "pred_col_float": 4.811388234716099,
+    "pred_row_float": 2.2120786935687557
+  },
+  {
+    "trial_index": 551,
+    "source": "automatic",
+    "true_col": 12,
+    "true_row": 12,
+    "pred_col_float": 12.804465138981294,
+    "pred_row_float": 9.047027782982454
+  },
+  {
+    "trial_index": 552,
+    "source": "automatic",
+    "true_col": 5,
+    "true_row": 8,
+    "pred_col_float": 13.236699090202544,
+    "pred_row_float": 7.024487139118053
+  },
+  {
+    "trial_index": 553,
+    "source": "automatic",
+    "true_col": 5,
+    "true_row": 0,
+    "pred_col_float": 8.173968353113358,
+    "pred_row_float": 3.5198602958925282
+  },
+  {
+    "trial_index": 554,
+    "source": "automatic",
+    "true_col": 12,
+    "true_row": 4,
+    "pred_col_float": 7.479237783143797,
+    "pred_row_float": 5.102362600045207
+  },
+  {
+    "trial_index": 555,
+    "source": "automatic",
+    "true_col": 3,
+    "true_row": 1,
+    "pred_col_float": 6.821928947832813,
+    "pred_row_float": 4.794754385151671
+  },
+  {
+    "trial_index": 556,
+    "source": "automatic",
+    "true_col": 10,
+    "true_row": 9,
+    "pred_col_float": 10.684217348275242,
+    "pred_row_float": 7.2727198523010665
+  },
+  {
+    "trial_index": 557,
+    "source": "automatic",
+    "true_col": 8,
+    "true_row": 0,
+    "pred_col_float": 5.292685304124362,
+    "pred_row_float": 3.333625907052949
+  },
+  {
+    "trial_index": 558,
+    "source": "automatic",
+    "true_col": 2,
+    "true_row": 4,
+    "pred_col_float": 5.963719935955373,
+    "pred_row_float": 4.011009605840483
+  },
+  {
+    "trial_index": 559,
+    "source": "automatic",
+    "true_col": 1,
+    "true_row": 3,
+    "pred_col_float": 5.860854248919608,
+    "pred_row_float": 3.864734453704574
+  },
+  {
+    "trial_index": 560,
+    "source": "automatic",
+    "true_col": 7,
+    "true_row": 7,
+    "pred_col_float": 10.620645307041448,
+    "pred_row_float": 3.3026717840078628
+  },
+  {
+    "trial_index": 561,
+    "source": "automatic",
+    "true_col": 19,
+    "true_row": 2,
+    "pred_col_float": 15.26101108551152,
+    "pred_row_float": 2.9800196071074745
+  },
+  {
+    "trial_index": 562,
+    "source": "automatic",
+    "true_col": 19,
+    "true_row": 1,
+    "pred_col_float": 10.649236973725225,
+    "pred_row_float": 4.106073337347651
+  },
+  {
+    "trial_index": 563,
+    "source": "automatic",
+    "true_col": 2,
+    "true_row": 3,
+    "pred_col_float": 8.324446506809405,
+    "pred_row_float": 4.929950574105771
+  },
+  {
+    "trial_index": 564,
+    "source": "automatic",
+    "true_col": 13,
+    "true_row": 4,
+    "pred_col_float": 13.370379228516908,
+    "pred_row_float": 1.973853497946682
+  },
+  {
+    "trial_index": 565,
+    "source": "automatic",
+    "true_col": 15,
+    "true_row": 12,
+    "pred_col_float": 14.959998678576778,
+    "pred_row_float": 9.43088049632876
+  },
+  {
+    "trial_index": 566,
+    "source": "automatic",
+    "true_col": 9,
+    "true_row": 7,
+    "pred_col_float": 9.21005318718933,
+    "pred_row_float": 7.895576803841953
+  },
+  {
+    "trial_index": 567,
+    "source": "automatic",
+    "true_col": 19,
+    "true_row": 3,
+    "pred_col_float": 11.227732969051354,
+    "pred_row_float": 3.6776655254879893
+  },
+  {
+    "trial_index": 568,
+    "source": "automatic",
+    "true_col": 10,
+    "true_row": 3,
+    "pred_col_float": 12.888971096141429,
+    "pred_row_float": 3.570222189711245
+  },
+  {
+    "trial_index": 569,
+    "source": "automatic",
+    "true_col": 15,
+    "true_row": 8,
+    "pred_col_float": 17.012801499299833,
+    "pred_row_float": 7.198815237782798
+  },
+  {
+    "trial_index": 570,
+    "source": "manual_user_confirmed",
+    "true_col": 15,
+    "true_row": 10,
+    "pred_col_float": 14.066355640770375,
+    "pred_row_float": 6.8685619195019845
+  },
+  {
+    "trial_index": 571,
+    "source": "automatic",
+    "true_col": 1,
+    "true_row": 6,
+    "pred_col_float": 6.800852163388652,
+    "pred_row_float": 5.735206956727228
+  },
+  {
+    "trial_index": 572,
+    "source": "automatic",
+    "true_col": 8,
+    "true_row": 4,
+    "pred_col_float": 6.141930676985792,
+    "pred_row_float": 3.9989406123340556
+  },
+  {
+    "trial_index": 573,
+    "source": "automatic",
+    "true_col": 3,
+    "true_row": 6,
+    "pred_col_float": 7.482156563151785,
+    "pred_row_float": 4.615099117137805
+  },
+  {
+    "trial_index": 574,
+    "source": "automatic",
+    "true_col": 6,
+    "true_row": 3,
+    "pred_col_float": 7.564094997698272,
+    "pred_row_float": 2.8602388844898843
+  },
+  {
+    "trial_index": 575,
+    "source": "automatic",
+    "true_col": 17,
+    "true_row": 4,
+    "pred_col_float": 9.702868643031115,
+    "pred_row_float": 2.909617331474139
+  }
+]
